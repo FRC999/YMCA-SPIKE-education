@@ -1,0 +1,16 @@
+# Local generation and rendering intermediates
+.build/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+~$*
+
+# Packaged copies of the repository
+/MechaRAMS-YMCA-Robotics-Fall-2026.zip

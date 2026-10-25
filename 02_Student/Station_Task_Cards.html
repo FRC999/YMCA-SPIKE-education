@@ -1,0 +1,82 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Station task cards</title><style>body{font:18px/1.55 Arial,sans-serif;color:#172f43;margin:0 auto;max-width:850px;padding:24px}h1{font-size:32px}h2{font-size:25px}section{border-bottom:1px solid #aaa;padding:20px 0 35px;margin-bottom:30px}li{margin:12px 0}pre{font:19px/1.8 Consolas,monospace;white-space:pre-wrap;padding:18px;border:1px solid #bbb}.space{height:130px} @media print{body{font-size:12pt;padding:0}section{page-break-after:always;border:0;margin:0;padding:0}section:last-child{page-break-after:auto}h1{font-size:22pt}pre{font-size:13pt}.intro{display:none}}</style><body><p class="intro">Print one card per pair for the current week. These tasks use no robot and keep both partners thinking during the shared-kit rotation.</p>
+<section><h1>Week 1: The order matters</h1><p>Pair ID __________ &nbsp; Both students contribute. Swap who explains.</p><ol>
+<li>Read the three actions below. Arrange them to make the robot welcome someone, wait, and then move.</li>
+<li>Trace the actions with a finger. Your partner acts as the robot.</li>
+<li>Trade the first and last actions. Explain how the behavior changes.</li>
+<li>Draw the robot. Label the part that stores the program and an output you can see.</li>
+</ol><pre>await drive(90)
+await signal(&quot;Y&quot;)
+await pause(500)</pre><h2>Our plan or explanation</h2><div class="space"></div><p>Before our next robot turn, we will try: ____________________________</p></section>
+<section><h1>Week 2: A delivery estimate</h1><p>Pair ID __________ &nbsp; Both students contribute. Swap who explains.</p><ol>
+<li>Draw a start line and a target 40 cm away.</li>
+<li>Practice with an example: 180 wheel degrees gives 9 cm. Predict travel for 360 and 720 degrees.</li>
+<li>Estimate a wheel-degree value for 40 cm. Explain how you chose it.</li>
+<li>After your robot turn, replace the example with your own measurements. Choose one next test.</li>
+</ol><pre>Example only
+180 wheel degrees: 9 cm
+360 wheel degrees: _____ cm
+720 wheel degrees: _____ cm
+40 cm target: _____ wheel degrees</pre><h2>Our plan or explanation</h2><div class="space"></div><p>Before our next robot turn, we will try: ____________________________</p></section>
+<section><h1>Week 3: A loop detective</h1><p>Pair ID __________ &nbsp; Both students contribute. Swap who explains.</p><ol>
+<li>Trace the example below three times.</li>
+<li>Count drives, turns, and D signals.</li>
+<li>Change the indentation so D appears once at the end.</li>
+<li>Describe one dance your robot could do with only two actions repeated.</li>
+</ol><pre>for beat in range(3):
+    await drive(90)
+    await turn(90)
+    await signal(&quot;D&quot;)</pre><h2>Our plan or explanation</h2><div class="space"></div><p>Before our next robot turn, we will try: ____________________________</p></section>
+<section><h1>Week 4: Parking decision cards</h1><p>Pair ID __________ &nbsp; Both students contribute. Swap who explains.</p><ol>
+<li>Use a threshold of 150 mm.</li>
+<li>Sort each reading into continue, park, or sensor check.</li>
+<li>Explain why -1 cannot be used as an actual gap.</li>
+<li>Predict what changes if the threshold becomes 200 mm.</li>
+</ol><pre>Readings in millimeters
+220     150     90     -1     170
+
+Continue: __________________
+Park: ______________________
+Sensor check: ______________</pre><h2>Our plan or explanation</h2><div class="space"></div><p>Before our next robot turn, we will try: ____________________________</p></section>
+<section><h1>Week 5: A threshold between two surfaces</h1><p>Pair ID __________ &nbsp; Both students contribute. Swap who explains.</p><ol>
+<li>The dark surface reads 12 and the light surface reads 76.</li>
+<li>Choose a threshold between them. Explain your choice.</li>
+<li>Use threshold 44 to classify readings 20, 44, 60, and 80. Our condition uses &lt;, so equality is not dark.</li>
+<li>Predict how the program behaves if the threshold is 5.</li>
+</ol><pre>if reading &lt; threshold:
+    await signal(&quot;M&quot;)
+
+Chosen threshold: _____
+Dark readings: _____________
+Other readings: ____________</pre><h2>Our plan or explanation</h2><div class="space"></div><p>Before our next robot turn, we will try: ____________________________</p></section>
+<section><h1>Week 6: Two plow designs</h1><p>Pair ID __________ &nbsp; Both students contribute. Swap who explains.</p><ol>
+<li>Sketch a flat bumper and a guide with short side walls.</li>
+<li>Circle one design to build. Label how it attaches to the base.</li>
+<li>Show where the color sensor can still see the floor.</li>
+<li>After testing, mark one feature you changed and explain the result.</li>
+</ol><pre>Keep the same cube, starting pose, and program.
+Change one mechanical feature.
+
+Our feature: __________________________
+Expected effect: ______________________</pre><h2>Our plan or explanation</h2><div class="space"></div><p>Before our next robot turn, we will try: ____________________________</p></section>
+<section><h1>Week 7: A mission blueprint</h1><p>Pair ID __________ &nbsp; Both students contribute. Swap who explains.</p><ol>
+<li>Name one community user and a useful robot job.</li>
+<li>Write at least three actions in order.</li>
+<li>Choose a result you can observe or measure.</li>
+<li>Identify the least certain part. Plan a small test before combining everything.</li>
+</ol><pre>User and need: ________________________
+1. ___________________________________
+2. ___________________________________
+3. ___________________________________
+Success means: ________________________
+First test: ___________________________</pre><h2>Our plan or explanation</h2><div class="space"></div><p>Before our next robot turn, we will try: ____________________________</p></section>
+<section><h1>Week 8: An explanation for an audience</h1><p>Pair ID __________ &nbsp; Both students contribute. Swap who explains.</p><ol>
+<li>Give each partner part of the explanation.</li>
+<li>Rehearse a 45-second introduction.</li>
+<li>Point to the sensor decision or loop in your saved code.</li>
+<li>Prepare one honest explanation if the robot misses its target.</li>
+</ol><pre>Our robot helps _______________________
+The program decides ___________________
+We tested _____________________________
+The result was ________________________
+Our next test would be _________________</pre><h2>Our plan or explanation</h2><div class="space"></div><p>Before our next robot turn, we will try: ____________________________</p></section>
+</body></html>

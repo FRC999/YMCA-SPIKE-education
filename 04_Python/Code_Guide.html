@@ -1,0 +1,50 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Python code guide</title><style>body{font:18px/1.6 Arial,sans-serif;max-width:1050px;margin:50px auto;padding:0 28px;color:#173044;background:#fafbf9}h1{font-size:42px;line-height:1.15}h2{margin-top:34px}a{color:#086389}table{border-collapse:collapse;width:100%;margin:20px 0}td,th{padding:12px;border:1px solid #cdd6db;text-align:left}th{background:#e6edef}code,pre{font-family:Consolas,monospace}pre{background:#eef2f3;padding:20px;white-space:pre-wrap}.note{color:#596875}li{margin:8px 0}@media print{body{margin:0;font-size:12px}a{color:black}}</style><body><h1>Python code guide</h1>
+<p>Use SPIKE App 3 Python on a SPIKE Prime hub. Paste the entire weekly source file into one new Python project. These are not desktop-Python programs or native SPIKE project bundles. Keep a known-good copy.</p>
+<p>Port map: A left wheel motor, B right wheel motor, C distance sensor, D color sensor. Trace cables physically. Any auxiliary attachment motor in the LEGO base remains unplugged for this program. Use the mentor smoke test before movement.</p>
+<p>Students edit the <code>student_recipe</code> function. Week 6 also has a named <code>deliver</code> function and its threshold. The support layer is supplied so beginners can focus on a few readable commands. Show its loops and conditions during the corresponding lesson.</p>
+<h2>Teaching commands</h2><pre>await signal("Y")
+await pause(500)
+await drive(180)
+await turn(90)
+result = await park(150)
+result = await seek_marker(40)</pre>
+<p>drive and turn use wheel degrees. turn(90) does not promise a 90-degree heading change. SPEED is wheel degrees per second. park uses millimeters. seek_marker uses reflected light on a 0–100 scale. Calibrate thresholds on the real surface.</p>
+<p>Support code limits drive to 0–1080 wheel degrees, pivots to -360–360 wheel degrees, parking thresholds to 100–250 mm, and reflection thresholds to 1–99. Parking permits 12 short steps, marker seeking 24. Each search takes a final sensor reading after its last allowed move. Keep these bounds.</p>
+<h2>Results to interpret</h2><p><code>near</code> means the parking threshold was reached. <code>marker</code> means the dark strip was detected. <code>invalid</code> means the distance sensor returned a negative reading and movement stopped. <code>limit</code> means the movement budget ended without a target detection. A limit is not mission success.</p>
+<h2>Offline checks and local rehearsal</h2><p>The package checks Python syntax, loop counts, sensor threshold boundaries, invalid distance readings, movement limits, and stopping on a simulated sensor exception with mock modules. These checks do not emulate motors, sensor noise, battery state, firmware, mounting, geometry, or real floor behavior. Complete the hardware acceptance record in the instructor guide.</p>
+<h2>Recipe reading cards</h2>
+<h3>Week 1: Meet your robot</h3><pre>await signal(&quot;Y&quot;)
+await pause(500)
+await drive(90)</pre><p>Number these actions in run order: drive, show Y, wait. What changes if the first and last lines trade places?</p>
+<h3>Week 2: Delivery to a target</h3><pre>travel = 180
+await drive(travel)
+await signal(&quot;D&quot;)</pre><p>If 180 wheel degrees travels about 9 cm on our floor, what might 360 do? Mark this as a prediction, not a promise.</p>
+<h3>Week 3: Robot dance studio</h3><pre>for beat in range(3):
+    await drive(90)
+    await turn(90)
+await signal(&quot;D&quot;)</pre><p>How many drives? How many turns? Does the final D repeat? Which indentation tells you?</p>
+<h3>Week 4: Parking assistant</h3><pre>stop_mm = 150
+gap = distance_sensor.distance(port.C)
+if 0 &lt;= gap &lt;= stop_mm:
+    await signal(&quot;P&quot;)</pre><p>At a 150 mm threshold, classify 220, 150, 90, and -1. Which readings mean near? Which means check the sensor?</p>
+<h3>Week 5: The floor tells the robot</h3><pre>threshold = 40
+reading = color_sensor.reflection(port.D)
+if reading &lt; threshold:
+    await signal(&quot;M&quot;)</pre><p>If dark reads 12 and light reads 76, is 44 a useful threshold? What happens if the threshold is below both readings?</p>
+<h3>Week 6: A rescue attachment</h3><pre>async def deliver():
+    await signal(&quot;R&quot;)
+    result = await seek_marker(threshold)
+    print(result)
+
+# inside student_recipe
+await deliver()</pre><p>Why might two short side guides keep a cube in front better than one flat beam? How could too much contact slow the robot?</p>
+<h3>Week 7: Community robot mission</h3><pre>mission = &quot;marker&quot;
+if mission == &quot;marker&quot;:
+    result = await seek_marker(threshold)
+else:
+    result = await park(stop_mm)
+print(result)</pre><p>Which part of your mission is most likely to fail? What small test could answer that before you run everything?</p>
+<h3>Week 8: Robot showcase</h3><pre>await signal(&quot;Y&quot;)
+result = await seek_marker(threshold)
+print(&quot;Our result:&quot;, result)</pre><p>Before the demo, predict the stop reason. What will you explain if the robot stops for a limit instead of detecting its target?</p>
+<p>Sources: official SPIKE App Python help, LEGO Cart Control, and the Tufts CEEO SPIKE 3 documentation archive. See the research source list for links. The short programs and helper layer are original teaching materials.</p></body></html>
