@@ -14,7 +14,7 @@ The [facilitator plan](Trainer_Session_Plan.md) contains the schedule and adult 
 | Code setup | [Code Guide](../04_Python/Code_Guide.html) | App, complete file, recipe area, units |
 | Lesson instructions | [Week 1 detailed speaker notes](W01_Detailed_Speaker_Notes.html) | What to say, ask, demonstrate, and do |
 | Student slides | [Week 1 deck with notes](../03_Presentations/W01_signal_with_speaker_notes.pptx) | Rehearse the lesson |
-| Student materials | [Workbook](../02_Student/Student_Workbook.docx) and [Week 1 station card](../02_Student/Station_Task_Cards.html) | Baseline and work away from the robot |
+| Student materials | [Workbook](../02_Student/Student_Workbook.md) and [Week 1 station card](../02_Student/Station_Task_Cards.html) | Baseline and work away from the robot |
 
 On GitHub, open a Python file and use **Raw** or download the file to copy its plain text. On a training computer, open the downloaded `.py` file in a text editor. HTML guides should be opened locally in a browser; GitHub normally shows their source. If the private repository is unavailable to a trainer, use the downloaded folder provided by the adult lead.
 

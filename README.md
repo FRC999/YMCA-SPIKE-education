@@ -2,6 +2,10 @@
 
 An eight-session LEGO SPIKE Prime robotics course for grades 7–8 at the Cheshire YMCA, led by MechaRAMS high-school mentors with adult supervision.
 
+## Continue on another computer
+
+Open [CONTINUE_HERE.md](CONTINUE_HERE.md) for clone/setup instructions and a copy-and-paste prompt for a new Codex chat. The repository carries [project context](PROJECT_CONTEXT.md), [AI instructions](AGENTS.md), a [project-local skill](.agents/skills/ymca-spike-maintenance/SKILL.md), and a [maintenance backlog](MAINTENANCE.md). Keep those files current as decisions and actual test results change.
+
 ## Trainer session
 
 For the two-hour, student-led preparation session, use the [facilitator plan](01_Instructor/Trainer_Session_Plan.md) and give each kit group the [student trainer work orders](01_Instructor/Trainer_Work_Orders.md). Start by assembling and testing both SPIKE bases, then rehearse Week 1 and practice teaching. The work orders include all build/program links and blank readiness records.
@@ -12,12 +16,12 @@ For the two-hour, student-led preparation session, use the [facilitator plan](01
 - [Week 1 presentation with detailed speaker notes](03_Presentations/W01_signal_with_speaker_notes.pptx)
 - [Week 1 printable speaker notes and assembly preparation](01_Instructor/W01_Detailed_Speaker_Notes.html)
 - [SPIKE teaching-base assembly instructions](06_References/LEGO_Practice_Driving_Base.pdf)
-- [Program proposal and resources](00_Start_Here/Program_Proposal_and_Resources.docx)
-- [Instructor and mentor guide](01_Instructor/Instructor_and_Mentor_Guide.docx)
-- [Student workbook](02_Student/Student_Workbook.docx)
-- [Evaluation and partner forms](05_Evaluation/Evaluation_and_Partner_Forms.docx)
+- [Program proposal and resources](00_Start_Here/Program_Proposal_and_Resources.md) · [Word download](00_Start_Here/Program_Proposal_and_Resources.docx)
+- [Instructor and mentor guide](01_Instructor/Instructor_and_Mentor_Guide.md) · [Word download](01_Instructor/Instructor_and_Mentor_Guide.docx)
+- [Student workbook](02_Student/Student_Workbook.md) · [Word download](02_Student/Student_Workbook.docx)
+- [Evaluation and partner forms](05_Evaluation/Evaluation_and_Partner_Forms.md) · [Word download](05_Evaluation/Evaluation_and_Partner_Forms.docx)
 
-Download or clone this repository and open `START_HERE.html` locally for a linked index of all materials. GitHub displays HTML source rather than the rendered teaching pages. Word and PowerPoint files can be downloaded and edited in their respective applications.
+The four core documents are readable directly on GitHub as Markdown, with matching Word downloads for printing and editing. Download or clone this repository and open `START_HERE.html` locally for a linked index of all materials. GitHub displays HTML source rather than the rendered teaching pages; open the HTML companions locally. PowerPoint files include speaker notes.
 
 ## Contents
 
@@ -54,7 +58,17 @@ Offline checks of the teaching programs and document layouts were completed duri
 
 ## Maintaining this repository
 
-Update `SESSION_PREP.md` as checks are completed, decisions change, or issues are found. Commit and push changes to share them with the team. This initial upload is a point-in-time sync; ongoing automatic synchronization is not configured.
+Follow [MAINTENANCE.md](MAINTENANCE.md). Update DOCX sources first, then regenerate their Markdown mirrors:
+
+```sh
+python scripts/sync_documents.py --write
+python scripts/sync_documents.py --check
+python -m unittest discover -s tests -v
+```
+
+The script needs Python 3.10+ and no extra packages. The [Document sync check](https://github.com/FRC999/YMCA-SPIKE-education/actions/workflows/document-sync.yml) runs on pushes and pull requests and flags missing or stale mirrors. It does not automatically rewrite files.
+
+Update `SESSION_PREP.md` with actual operational results and `PROJECT_CONTEXT.md` with material decisions and the next handoff. Commit and push all completed project updates, as requested by Alex. There is no background sync of an uncommitted local folder.
 
 Temporary rendering output and build caches in `.build/` are intentionally excluded. The local distribution ZIP is also excluded because its contents are already represented by individual files here.
 

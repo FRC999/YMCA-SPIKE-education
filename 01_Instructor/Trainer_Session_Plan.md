@@ -6,7 +6,7 @@ Use this plan for the student-trainer session on October 25, 2026. The first ass
 
 ## What already exists
 
-The [instructor guide](Instructor_and_Mentor_Guide.docx), under **Train the high school mentors**, and the [mentor workshop presentation](../03_Presentations/00_Mentor_Workshop.pptx) already contain a 120-minute workshop. That workshop samples the full eight-week course. Today’s plan replaces its agenda with more build time and a focused rehearsal of Week 1. Use the old slides selectively as references; do not try to deliver both workshops in two hours.
+The [instructor guide](Instructor_and_Mentor_Guide.md), under **Train the high school mentors**, and the [mentor workshop presentation](../03_Presentations/00_Mentor_Workshop.pptx) already contain a 120-minute workshop. That workshop samples the full eight-week course. Today’s plan replaces its agenda with more build time and a focused rehearsal of Week 1. Use the old slides selectively as references; do not try to deliver both workshops in two hours.
 
 The [Week 1 detailed notes](W01_Detailed_Speaker_Notes.html) and [Week 1 presentation with notes](../03_Presentations/W01_signal_with_speaker_notes.pptx) are the teaching materials the trainers will rehearse.
 
