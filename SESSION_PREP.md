@@ -2,6 +2,8 @@
 
 Updated: October 25, 2026
 
+Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (private). Initial upload completed October 25, 2026 using `atsekhan`. This folder is the local Git checkout; later changes require a commit and push.
+
 ## Current status and decisions
 
 - [x] Curriculum accepted (reported by Alex).
@@ -200,6 +202,7 @@ Keep personal EV3 equipment together as a separately labeled demo kit. For loose
 
 | Date | Update |
 |---|---|
+| 2026-10-25 | Created private FRC999/YMCA-SPIKE-education repository using atsekhan and uploaded curriculum, references, and prep tracker; added README and excluded temporary build/preview files. |
 | 2026-10-23 | Alex approved autonomous moving R3PTAR: creep, detect, hiss/strike, retreat, turn, resume. EV3 power-on passed; EV3 Home Edition installation located, launch/connection untested. |
 | 2026-10-23 | Curriculum accepted; moved to physical kit preparation. Two SPIKE kits available. EV3 Home and personal parts confirmed. Autonomous wow demo required. R3PTAR recommended, pending hardware/software check. |
 
@@ -214,6 +217,7 @@ Keep personal EV3 equipment together as a separately labeled demo kit. For loose
 - [EV3 user guide, including infrared proximity mode (PDF)](https://www.lego.com/cdn/cs/set/assets/bltbef4d6ce0f40363c/LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf)
 
 EV3 power-on is confirmed. Remaining physical inventory, builds and functional tests are pending until performed and recorded. This tracker distinguishes planned behavior from verified results.
+
 
 
 
