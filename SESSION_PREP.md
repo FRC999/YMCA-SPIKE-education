@@ -20,6 +20,15 @@ The existing curriculum assumes eight students, two kits, and two to four laptop
 
 Week 1 teaching materials: [detailed slide-by-slide notes and assembly preparation](01_Instructor/W01_Detailed_Speaker_Notes.html) and [presentation with embedded notes](03_Presentations/W01_signal_with_speaker_notes.pptx). Preassemble both SPIKE driving bases before students arrive. The first-session demonstration slot uses about three minutes for R3PTAR and two minutes for the SPIKE starter; the standalone EV3 rehearsal script below remains a five-minute maximum.
 
+## Student trainer preparation session
+
+Two hours confirmed for October 25, 2026. Use the [facilitator plan](01_Instructor/Trainer_Session_Plan.md) and [student trainer work orders](01_Instructor/Trainer_Work_Orders.md). This session begins with assembling and testing the two teaching bases, followed by Week 1 practice and individual teaching rehearsals. It replaces the broad mentor-workshop agenda for today.
+
+- [x] Prepare the two-hour session plan and independent work orders.
+- [ ] Conduct the workshop and record the result for each kit.
+- [ ] Record each trainer’s operating and teaching practice; assign follow-up where needed.
+- [ ] Assign first-session jobs, resolve kit blockers, and confirm storage/charging.
+
 ## Next work, in order
 
 1. Label the kits A and B; photograph each open kit before mixing or borrowing parts.
@@ -204,6 +213,7 @@ Keep personal EV3 equipment together as a separately labeled demo kit. For loose
 
 | Date | Update |
 |---|---|
+| 2026-10-25 | Added the two-hour trainer session plan and student-led work orders. First task: assemble and test both SPIKE bases. Blank kit and trainer records distinguish the planned session from completed checks. |
 | 2026-10-25 | Confirmed the first-session preassembly plan; added detailed notes for all seven Week 1 slides, a printable companion, and a revised presentation preserving the original. Hardware assembly and testing remain pending. |
 | 2026-10-25 | Created private FRC999/YMCA-SPIKE-education repository using atsekhan and uploaded curriculum, references, and prep tracker; added README and excluded temporary build/preview files. |
 | 2026-10-23 | Alex approved autonomous moving R3PTAR: creep, detect, hiss/strike, retreat, turn, resume. EV3 power-on passed; EV3 Home Edition installation located, launch/connection untested. |

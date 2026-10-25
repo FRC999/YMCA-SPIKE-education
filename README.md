@@ -2,6 +2,10 @@
 
 An eight-session LEGO SPIKE Prime robotics course for grades 7–8 at the Cheshire YMCA, led by MechaRAMS high-school mentors with adult supervision.
 
+## Trainer session
+
+For the two-hour, student-led preparation session, use the [facilitator plan](01_Instructor/Trainer_Session_Plan.md) and give each kit group the [student trainer work orders](01_Instructor/Trainer_Work_Orders.md). Start by assembling and testing both SPIKE bases, then rehearse Week 1 and practice teaching. The work orders include all build/program links and blank readiness records.
+
 ## Start here
 
 - [Session preparation tracker](SESSION_PREP.md): current decisions, kit inventory, hardware checks, autonomous EV3 R3PTAR demo, borrowed parts, and backlog.
