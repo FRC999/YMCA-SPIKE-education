@@ -1,79 +1,55 @@
-# MechaRAMS YMCA SPIKE Education
+# MechaRAMS YMCA robotics materials
 
-An eight-session LEGO SPIKE Prime robotics course for grades 7–8 at the Cheshire YMCA, led by MechaRAMS high-school mentors with adult supervision.
+Eight one-hour robotics sessions for **12 children in grades 5–6**, with two SPIKE Prime kits, four teams of three, 4–6 student instructors and an adult lead. Children build, test and explain; small prepared Python recipes support the robot missions.
 
-## Continue on another computer
+This repository is **public for reading**. Anyone can open or download these materials; only authorized collaborators can push changes. Keep completed attendance, assessment and family records in the approved private system.
 
-Open [CONTINUE_HERE.md](CONTINUE_HERE.md) for clone/setup instructions and a copy-and-paste prompt for a new Codex chat. The repository carries [project context](PROJECT_CONTEXT.md), [AI instructions](AGENTS.md), a [project-local skill](.agents/skills/ymca-spike-maintenance/SKILL.md), and a [maintenance backlog](MAINTENANCE.md). Keep those files current as decisions and actual test results change.
+## Prepare and practice
 
-## Trainer session
+- [How the four teams and roles work](01_Instructor/Grouping_and_Roles.md)
+- [What to print and bring each week](01_Instructor/Class_Preparation/README.md) · [Reusable kit](01_Instructor/Class_Preparation/Reusable_Kit.md)
+- [Hub light colors and patterns](06_References/SPIKE_Hub_Color_Guide.md) · [Printable hub guide](06_References/SPIKE_Hub_Color_Guide.pdf)
+- [Trainer session plan](01_Instructor/Trainer_Session_Plan.md) · [Trainer work orders](01_Instructor/Trainer_Work_Orders.md)
+- [All presentations](03_Presentations/README.md) · [All speaker notes in DOCX and Markdown](01_Instructor/Speaker_Notes/README.md)
 
-For the two-hour, student-led preparation session, use the [facilitator plan](01_Instructor/Trainer_Session_Plan.md) and give each kit group the [student trainer work orders](01_Instructor/Trainer_Work_Orders.md). Start by assembling and testing both SPIKE bases, then rehearse Week 1 and practice teaching. The work orders include all build/program links and blank readiness records.
+The links below open Markdown or PDF reading copies on GitHub. PPTX and DOCX remain available for editing. PDFs do not provide Presenter View; use the speaker-note link while practicing, or download the PPTX for slideshow delivery. Download the required files before class if internet access is uncertain. GitHub renders PDF files directly ([GitHub documentation](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files)).
 
-## Start here
+## Weekly materials
 
-- [Speaker notes for all eight classes](01_Instructor/Speaker_Notes/README.md): separate DOCX and Markdown files with slide-by-slide scripts and timing.
-- [Interactive prep checklist](SESSION_PREP_CHECKLIST.html) · [Open, save and sync instructions](CHECKLIST_INSTRUCTIONS.md): open locally, check tasks, save the prep file, then commit and push.
+| Class | Slides | Speaker notes | Team sheet | Build card | Print and bring | Program |
+|---|---|---|---|---|---|---|
+| 1 Meet your robot | [PDF](03_Presentations/W01_signal.pdf) | [Read](01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.md) | [PDF](02_Student/Printouts/W01_signal_Team_Sheet.pdf) | [Read](02_Student/Printouts/W01_signal_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W01_signal_Checklist.md) | [Python](04_Python/W01_signal.py) |
+| 2 Delivery to a target | [PDF](03_Presentations/W02_delivery.pdf) | [Read](01_Instructor/Speaker_Notes/W02_delivery_Speaker_Notes.md) | [PDF](02_Student/Printouts/W02_delivery_Team_Sheet.pdf) | [Read](02_Student/Printouts/W02_delivery_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W02_delivery_Checklist.md) | [Python](04_Python/W02_delivery.py) |
+| 3 Robot dance studio | [PDF](03_Presentations/W03_dance.pdf) | [Read](01_Instructor/Speaker_Notes/W03_dance_Speaker_Notes.md) | [PDF](02_Student/Printouts/W03_dance_Team_Sheet.pdf) | [Read](02_Student/Printouts/W03_dance_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W03_dance_Checklist.md) | [Python](04_Python/W03_dance.py) |
+| 4 Parking assistant | [PDF](03_Presentations/W04_parking.pdf) | [Read](01_Instructor/Speaker_Notes/W04_parking_Speaker_Notes.md) | [PDF](02_Student/Printouts/W04_parking_Team_Sheet.pdf) | [Read](02_Student/Printouts/W04_parking_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W04_parking_Checklist.md) | [Python](04_Python/W04_parking.py) |
+| 5 The floor tells the robot | [PDF](03_Presentations/W05_marker.pdf) | [Read](01_Instructor/Speaker_Notes/W05_marker_Speaker_Notes.md) | [PDF](02_Student/Printouts/W05_marker_Team_Sheet.pdf) | [Read](02_Student/Printouts/W05_marker_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W05_marker_Checklist.md) | [Python](04_Python/W05_marker.py) |
+| 6 A rescue attachment | [PDF](03_Presentations/W06_rescue.pdf) | [Read](01_Instructor/Speaker_Notes/W06_rescue_Speaker_Notes.md) | [PDF](02_Student/Printouts/W06_rescue_Team_Sheet.pdf) | [Read](02_Student/Printouts/W06_rescue_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W06_rescue_Checklist.md) | [Python](04_Python/W06_rescue.py) |
+| 7 Community robot mission | [PDF](03_Presentations/W07_mission.pdf) | [Read](01_Instructor/Speaker_Notes/W07_mission_Speaker_Notes.md) | [PDF](02_Student/Printouts/W07_mission_Team_Sheet.pdf) | [Read](02_Student/Printouts/W07_mission_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W07_mission_Checklist.md) | [Python](04_Python/W07_mission.py) |
+| 8 Robot showcase | [PDF](03_Presentations/W08_showcase.pdf) | [Read](01_Instructor/Speaker_Notes/W08_showcase_Speaker_Notes.md) | [PDF](02_Student/Printouts/W08_showcase_Team_Sheet.pdf) | [Read](02_Student/Printouts/W08_showcase_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W08_showcase_Checklist.md) | [Python](04_Python/W08_showcase.py) |
 
-- [Session preparation tracker](SESSION_PREP.md): current decisions, kit inventory, hardware checks, autonomous EV3 R3PTAR demo, borrowed parts, and backlog.
-- [Week 1 presentation with detailed speaker notes](03_Presentations/W01_signal_with_speaker_notes.pptx)
-- [Week 1 printable speaker notes and assembly preparation](01_Instructor/W01_Detailed_Speaker_Notes.html)
-- [SPIKE teaching-base assembly instructions](06_References/LEGO_Practice_Driving_Base.pdf)
-- [Program proposal and resources](00_Start_Here/Program_Proposal_and_Resources.md) · [Word download](00_Start_Here/Program_Proposal_and_Resources.docx)
-- [Instructor and mentor guide](01_Instructor/Instructor_and_Mentor_Guide.md) · [Word download](01_Instructor/Instructor_and_Mentor_Guide.docx)
-- [Student workbook](02_Student/Student_Workbook.md) · [Word download](02_Student/Student_Workbook.docx)
-- [Evaluation and partner forms](05_Evaluation/Evaluation_and_Partner_Forms.md) · [Word download](05_Evaluation/Evaluation_and_Partner_Forms.docx)
+## Core references
 
-The four core documents are readable directly on GitHub as Markdown, with matching Word downloads for printing and editing. Download or clone this repository and open `START_HERE.html` locally for a linked index of all materials. GitHub displays HTML source rather than the rendered teaching pages; open the HTML companions locally. PowerPoint files include speaker notes.
+- Program plan and resources: [Read](00_Start_Here/Program_Proposal_and_Resources.md) · [Print PDF](00_Start_Here/Program_Proposal_and_Resources.pdf) · [Edit Word](00_Start_Here/Program_Proposal_and_Resources.docx)
+- Instructor and mentor guide: [Read](01_Instructor/Instructor_and_Mentor_Guide.md) · [Print PDF](01_Instructor/Instructor_and_Mentor_Guide.pdf) · [Edit Word](01_Instructor/Instructor_and_Mentor_Guide.docx)
+- Student workbook: [Read](02_Student/Student_Workbook.md) · [Print PDF](02_Student/Student_Workbook.pdf) · [Edit Word](02_Student/Student_Workbook.docx)
+- Evaluation and blank partner forms: [Read](05_Evaluation/Evaluation_and_Partner_Forms.md) · [Print PDF](05_Evaluation/Evaluation_and_Partner_Forms.pdf) · [Edit Word](05_Evaluation/Evaluation_and_Partner_Forms.docx)
+- [Python code guide](04_Python/Code_Guide.md) · [Research sources](06_References/Research_Sources.md)
+- [Official LEGO base assembly PDF](06_References/LEGO_Practice_Driving_Base.pdf)
+- [Baseline check](02_Student/Printouts/Baseline.pdf) · [Final check](02_Student/Printouts/Final_Check.pdf) · [Role cards](02_Student/Printouts/Role_Cards.pdf) · [Attendance](02_Student/Printouts/Attendance.pdf)
 
-## Contents
+## Preparation status and maintenance
 
-| Folder | Materials |
-|---|---|
-| `00_Start_Here` | Program proposal |
-| `01_Instructor` | Detailed instructor and mentor guide |
-| `02_Student` | Workbook and printable station task cards |
-| `03_Presentations` | Proposal, mentor workshop, and eight weekly slide decks |
-| `04_Python` | Eight lesson programs, two diagnostics, and code guide |
-| `05_Evaluation` | Evaluation and partner forms |
-| `06_References` | Research sources and official LEGO practice driving-base instructions |
+[SESSION_PREP.md](SESSION_PREP.md) holds actual operational results. Use the local [interactive checklist](SESSION_PREP_CHECKLIST.html) with the [save and sync instructions](CHECKLIST_INSTRUCTIONS.md). GitHub shows HTML source; download/clone and open HTML pages locally. The Markdown/PDF links above are the browser-reading path.
 
-## Course sequence
+Both SPIKE bases stay assembled with left drive motor A and right B. Keep the auxiliary motor unplugged; later lessons add C/D sensors. The separate EV3 R3PTAR is an autonomous demonstration, not a replacement teaching kit. Offline checks cannot certify physical readiness. Rehearse both robots and record actual results. Dates remain unconfirmed.
 
-1. Signals and instruction order
-2. Delivery and distance calibration
-3. Dance and counted loops
-4. Parking with distance sensing
-5. Detecting a floor marker
-6. Building a rescue attachment
-7. Community robot mission
-8. Showcase and reflection
-
-The baseline plan uses two SPIKE Prime kits, eight students, and eight one-hour sessions. Dates, final enrollment, devices, and staffing still need confirmation. The original proposal calendar is provisional; consult the preparation tracker for current status.
-
-## Hardware and programming
-
-The lesson programs target **SPIKE App 3 Python**, using its `hub`, `motor_pair`, and `runloop` APIs. They are intended to be transferred to SPIKE Prime hubs, not executed as ordinary desktop Python programs. See [the code guide](04_Python/Code_Guide.html).
-
-The separate first-session demonstration uses **EV3 Home R3PTAR** with a planned autonomous creep → detect → hiss/strike → retreat → turn sequence. EV3 power-on has been confirmed and EV3 Home Edition software located. Motor/sensor tests, software connection, assembly, and demonstration programming remain to be completed.
-
-Offline checks of the teaching programs and document layouts were completed during preparation. Physical behavior must still be rehearsed on both actual SPIKE kits. No EV3 demo program is included yet.
-
-## Maintaining this repository
-
-Follow [MAINTENANCE.md](MAINTENANCE.md). Update DOCX sources first, then regenerate their Markdown mirrors:
+For another computer or Codex chat, use [CONTINUE_HERE.md](CONTINUE_HERE.md), [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md), [AGENTS.md](AGENTS.md) and [MAINTENANCE.md](MAINTENANCE.md). DOCX is the editorial source for paired documents. After edits, regenerate Markdown and update affected PDF views:
 
 ```sh
 python scripts/sync_documents.py --write
 python scripts/sync_documents.py --check
+python scripts/check_reading_copies.py
 python -m unittest discover -s tests -v
 ```
 
-The script needs Python 3.10+ and no extra packages. The [Document sync check](https://github.com/FRC999/YMCA-SPIKE-education/actions/workflows/document-sync.yml) runs on pushes and pull requests and flags missing or stale mirrors. It does not automatically rewrite files.
-
-Update `SESSION_PREP.md` with actual operational results and `PROJECT_CONTEXT.md` with material decisions and the next handoff. Commit and push all completed project updates, as requested by Alex. There is no background sync of an uncommitted local folder.
-
-Temporary rendering output and build caches in `.build/` are intentionally excluded. The local distribution ZIP is also excluded because its contents are already represented by individual files here.
-
-LEGO and FIRST reference materials retain their owners' rights. Their inclusion does not grant a new license to those materials. This is an independent MechaRAMS teaching resource; no blanket license has been assigned to the repository.
-
+Commit and push completed changes. Temporary renders and caches in `.build/` stay out of Git. This is an independent teaching resource; LEGO and FIRST materials retain their owners’ rights. Public access does not assign a blanket license.

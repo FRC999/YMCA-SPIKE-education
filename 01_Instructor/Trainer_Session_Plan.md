@@ -6,9 +6,9 @@ Use this plan for the student-trainer session on October 25, 2026. The first ass
 
 ## What already exists
 
-The [instructor guide](Instructor_and_Mentor_Guide.md), under **Train the high school mentors**, and the [mentor workshop presentation](../03_Presentations/00_Mentor_Workshop.pptx) already contain a 120-minute workshop. That workshop samples the full eight-week course. Today’s plan replaces its agenda with more build time and a focused rehearsal of Week 1. Use the old slides selectively as references; do not try to deliver both workshops in two hours.
+The [instructor guide](Instructor_and_Mentor_Guide.md), under **Train the high school mentors**, and the [mentor workshop presentation](../03_Presentations/00_Mentor_Workshop.pdf) already contain a 120-minute workshop. That workshop samples the full eight-week course. Today’s plan replaces its agenda with more build time and a focused rehearsal of Week 1. Use the old slides selectively as references; do not try to deliver both workshops in two hours.
 
-The [Week 1 detailed notes](W01_Detailed_Speaker_Notes.html) and [Week 1 presentation with notes](../03_Presentations/W01_signal_with_speaker_notes.pptx) are the teaching materials the trainers will rehearse.
+The [Week 1 detailed notes](Speaker_Notes/W01_signal_Speaker_Notes.md) and [Week 1 presentation with notes](../03_Presentations/W01_signal.pdf) are the teaching materials the trainers will rehearse.
 
 ## Outcomes by the end
 
@@ -94,9 +94,13 @@ Assign these jobs before leaving. One person may hold several jobs, but avoid gi
 | Kit A student rotations and coaching | ______ | First session practice blocks |
 | Kit B student rotations and coaching | ______ | First session practice blocks |
 | R3PTAR build/program/rehearsal and demo operation | ______ | Ready before class; about 3 minutes in the demo slot |
-| Baseline/workbook printing and pair IDs | ______ | Before class |
+| Baseline/workbook printing and team IDs | ______ | Before class |
 | Timer, role-switch announcements, and transitions | ______ | During class |
 | Save work, storage, and post-session issue log | ______ | Final six minutes and after dismissal |
 | Adult supervision and YMCA procedures | ______ | Throughout |
 
 Keep both SPIKE bases assembled. Save the group records, photograph the final wiring without including people, and transfer confirmed results and open issues into [SESSION_PREP.md](../SESSION_PREP.md). The planning files are in GitHub; actual readiness is established by today’s recorded tests.
+
+## October 25 feedback and current class plan
+
+Student instructors practiced and supplied feedback. The class is now confirmed as 12 children in grades 5–6 with 4–6 student instructors and four available laptops. Read [Grouping and roles](Grouping_and_Roles.md), rehearse three rotating jobs, and use [the Week 1 print-and-bring checklist](Class_Preparation/W01_signal_Checklist.md). Actual kit test results and individual readiness records remain to be supplied.

@@ -11,12 +11,12 @@ The [facilitator plan](Trainer_Session_Plan.md) contains the schedule and adult 
 | Build instructions | [Official Practice Driving Base PDF](../06_References/LEGO_Practice_Driving_Base.pdf) | Assemble one robot per kit; 37 pages, steps 1–34 |
 | Motor test source | [00_mentor_smoke_test.py](../04_Python/00_mentor_smoke_test.py) | First motor check, wheels raised |
 | Full Week 1 program | [W01_signal.py](../04_Python/W01_signal.py) | Letter, wait, short move |
-| Code setup | [Code Guide](../04_Python/Code_Guide.html) | App, complete file, recipe area, units |
-| Lesson instructions | [Week 1 detailed speaker notes](W01_Detailed_Speaker_Notes.html) | What to say, ask, demonstrate, and do |
-| Student slides | [Week 1 deck with notes](../03_Presentations/W01_signal_with_speaker_notes.pptx) | Rehearse the lesson |
-| Student materials | [Workbook](../02_Student/Student_Workbook.md) and [Week 1 station card](../02_Student/Station_Task_Cards.html) | Baseline and work away from the robot |
+| Code setup | [Code Guide](../04_Python/Code_Guide.md) | App, complete file, recipe area, units |
+| Lesson instructions | [Week 1 detailed speaker notes](Speaker_Notes/W01_signal_Speaker_Notes.md) | What to say, ask, demonstrate, and do |
+| Student slides | [Week 1 deck with notes](../03_Presentations/W01_signal.pdf) | Rehearse the lesson |
+| Student materials | [Workbook](../02_Student/Student_Workbook.md) and [Week 1 station card](../02_Student/Station_Task_Cards.md) | Baseline and work away from the robot |
 
-On GitHub, open a Python file and use **Raw** or download the file to copy its plain text. On a training computer, open the downloaded `.py` file in a text editor. HTML guides should be opened locally in a browser; GitHub normally shows their source. If the private repository is unavailable to a trainer, use the downloaded folder provided by the adult lead.
+On GitHub, open a Python file and use **Raw** or download the file to copy its plain text. On a training computer, open the downloaded `.py` file in a text editor. HTML guides should be opened locally in a browser; GitHub normally shows their source. The repository is public for reading; use Markdown and PDF links directly, and keep offline copies for the session.
 
 ## When you need help
 
@@ -91,9 +91,9 @@ If someone finishes quickly, have them act as the navigator and ask questions. D
 
 **Target: minutes 80–90. Read selectively, not the entire instructor manual.**
 
-1. Everyone reads the **Preparation and assembly** section and **slides 3–5** in the [Week 1 detailed notes](W01_Detailed_Speaker_Notes.html).
+1. Everyone reads the **Preparation and assembly** section and **slides 3–5** in the [Week 1 detailed notes](Speaker_Notes/W01_signal_Speaker_Notes.md).
 2. Divide the remaining sections: one trainer reads slides 1–2, another reads slides 6–7. With more trainers, split those sections further. Each reader gives the group a thirty-second explanation of the important timing or task.
-3. Open the **Week 1 station task card**. Do the paper action-order activity together. Notice that swapping the first and last actions differs from moving the last action to the top. Say which operation you want the learner to perform.
+3. Open the **Week 1 station task card**. Build and hand-test the removable mascot using a clearance template. At the robot, practice the short prediction and result record. Notice that swapping first and last actions differs from moving the last action to the top; say which operation you mean.
 4. Each trainer prepares a three-minute teaching attempt using the recipe. Include:
    - One plain-language explanation.
    - One prediction question and time for the learner to answer.
@@ -180,3 +180,7 @@ This certifies only the recorded Week 1 checks. Later sensor lessons still need 
 | ______ | ______ | ______ | ______ | ______ | ______ |
 
 Adult follow-up: record who can lead a kit station and who will assist until another practice check. Transfer actual kit results and open issues into the [preparation tracker](../SESSION_PREP.md).
+
+## October 25 feedback and current class plan
+
+Student instructors practiced and supplied feedback. The class is now confirmed as 12 children in grades 5–6 with 4–6 student instructors and four available laptops. Read [Grouping and roles](Grouping_and_Roles.md), rehearse three rotating jobs, and use [the Week 1 print-and-bring checklist](Class_Preparation/W01_signal_Checklist.md). Actual kit test results and individual readiness records remain to be supplied.

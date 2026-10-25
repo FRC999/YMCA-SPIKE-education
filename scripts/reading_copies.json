@@ -1,0 +1,413 @@
+{
+  "version": 1,
+  "copies": [
+    {
+      "output": "00_Start_Here/Program_Proposal_and_Resources.pdf",
+      "sha256": "fd5b92b4da0253289e2a63b054643bcd5104c2e929edf6ada652a1d6578e6a40",
+      "sources": {
+        "00_Start_Here/Program_Proposal_and_Resources.docx": "13d05cd47c41cbb0aae6ae85d2ed0adfe9154e34a0c594b6594632609e4d3e8b"
+      }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W01_signal_Checklist.pdf",
+      "sha256": "f34fc5c4dd4577795317feae73327d3ae25e5dbb444a9ef4b1caa9636742c99c",
+      "sources": {
+        "01_Instructor/Class_Preparation/W01_signal_Checklist.md": "f5dcb123759dab19d33b4e3f11749156c7e143514a3de0596223520f1d9522bd",
+        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
+      }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W02_delivery_Checklist.pdf",
+      "sha256": "6514722eb10ed6e44691bc2397444b9f0d4d65440ea01846359ecb05ad15ec8e",
+      "sources": {
+        "01_Instructor/Class_Preparation/W02_delivery_Checklist.md": "b7766bd514ce21f4d117f24a634a02c8a4961d4669c72b815bf0862a95241b11",
+        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
+      }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W03_dance_Checklist.pdf",
+      "sha256": "94d91323097e81078b69bc60ab4fdbd1fbe7e20a19d60f5bb8723674a1aa427e",
+      "sources": {
+        "01_Instructor/Class_Preparation/W03_dance_Checklist.md": "fc201ae2baa24baa0a52d327946b3b5c10abfb56455ddfcd93240ff2f732d1d6",
+        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
+      }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W04_parking_Checklist.pdf",
+      "sha256": "0596a46697256d0c7e57bcf895e4ef3467e9b5425dd750266dc5fecc88819c68",
+      "sources": {
+        "01_Instructor/Class_Preparation/W04_parking_Checklist.md": "d6b912348f70b4b7eca7ffa355f720ffdf87c5b9a4aafb5f97770b1fb0d7ce53",
+        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
+      }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W05_marker_Checklist.pdf",
+      "sha256": "44afaad9069e81a6da50efc7ee2d0cfb033502299c781ad9b37f49494f93ec98",
+      "sources": {
+        "01_Instructor/Class_Preparation/W05_marker_Checklist.md": "d7b39a13b7f727ba1dd98205fb8a322a0c7d7db897ad11971b3663db98515180",
+        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
+      }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W06_rescue_Checklist.pdf",
+      "sha256": "bb9c125e6d641438718bd8aac7f1c5d6e3f71d55ae61aa244356c9124036014a",
+      "sources": {
+        "01_Instructor/Class_Preparation/W06_rescue_Checklist.md": "fa0ebff4239bf86eae9a2af1f36ccde8809f200fb9c31f8cca5d5e9f51f1bb28",
+        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
+      }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W07_mission_Checklist.pdf",
+      "sha256": "7fe778399022e5f183d737e80170a118982ea3bb3c22ba112e45520383db6a42",
+      "sources": {
+        "01_Instructor/Class_Preparation/W07_mission_Checklist.md": "382634fb257ebacfe8b777bb21341bf81b3a28425619c2ee439f40fb19938e9b",
+        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
+      }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W08_showcase_Checklist.pdf",
+      "sha256": "2656c74372407f662fd8d87d77f6f3aa242c696f1c09c5789695137452871daa",
+      "sources": {
+        "01_Instructor/Class_Preparation/W08_showcase_Checklist.md": "a7053eb7b16fcb69f8ae857db207c540837ff0cf28b132f2ab9bf893a45f7b4d",
+        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
+      }
+    },
+    {
+      "output": "01_Instructor/Instructor_and_Mentor_Guide.pdf",
+      "sha256": "6f482d9e95f1174213f14e412ded40d465bcbb8b2d9d14a7aa7270028d4c3591",
+      "sources": {
+        "01_Instructor/Instructor_and_Mentor_Guide.docx": "af3793c681bed31ef9bbd43012a5bb83b74d3451d68ff4f6ace2c10288508e1c"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/Attendance.pdf",
+      "sha256": "3124039f37df9eb6f362773b03feb9aa68f7df128d284abefed2e8b59ced8bc7",
+      "sources": {
+        "05_Evaluation/Evaluation_and_Partner_Forms.docx": "74da94926808d898dcb468bd9f9c5d23155fd8358758eeea93def8db858395c0"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/Baseline.pdf",
+      "sha256": "e34e20c786020d5d5644eb909e2a51a97baf45b461568917ed742068df5de5af",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/Final_Check.pdf",
+      "sha256": "6a982182cdb3ccd220185c34cd83932238647e60a746b6e259b28443490a74d8",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/Role_Cards.pdf",
+      "sha256": "646363c5a279711fd4552bceced6dbbc2566e8b98ca18064decaee54314ba9f1",
+      "sources": {
+        "01_Instructor/Grouping_and_Roles.md": "c4a1a130484314b8c0214e37dd7b39afb5890a1dc297ba1f6f3f1a090bbdffc6"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W01_signal_Build_Card.pdf",
+      "sha256": "5324b5bca26fb3cd64685be6c9d8f9885a64d878cf308b2d7035e2ab00c0290f",
+      "sources": {
+        "02_Student/Printouts/W01_signal_Build_Card.md": "671951837bda7f912daed0cb039d83de68c95815a8953f7268e9705da6345402"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W01_signal_Team_Sheet.pdf",
+      "sha256": "69502d98e13baa3c12ff8a8f6f3245073ea33e7306541d70ed4f691c0076dfdf",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W02_delivery_Build_Card.pdf",
+      "sha256": "61dd3c824bf17aab0ef680ba59d1c559203f9e71bfbbe4d81c2e37edfe2282d6",
+      "sources": {
+        "02_Student/Printouts/W02_delivery_Build_Card.md": "e72933ccda0452e17f4a07d93771fecb62da713d47ece111ede12d2d5dfb8f5f"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W02_delivery_Team_Sheet.pdf",
+      "sha256": "419e35e2c0ec2a19fdc2883f61c1b5003ca94a372d8480e2371dd16d6e416109",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W03_dance_Build_Card.pdf",
+      "sha256": "e324d59b1f00ee30f7f403477d7aacc1e0d02c3a0c9bff7ee6d12f6d3796e5f1",
+      "sources": {
+        "02_Student/Printouts/W03_dance_Build_Card.md": "ba67c0e323aa91e310ab7a96211f7b3fe6da05f2fdd63743aa1e022398abb925"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W03_dance_Team_Sheet.pdf",
+      "sha256": "fc7084be6cb92b43dc4368d1536010440e5a4594ec3f82d9ee1ea1f04dc284ee",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W04_parking_Build_Card.pdf",
+      "sha256": "be90433544584cfd37e1582f651aa77a19df83210d713949ecb81493f9aec7ab",
+      "sources": {
+        "02_Student/Printouts/W04_parking_Build_Card.md": "be9e9b56f5c79c9b950dcdeeee93401d459bc10ce43c0240840945db2025f4d8"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W04_parking_Team_Sheet.pdf",
+      "sha256": "52d908c282bd513c2bb088df6d74714d29a11cab45964118e9ac0bd1b486990a",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W05_marker_Build_Card.pdf",
+      "sha256": "8e2fc49504a42edc00476731f803eb12aca2aa5eab04af9a9d3f88059b6f60b1",
+      "sources": {
+        "02_Student/Printouts/W05_marker_Build_Card.md": "2d6b3d4a91f5473435c954302fd068d82fb8329e09486ebacf248c2450e6f272"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W05_marker_Team_Sheet.pdf",
+      "sha256": "93a9779caddfb22975ee7197ada3566d3b0c1e8e3f5809d6f74d7784f314428e",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W06_rescue_Build_Card.pdf",
+      "sha256": "fe0230ccd796540777bfccc24932d547da8afa3da3bf87be94f5958dd5ef7c46",
+      "sources": {
+        "02_Student/Printouts/W06_rescue_Build_Card.md": "ef499c6149d6400a715a4926ace3449215d77024ccd0af2edf5065ad0d1c930b"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W06_rescue_Team_Sheet.pdf",
+      "sha256": "816121c320e6d953a84193ba86852f7cbf5fbdb5765496b3afc5ccbb4bc57b0a",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W07_mission_Build_Card.pdf",
+      "sha256": "d956133f244bfaac51f4def6629ef6f55c260c1101507a8da1e0afcdbb708cd4",
+      "sources": {
+        "02_Student/Printouts/W07_mission_Build_Card.md": "038e2746e297907e0f46f65429013b79551ac7e1998dd8a5db7683b51858c2b6"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W07_mission_Team_Sheet.pdf",
+      "sha256": "6517a174703e3201ef7bc665c3ef0bc1bce21e929aafa6a19e76e5a13bead93a",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W08_showcase_Build_Card.pdf",
+      "sha256": "0eb1ad804a86bac263e6028e17dc63763302abdcbd602c0ea7d36a6e675b9e0a",
+      "sources": {
+        "02_Student/Printouts/W08_showcase_Build_Card.md": "6b0833da86bb9e62e0b094e2c246fab13889d9e2a9bf3be06b518afbb2c3af0d"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W08_showcase_Team_Sheet.pdf",
+      "sha256": "2830aea538ab52ffac6dbab0d94017ba9e75128bb2476cb2c234d96f71a1895d",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "02_Student/Student_Workbook.pdf",
+      "sha256": "ff3fa92cf581b9f14709eeaebda71287ba46fe7175ce28c8f74dbb0f441aac57",
+      "sources": {
+        "02_Student/Student_Workbook.docx": "87bd71d64fcafe996b75f3c99d26cfb5576c093e0ff16903990b2d7780a271cf"
+      }
+    },
+    {
+      "output": "03_Presentations/00_Mentor_Workshop.pdf",
+      "sha256": "a8520ae4bfdc2a22a7497d2f31e1ef37c6fc15bc90d48fefac40a45e94178691",
+      "sources": {
+        "03_Presentations/00_Mentor_Workshop.pptx": "dad95c6b10a5e5a1c983ebf41eaff44d03252bd6fd7e4956cad1806ee23ce9a0"
+      }
+    },
+    {
+      "output": "03_Presentations/00_Program_Proposal.pdf",
+      "sha256": "6824046fca76acd1ee91b9e7f48b78e71f3480adf18b5f2d0d3ef257b62d5c3a",
+      "sources": {
+        "03_Presentations/00_Program_Proposal.pptx": "54bfc5c07e7e25055ab9ff27190bc0585c5be6a39b3fab3356751a43660fcb9b"
+      }
+    },
+    {
+      "output": "03_Presentations/W01_signal.pdf",
+      "sha256": "555d22875a3fd4f8a9be085d087609805a58648a1a7ca840013eef55e11677b0",
+      "sources": {
+        "03_Presentations/W01_signal.pptx": "8ced6998989674e023848c09e1e7b91931a480cb476cd47880f68f5d7ab04f11"
+      }
+    },
+    {
+      "output": "03_Presentations/W02_delivery.pdf",
+      "sha256": "9be1737724761310f3e164e652d8c857ea1a38e2d07ef5327ab6c584efadd2b2",
+      "sources": {
+        "03_Presentations/W02_delivery.pptx": "fef83eba5e2aa277d00dcc32059c9d024a3a9c3a89a9c360e14865d151b6ff88"
+      }
+    },
+    {
+      "output": "03_Presentations/W03_dance.pdf",
+      "sha256": "4afd5cbcf4f7ed899c48751d8396fc1ad34709b5a005bf657d7d18ab289d92b9",
+      "sources": {
+        "03_Presentations/W03_dance.pptx": "d2a02b23d6cb2d6845f5255a3b255c1bd9488193ef7cbbd86959eb0bb29bfa84"
+      }
+    },
+    {
+      "output": "03_Presentations/W04_parking.pdf",
+      "sha256": "8a4e4f4be41f1141407c3df3df706fd2e63aa784e5ec3651c108c63016b021c9",
+      "sources": {
+        "03_Presentations/W04_parking.pptx": "42df19ab64b9d7ee69890a748a65f7cfa33a6f63e5ed8f03610fe78aa1bf5978"
+      }
+    },
+    {
+      "output": "03_Presentations/W05_marker.pdf",
+      "sha256": "4f2c9eceff9b2419a8348b93f90decb8bffe6b8bf616d46898fc865bd0649fd1",
+      "sources": {
+        "03_Presentations/W05_marker.pptx": "142c56c55a6483c5ece35a7c56fc6ee2d2fa4a173d64e43d81711f69dab6c147"
+      }
+    },
+    {
+      "output": "03_Presentations/W06_rescue.pdf",
+      "sha256": "e383d2ff14c4e6cd4ae66501263d9167b6912086cc4f3c8b0d77357802547517",
+      "sources": {
+        "03_Presentations/W06_rescue.pptx": "ad62a2a646cdaca9a24c905a2e1bc2e099bd3c459b9e3cf0b5e049e229de38dd"
+      }
+    },
+    {
+      "output": "03_Presentations/W07_mission.pdf",
+      "sha256": "1c1ef3da64ba4790353019191322b56f68d2f06eedbc8c01fda7f140eb8a4609",
+      "sources": {
+        "03_Presentations/W07_mission.pptx": "031b3102dd68717218845af927b2d12eae7db6ae55de383797a1edbfe7dc22d0"
+      }
+    },
+    {
+      "output": "03_Presentations/W08_showcase.pdf",
+      "sha256": "3c5b51475afc69c9b6a7fd7cd2f8f895dbb9fb6eb923306a99e36c95e966fcda",
+      "sources": {
+        "03_Presentations/W08_showcase.pptx": "2eae95df9cf635ee0eba908b015db169dd311dbb31889f9bdd92aeac9c93d715"
+      }
+    },
+    {
+      "output": "05_Evaluation/Evaluation_and_Partner_Forms.pdf",
+      "sha256": "7a587e9fe7d254a0f6f55eaa4ae033a2ff2955036334076b52cbd7fb4fa0f66a",
+      "sources": {
+        "05_Evaluation/Evaluation_and_Partner_Forms.docx": "74da94926808d898dcb468bd9f9c5d23155fd8358758eeea93def8db858395c0"
+      }
+    },
+    {
+      "output": "06_References/SPIKE_Hub_Color_Guide.pdf",
+      "sha256": "4f9c0f578eea58af1b15dc1c0729031eb020d6081c72d9a3129e111357842f3a",
+      "sources": {
+        "06_References/SPIKE_Hub_Color_Guide.md": "d6f3814a99fc58543cee2fe2e440aa17e79c01e1a07c19a0fd71087948071405"
+      }
+    },
+    {
+      "output": "03_Presentations/W01_signal.pptx",
+      "sha256": "8ced6998989674e023848c09e1e7b91931a480cb476cd47880f68f5d7ab04f11",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.docx": "bf5af22b1ea3413c8af5ace07372061bf1ec389171c97c08916acb4b5c6443b4"
+      }
+    },
+    {
+      "output": "03_Presentations/W02_delivery.pptx",
+      "sha256": "fef83eba5e2aa277d00dcc32059c9d024a3a9c3a89a9c360e14865d151b6ff88",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W02_delivery_Speaker_Notes.docx": "2fae89e7ba5b2e33735abab241b91c5ae7d19176d8ab7d864dd6a750f513222e"
+      }
+    },
+    {
+      "output": "03_Presentations/W03_dance.pptx",
+      "sha256": "d2a02b23d6cb2d6845f5255a3b255c1bd9488193ef7cbbd86959eb0bb29bfa84",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W03_dance_Speaker_Notes.docx": "a4d637129014b02829e1f7723c443edf090771833f9664255c7fe60a4d486857"
+      }
+    },
+    {
+      "output": "03_Presentations/W04_parking.pptx",
+      "sha256": "42df19ab64b9d7ee69890a748a65f7cfa33a6f63e5ed8f03610fe78aa1bf5978",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W04_parking_Speaker_Notes.docx": "24e3e278d95e8dab8a39faf81e4869bcb06438e98462c91a6a766e9509d02f90"
+      }
+    },
+    {
+      "output": "03_Presentations/W05_marker.pptx",
+      "sha256": "142c56c55a6483c5ece35a7c56fc6ee2d2fa4a173d64e43d81711f69dab6c147",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W05_marker_Speaker_Notes.docx": "0bce4763fb323e8a5a85f40294e03fca46646b5351834e748453da60dc649be4"
+      }
+    },
+    {
+      "output": "03_Presentations/W06_rescue.pptx",
+      "sha256": "ad62a2a646cdaca9a24c905a2e1bc2e099bd3c459b9e3cf0b5e049e229de38dd",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W06_rescue_Speaker_Notes.docx": "458a39b250c96c0c2196178f9e93ba9c31e28db2cea4f0dfb5f96c24a20d38b7"
+      }
+    },
+    {
+      "output": "03_Presentations/W07_mission.pptx",
+      "sha256": "031b3102dd68717218845af927b2d12eae7db6ae55de383797a1edbfe7dc22d0",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W07_mission_Speaker_Notes.docx": "f7596b5d97a382be66dff8d2ea8a887be1e99d32089042add7fff48db185abc2"
+      }
+    },
+    {
+      "output": "03_Presentations/W08_showcase.pptx",
+      "sha256": "2eae95df9cf635ee0eba908b015db169dd311dbb31889f9bdd92aeac9c93d715",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W08_showcase_Speaker_Notes.docx": "beb9faa2bee9223178f886d7184846a1c51a2c67592094d7f5f76cae4bad6d7f"
+      }
+    },
+    {
+      "output": "03_Presentations/W01_signal_with_speaker_notes.pptx",
+      "sha256": "8ced6998989674e023848c09e1e7b91931a480cb476cd47880f68f5d7ab04f11",
+      "sources": {
+        "03_Presentations/W01_signal.pptx": "8ced6998989674e023848c09e1e7b91931a480cb476cd47880f68f5d7ab04f11"
+      }
+    },
+    {
+      "output": "01_Instructor/W01_Detailed_Speaker_Notes.html",
+      "sha256": "a60e7f9dd5fadfaae663cc03b01db5b6465e4cb647ff2871eedc5c78e31065be",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.docx": "bf5af22b1ea3413c8af5ace07372061bf1ec389171c97c08916acb4b5c6443b4"
+      }
+    },
+    {
+      "output": "02_Student/Station_Task_Cards.html",
+      "sha256": "4cb2a72eb678d85885e2fa88ea2e92c89aaed331e63e581f66d9e9f93fb03129",
+      "sources": {
+        "02_Student/Station_Task_Cards.md": "53f0febe5ac057a27ef83cba1f98fa59cd18630928febdc6af1a47e3c6f2a97b"
+      }
+    },
+    {
+      "output": "06_References/SPIKE_Hub_Color_Guide.html",
+      "sha256": "258bbe9c07abc8745ca58408a3ed2fde7e7f95f2a76fbd2394eb3034b1555259",
+      "sources": {
+        "06_References/SPIKE_Hub_Color_Guide.md": "d6f3814a99fc58543cee2fe2e440aa17e79c01e1a07c19a0fd71087948071405",
+        "06_References/LEGO_SPIKE_Hub_Color_Messages.png": "d36e1705346c5c6063bd06f9a3a584d418d0afb385c99e9bdd775e89b8837f67"
+      }
+    },
+    {
+      "output": "04_Python/Code_Guide.md",
+      "sha256": "9b0d3adcf2d90b0c97f9d15bb38d39ee1c97ee37807028416cab31a2f09c7ebd",
+      "sources": {
+        "04_Python/Code_Guide.html": "36320b2f5a4ba03e7a9f77bda55845c4c21bf714f714c7e3b74101d6ccb002ba"
+      }
+    },
+    {
+      "output": "06_References/Research_Sources.md",
+      "sha256": "6ff67fd45d46ea50ea27cd6ee0322189d2e1bf11bb92ba0b534f473eb20feaf1",
+      "sources": {
+        "06_References/Research_Sources.html": "261ec3460f7e48a2a9c738f9d30273bace7e7f36d186399feb2c1958a8907925"
+      }
+    }
+  ]
+}

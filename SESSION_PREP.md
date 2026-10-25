@@ -2,7 +2,7 @@
 
 Updated: October 25, 2026
 
-Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (private). Initial upload completed October 25, 2026 using `atsekhan`. This folder is the local Git checkout; later changes require a commit and push.
+Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (public for reading as requested October 25). Initial upload completed October 25, 2026 using `atsekhan`. This folder is the local Git checkout; later changes require a commit and push.
 
 Project continuity: [new-computer continuation prompt](CONTINUE_HERE.md), [project context](PROJECT_CONTEXT.md), and [maintenance rules/backlog](MAINTENANCE.md). Four core DOCX documents have generated Markdown reading copies; update the Word sources and run the sync script whenever their content changes.
 
@@ -18,9 +18,11 @@ Use the [interactive checklist](SESSION_PREP_CHECKLIST.html) locally to click an
 - [x] Confirm EV3 powers on (Alex, October 23, 2026).
 - [ ] Check EV3 motors, infrared sensor, and ability to load/run a program.
 - [x] Demo selected by Alex: autonomous EV3 R3PTAR — creep forward, detect a target, hiss and strike, back away, turn, and resume. Build and functional validation remain pending.
-- [ ] Confirm actual first-session date, enrollment, devices, and staffing.
+- [ ] Confirm actual first-session date and local supervision assignments.
+- [x] Alex confirmed 12 children in grades 5–6, 4–6 student instructors and four available laptops (October 25).
+- [x] Make the repository public for reading (requested and verified October 25).
 
-The existing curriculum assumes eight students, two kits, and two to four laptops. Six students per kit was discussed as an upper practical limit, not a confirmed enrollment change. Its original proposed October 21 start has passed; replace the proposed calendar once dates are agreed.
+The confirmed plan is four teams of three sharing two robots. Two additional tables provide hands-on builds. Bring four laptops: two for robot control and two for build references. Use [Grouping and roles](01_Instructor/Grouping_and_Roles.md) and the [weekly print-and-bring checklists](01_Instructor/Class_Preparation/README.md). The old proposed October 21 start has passed; actual dates remain to be agreed.
 
 Week 1 teaching materials: [detailed slide-by-slide notes and assembly preparation](01_Instructor/W01_Detailed_Speaker_Notes.html) and [presentation with embedded notes](03_Presentations/W01_signal_with_speaker_notes.pptx). Preassemble both SPIKE driving bases before students arrive. The first-session demonstration slot uses about three minutes for R3PTAR and two minutes for the SPIKE starter; the standalone EV3 rehearsal script below remains a five-minute maximum.
 
@@ -32,6 +34,8 @@ Two hours confirmed for October 25, 2026. Use the [facilitator plan](01_Instruct
 - [ ] Conduct the workshop and record the result for each kit.
 - [ ] Record each trainer’s operating and teaching practice; assign follow-up where needed.
 - [ ] Assign first-session jobs, resolve kit blockers, and confirm storage/charging.
+
+Student instructors practiced on October 25 and reported feedback. Slides, roles and build activities have been revised. The unchecked kit and readiness items below remain open because their actual results have not been reported.
 
 ## Next work, in order
 

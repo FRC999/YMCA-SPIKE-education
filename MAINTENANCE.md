@@ -22,12 +22,37 @@ From the repository root, with Python 3.10 or later:
 ```sh
 python scripts/sync_documents.py --write
 python scripts/sync_documents.py --check
+python scripts/check_reading_copies.py --check
 python -m unittest discover -s tests -v
 ```
 
 The converter uses only the Python standard library and needs no Word installation. It discovers DOCX files outside hidden/build directories, preserves the source content in reading order, and records a source hash in each mirror. It refuses to overwrite independently authored Markdown and reports orphan mirrors when a DOCX disappears. It stops on unsupported content such as images, tracked changes, footnotes, fields, or merged/nested tables; extend and review the converter before introducing those features. Do not remove a content guard just to make a check pass.
 
 The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and `--check` on pushes and pull requests. It reports drift; it does not silently rewrite or push files. The normal update task is responsible for regeneration and committing both formats. No background local-folder synchronization is configured.
+
+## PDF and other reading copies
+
+The root README is the GitHub reading index. PDFs preserve page/slide layout; Markdown provides searchable text. Editable DOCX/PPTX files remain available. The 43 new PDFs include four core documents, ten decks, eight team sheets, eight build cards, eight packing checklists, baseline/final checks, attendance, role cards and the hub guide. The official LEGO build PDF is an external reference and is not regenerated.
+
+Source ownership and regeneration:
+
+- Core PDFs: export the matching DOCX to PDF with Word or the available document renderer; inspect every page.
+- Deck PDFs: export the matching PPTX as slides, with one slide per page. The current PDFs contain the reviewed slide images at 1280 × 720, preserving layout. Use the Markdown speaker notes for text and the PPTX for Presenter View. When notes change, update the corresponding embedded PPTX notes from the six slide sections in the speaker-note DOCX. Keep both Week 1 PPTX filenames identical.
+- Team sheets, baseline and final checks: extract the matching pages from the newly exported workbook PDF. Attendance comes from the evaluation-forms PDF. Locate pages by heading, rather than assuming old page numbers still apply. Current workbook pages are baseline 2, Weeks 1–8 on 3–10, final check 11; attendance is evaluation page 2.
+- Build cards and packing checklists: edit their same-name Markdown sources, then typeset/re-export the affected PDFs. Check quantities against the reusable kit. Packing PDFs are compact one-page summaries; the Markdown includes the complete preparation and closeout steps.
+- Role cards: use `01_Instructor/Grouping_and_Roles.md`; preserve two pages, three cards per page. Hub guide: use its Markdown source and the supplied reference image.
+- Week 1 HTML notes: regenerate from the Week 1 speaker-note DOCX/Markdown. Station-card and hub-guide HTML follow their same-name Markdown. `Code_Guide.html` and `Research_Sources.html` remain the sources of their Markdown reading copies; preserve code operators and links during conversion.
+
+[`scripts/reading_copies.json`](scripts/reading_copies.json) records the reviewed source/output hashes. The standard-library checker detects changed or missing files, including embedded-note dependencies; it cannot prove semantic agreement or visual quality. Text hashes normalize Windows line endings. Regeneration is a normal authoring task using available tools; private `.build` scripts are not required on another computer.
+
+After regenerating and reviewing an output, record that specific repository-relative path, for example:
+
+```sh
+python scripts/check_reading_copies.py --record 03_Presentations/W01_signal.pdf
+python scripts/check_reading_copies.py --check
+```
+
+Pass multiple output paths when several reviewed copies changed. Do not record hashes merely to hide stale exports. Add source/output mappings to the manifest for new companions. CI checks both the DOCX/Markdown pairs and this manifest without modifying files.
 
 ## Interactive prep checklist maintenance
 
@@ -40,6 +65,7 @@ The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and
 - [ ] Update directly affected notes, programs, task cards, and links.
 - [ ] If DOCX changed, render/review it with the available document tools, regenerate Markdown, and check the pair.
 - [ ] If presentation content or notes changed, keep the slide-by-slide companion aligned and inspect the final deck.
+- [ ] Refresh affected PDF/HTML copies, review them, and record only the reviewed exports in the reading-copy manifest.
 - [ ] Run the relevant checks. Converter changes require the unit tests; physical robot changes require an actual reported bench test before being called verified.
 - [ ] Update `SESSION_PREP.md`, this backlog, or `PROJECT_CONTEXT.md` where the new facts belong.
 - [ ] Review `git status` and the diff, commit the scoped changes, push to the existing remote, and verify the received commit.
@@ -55,18 +81,23 @@ The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and
 
 ## Established rules worth preserving
 
-- Keep the accepted eight-week, one-hour beginner program. Eight students/two kits remains the baseline until enrollment is confirmed.
+- Keep the accepted eight-week, one-hour beginner program. Confirmed enrollment is 12 children in grades 5–6: four teams of three, two kits, four laptops and 4–6 student instructors plus an adult lead.
 - Preassemble both SPIKE driving bases before Week 1. Use left motor A/right B, auxiliary motor unplugged, and add distance C/color D later.
 - Keep Week 1 simple: one letter, wait, short move, predict, test, explain. Teach wheel degrees accurately and keep students inside the recipe area.
 - R3PTAR is a separate autonomous demo. Remote driving alone does not meet Alex’s requirement. Its behavior and current readiness are in the context/tracker.
 - Student trainers need both operating and teaching practice. A completed build is not proof that a kit or trainer is ready.
 - Never invent attendance, successful tests, learning gains, photos, quotes, or outreach outcomes. Use approved records and report what actually happened.
-- The user wants everything produced for this project synced to the repository. Keep it private unless explicitly asked otherwise; omit credentials, identifiable family records, private build caches, and redundant ZIPs.
+- The user wants everything produced for this project synced to the repository and explicitly authorized public read access on October 25. Public visibility is verified. Omit credentials, identifiable family records, private build caches, and redundant ZIPs.
 
 ## Maintenance backlog
 
 ### Implemented
 
+- [x] Reconcile all eight classes with 12 learners, three rotating jobs, weekly hands-on builds, four laptops and 4–6 student instructors.
+- [x] Merge the old code/prediction slides, add hub-light guidance and final reflection prompts, and align embedded/companion notes.
+- [x] Add per-session print-and-bring checklists with quantities, reusable supplies and individual one-page printouts.
+- [x] Add GitHub-readable PDFs, Markdown companions for previous HTML-only references, and source/export drift checks.
+- [x] Make the repository public for reading at Alex’s request.
 - [x] Add separate detailed DOCX/Markdown speaker notes for each of eight classes.
 - [x] Add an interactive local prep checklist that edits checkbox marks in the shared Markdown file, plus save/pull/push instructions.
 
@@ -80,10 +111,8 @@ The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and
 ### Pending when new facts or work require them
 
 - [ ] Reconcile the historical proposal calendar with confirmed session dates. Do not invent dates.
-- [ ] Once enrollment/staffing is confirmed, update affected schedules in DOCX, Markdown, slides, and trainer notes together.
 - [ ] Incorporate actual workshop results and first-session findings into operational documents; preserve blank master forms.
 - [ ] If the revised Week 1 notes change again, update the embedded PowerPoint notes and HTML companion together.
-- [ ] Consider Markdown companions for HTML-only station cards and code guides if direct GitHub reading of those is needed. All eight class speaker-note documents now have DOCX/Markdown pairs.
 - [ ] Promote additional build/rehearsal scripts into portable, tracked tooling only when regeneration or further code testing requires them. The old local `.build` directory is not a dependency for this sync workflow.
 - [ ] After any source rename/deletion, review and remove or rename its generated mirror and repair incoming links; the checker intentionally does not delete content automatically.
 
@@ -91,4 +120,5 @@ The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and
 
 | Date | Change |
 |---|---|
+| 2026-10-25 | Applied instructor practice feedback across all eight sessions; updated enrollment, roles/builds, hub guidance, reflection prompts, notes and blank forms; added browser/print copies, quantified packing lists and export checks; made the repository public as requested. |
 | 2026-10-25 | Added DOCX/Markdown synchronization, maintenance rules, backlog, and the portable AI continuation package. DOCX source content and layout were not changed by this conversion. |

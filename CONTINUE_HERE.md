@@ -4,7 +4,7 @@ The repository contains the curriculum and a maintained AI handoff. A fresh chat
 
 ## On the other computer
 
-1. Sign in to GitHub with an account that can access the private `FRC999/YMCA-SPIKE-education` repository. Credentials and installed LEGO software are not copied with the project.
+1. Read or clone the public `FRC999/YMCA-SPIKE-education` repository without signing in. To push changes, sign in with an authorized collaborator account. Credentials and installed LEGO software are not copied with the project.
 2. Clone it into any convenient folder, using GitHub Desktop or:
 
    ```sh

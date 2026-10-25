@@ -1,10 +1,10 @@
 # Using the session preparation checklist
 
-The shared record is [SESSION_PREP.md](SESSION_PREP.md). The [interactive checklist page](SESSION_PREP_CHECKLIST.html) edits its checkboxes locally. Save and push the Markdown file to share those updates through this private GitHub repository. There is no second checklist database, login token in the page, or automatic background sync.
+The shared record is [SESSION_PREP.md](SESSION_PREP.md). The [interactive checklist page](SESSION_PREP_CHECKLIST.html) edits its checkboxes locally. Save and push the Markdown file to share those updates through this public GitHub repository. There is no second checklist database, login token in the page, or automatic background sync.
 
 ## On a new laptop
 
-Install Git and sign in with an account that can access the private repository. Clone it once, or use **Clone repository** in GitHub Desktop:
+Install Git. Reading and cloning are public; sign in with an authorized collaborator account when pushing changes. Clone it once, or use **Clone repository** in GitHub Desktop:
 
 ```sh
 git clone https://github.com/FRC999/YMCA-SPIKE-education.git

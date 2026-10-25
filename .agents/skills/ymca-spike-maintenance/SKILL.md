@@ -22,6 +22,6 @@ Do not treat a Markdown-only edit as a completed change to a paired document. If
 
 ## Close the handoff
 
-Update operational results in the prep tracker and material decisions/next work in the project context. Distinguish source/logic checks from actual hardware tests. Follow the user’s standing request to commit and push scoped updates to the existing private repository, preserving unrelated work and verifying the remote commit. If access or a required tool is unavailable, preserve completed local work and identify the actual remaining step. Do not expand this authorization to messages, public publishing, or unrelated repositories.
+Update operational results in the prep tracker and material decisions/next work in the project context. Distinguish source/logic checks from actual hardware tests. Follow the user’s standing request to commit and push scoped updates to the existing public repository, preserving unrelated work and verifying the remote commit. If access or a required tool is unavailable, preserve completed local work and identify the actual remaining step. Do not expand this authorization to messages, unrelated publishing, or unrelated repositories. Alex separately authorized public read visibility for this repository on October 25.
 
 Use current artifact skills when available for Word/PowerPoint edits. Discover runtime paths on the current computer; do not depend on the original machine’s `.build` directory or installed software. The sync script itself uses standard Python only.

@@ -4,19 +4,18 @@ Last reviewed: October 25, 2026. This is a curated handoff of the project’s de
 
 ## Purpose and people
 
-Alex is preparing a Cheshire, Connecticut YMCA robotics program with MechaRAMS / FRC Team 999. The audience is grades 7–8. High-school juniors and seniors will teach under an adult educator. The program should provide useful community learning and a voluntary path toward future high-school robotics participation. Evidence may support team outreach/award narratives, but no learning gains, recruitment outcomes, or award eligibility are assumed.
+Alex is preparing a Cheshire, Connecticut YMCA robotics program with MechaRAMS / FRC Team 999. The audience is confirmed as 12 children in grades 5–6. High-school juniors and seniors will teach under an adult educator. The program should provide useful community learning and a voluntary path toward future high-school robotics participation. Evidence may support team outreach/award narratives, but no learning gains, recruitment outcomes, or award eligibility are assumed.
 
 The curriculum was originally prepared as a proposal and Alex reported it accepted on October 23, 2026. The current phase is preparing equipment and student trainers for the first session.
 
 ## Accepted course design
 
 - Eight weekly sessions, one hour each, using two existing SPIKE Prime kits.
-- Baseline: eight students in four pairs, two pairs per kit, two trained kit mentors plus an adult. Four laptops preferred; two workable with paper stations. Final enrollment, device count, meeting dates, and staffing are unconfirmed.
-- Six students per kit was discussed as an upper practical option with revised grouping/roles, not the adopted baseline. Do not silently change the existing eight-student schedule to twelve students.
+- Confirmed October 25: 12 children in four teams of three, two teams per kit, 4–6 student instructors and an adult lead. Four laptops are available; bring two for robot control and two for build references. Dates and local assignments remain open.
 - The original proposal included an October 21 start and November/December dates. Those are illustrative, not booked dates; the start has passed. Confirm the actual calendar before revising it.
 - Start with scaffolded real Python in SPIKE App 3. Students edit a small `student_recipe` in a complete supplied program. This is not drag-and-drop Python, desktop Python, Pybricks, or the older `from spike import PrimeHub` API. A mentor-tested Word Blocks fallback can preserve the learning goal.
 - Weeks: signals/sequence; delivery/calibration; dance/loops; distance-based parking; dark-marker sensing; passive rescue attachment/functions; chosen community mission; showcase/reflection.
-- Keep both official practice driving bases assembled. Use the same base throughout the course; students later build removable attachments.
+- Keep both official practice driving bases assembled. Use the same base throughout the course; students build removable attachments or course models every week.
 
 ## Hardware and programming decisions
 
@@ -38,15 +37,15 @@ EV3 Home uses an infrared sensor; do not assume an Education-set ultrasonic sens
 
 Both SPIKE bases should be assembled and tested before children arrive. The official build PDF is in `06_References/LEGO_Practice_Driving_Base.pdf` (37 pages, steps 1–34).
 
-Use `03_Presentations/W01_signal_with_speaker_notes.pptx` as the current Week 1 deck and `01_Instructor/W01_Detailed_Speaker_Notes.html` as its printable companion. The original `W01_signal.pptx` is retained. The revised deck has the same seven student slides and detailed notes.
+Use `03_Presentations/W01_signal_with_speaker_notes.pptx` as the current Week 1 deck and `01_Instructor/W01_Detailed_Speaker_Notes.html` as its printable companion. Both Week 1 PPTX filenames now contain the same revised six-slide deck with detailed notes. Read the PDF directly on GitHub.
 
-The hour is 0–5 baseline/welcome; 5–10 demonstration (about three minutes EV3 and two minutes SPIKE); 10–15 recipe/prediction; 15–27 first pair turn; 27–39 second pair turn; 39–49 five-minute retest per pair; 49–54 individual explanation; 54–60 save/reset. Swap operating roles midway through each robot turn. The baseline must come before code coaching and demonstrations.
+The hour is 0–5 baseline/welcome; 5–10 demonstration (about three minutes EV3 and two SPIKE); 10–14 combined code/prediction; 14–26 first robot/build rotation; 26–38 switch; 38–44 T1/T3 retest; 44–50 T2/T4 retest; 50–54 reflection; 54–60 save/reset. Rotate three jobs every four minutes in the initial turns and every two in retests. The baseline comes before coaching. Week 8 has its own showcase schedule.
 
 The slide prompt “move the last line to the top” differs from the paper task “swap first and last.” Keep the intended operation clear. For the original signal/pause/drive recipe, the former gives drive/signal/pause; the latter gives drive/pause/signal.
 
 ## Separate class notes and prep checklist
 
-All eight classes now have separate detailed DOCX and generated Markdown speaker notes in [01_Instructor/Speaker_Notes](01_Instructor/Speaker_Notes/README.md), with one preparation page and one page per slide. Week 1 preserves the existing detailed script; Weeks 2–8 expand their shorter embedded presentation notes. Week 8 has its own assessment/rehearsal/showcase schedule. Future edits must keep affected documents, slides, programs and Week 1 HTML aligned.
+All eight classes now have separate detailed DOCX and generated Markdown speaker notes in [01_Instructor/Speaker_Notes](01_Instructor/Speaker_Notes/README.md), with one preparation page and one page per slide. All notes now follow the six-slide decks and revised teams, roles and build activities. Week 8 has its own assessment/rehearsal/showcase schedule. Future edits must keep affected documents, slides, programs and Week 1 HTML aligned.
 
 Alex requested clickable prep checkmarks and instructions for use on another laptop. The local [checklist page](SESSION_PREP_CHECKLIST.html) opens and saves the actual prep Markdown; [instructions](CHECKLIST_INSTRUCTIONS.md) cover cloning, pulling, opening, saving, reviewing and pushing. GitHub also permits editing the `[ ]`/`[x]` source directly. There is no automatic sync or independent status database. No physical readiness check was completed by creating these tools.
 
@@ -56,9 +55,15 @@ Alex requested a student-driven train-the-trainer session for October 25 and con
 
 Current files: `01_Instructor/Trainer_Session_Plan.md` and `01_Instructor/Trainer_Work_Orders.md`. Their agenda supersedes the broader original mentor workshop for this preparation session: 0–5 brief; 5–45 build; 45–65 test; 65–80 recipe practice; 80–90 read/prepare; 90–110 teach-back; 110–120 readiness/handoff. It has a late-build recovery schedule and blank individual/kit records. Do not mark the workshop or tests complete until Alex supplies results.
 
+## October 25 instructional revision
+
+Confirmed: 12 children in grades 5–6, 4–6 student instructors, two SPIKE kits and four available laptops. Use four triads, two robot stations and two build tables. See Grouping_and_Roles.md for the explicit driver, navigator/handler and observer jobs, build roles and timings. Bring four laptops; two only display build references. Students build a mascot, tray, dancer, garage, marker road, rescue guide, mission scene and final exhibit. Prepare two mentor samples for teams that use robots before building. Keep predictions and brief results at the robot.
+
+All eight decks combine the old slides 3/4 and use new learning/observation prompts on the final slide. Markdown and PDF copies enable GitHub reading. Per-session checklists give exact print and bring quantities for 12 children. Hardware and inventory checks remain open until observed or reported. The repository is now public at Alex’s explicit request; blank forms are public but completed student records must stay private.
+
 ## Repository and continuity
 
-Private repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education). Account `atsekhan` had administrator access when the repository was created. Verify authentication on the current computer rather than copying credentials.
+Public repository (read access requested and verified October 25): [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education). Account `atsekhan` had administrator access when the repository was created. Verify authentication on the current computer rather than copying credentials.
 
 The original working folder was `S:/Projects/MechaRAMS-YMCA-Robotics-Fall-2026`; a new clone may live anywhere. This is separate from the competition robot-code repository. Temporary build/render files were excluded intentionally and are not portable source dependencies. Edit the existing artifacts with appropriate tools; do not assume the old `.build` generators exist on another PC.
 
@@ -71,6 +76,6 @@ Alex explicitly requested GitHub sync after all project changes, Markdown copies
 1. Obtain actual results from the trainer session: kit completion, shortages, connectivity, trainer readiness, and remaining owners/tasks. Update the tracker with dated evidence.
 2. Finish any outstanding SPIKE tests and first-session rehearsal.
 3. Complete EV3 connectivity, motor/IR checks, R3PTAR build, program, and repeated autonomous tests.
-4. Confirm first-session date, enrollment, devices, and staffing; reconcile the dated proposal and operating schedule once those facts are available.
+4. Confirm first-session dates and local assignments. Enrollment, age group, available mentors and four laptops are settled.
 
 Do not repeat settled design questions or redesign the course merely because this is a new chat. If the user gives a different immediate task, follow it and preserve these decisions unless explicitly changed.
