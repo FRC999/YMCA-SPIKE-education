@@ -18,6 +18,8 @@ Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-e
 
 The existing curriculum assumes eight students, two kits, and two to four laptops. Six students per kit was discussed as an upper practical limit, not a confirmed enrollment change. Its original proposed October 21 start has passed; replace the proposed calendar once dates are agreed.
 
+Week 1 teaching materials: [detailed slide-by-slide notes and assembly preparation](01_Instructor/W01_Detailed_Speaker_Notes.html) and [presentation with embedded notes](03_Presentations/W01_signal_with_speaker_notes.pptx). Preassemble both SPIKE driving bases before students arrive. The first-session demonstration slot uses about three minutes for R3PTAR and two minutes for the SPIKE starter; the standalone EV3 rehearsal script below remains a five-minute maximum.
+
 ## Next work, in order
 
 1. Label the kits A and B; photograph each open kit before mixing or borrowing parts.
@@ -202,6 +204,7 @@ Keep personal EV3 equipment together as a separately labeled demo kit. For loose
 
 | Date | Update |
 |---|---|
+| 2026-10-25 | Confirmed the first-session preassembly plan; added detailed notes for all seven Week 1 slides, a printable companion, and a revised presentation preserving the original. Hardware assembly and testing remain pending. |
 | 2026-10-25 | Created private FRC999/YMCA-SPIKE-education repository using atsekhan and uploaded curriculum, references, and prep tracker; added README and excluded temporary build/preview files. |
 | 2026-10-23 | Alex approved autonomous moving R3PTAR: creep, detect, hiss/strike, retreat, turn, resume. EV3 power-on passed; EV3 Home Edition installation located, launch/connection untested. |
 | 2026-10-23 | Curriculum accepted; moved to physical kit preparation. Two SPIKE kits available. EV3 Home and personal parts confirmed. Autonomous wow demo required. R3PTAR recommended, pending hardware/software check. |
@@ -217,6 +220,7 @@ Keep personal EV3 equipment together as a separately labeled demo kit. For loose
 - [EV3 user guide, including infrared proximity mode (PDF)](https://www.lego.com/cdn/cs/set/assets/bltbef4d6ce0f40363c/LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf)
 
 EV3 power-on is confirmed. Remaining physical inventory, builds and functional tests are pending until performed and recorded. This tracker distinguishes planned behavior from verified results.
+
 
 
 

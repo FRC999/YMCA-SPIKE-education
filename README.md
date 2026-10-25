@@ -5,6 +5,9 @@ An eight-session LEGO SPIKE Prime robotics course for grades 7–8 at the Cheshi
 ## Start here
 
 - [Session preparation tracker](SESSION_PREP.md): current decisions, kit inventory, hardware checks, autonomous EV3 R3PTAR demo, borrowed parts, and backlog.
+- [Week 1 presentation with detailed speaker notes](03_Presentations/W01_signal_with_speaker_notes.pptx)
+- [Week 1 printable speaker notes and assembly preparation](01_Instructor/W01_Detailed_Speaker_Notes.html)
+- [SPIKE teaching-base assembly instructions](06_References/LEGO_Practice_Driving_Base.pdf)
 - [Program proposal and resources](00_Start_Here/Program_Proposal_and_Resources.docx)
 - [Instructor and mentor guide](01_Instructor/Instructor_and_Mentor_Guide.docx)
 - [Student workbook](02_Student/Student_Workbook.docx)
@@ -52,3 +55,4 @@ Update `SESSION_PREP.md` as checks are completed, decisions change, or issues ar
 Temporary rendering output and build caches in `.build/` are intentionally excluded. The local distribution ZIP is also excluded because its contents are already represented by individual files here.
 
 LEGO and FIRST reference materials retain their owners' rights. Their inclusion does not grant a new license to those materials. This is an independent MechaRAMS teaching resource; no blanket license has been assigned to the repository.
+
