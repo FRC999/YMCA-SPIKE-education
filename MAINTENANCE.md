@@ -4,7 +4,7 @@ Updated October 25, 2026. This file tracks repository maintenance and reusable u
 
 ## Document ownership and synchronization
 
-The four core curriculum DOCX files are the editorial sources. Their same-name `.md` companions are generated reading copies for GitHub. The body text, headings, tables, source links, and code are preserved; Word retains print layout, pagination, headers/footers, and physical writing-space height.
+The four core curriculum DOCX files and eight class speaker-note DOCX files are the editorial sources. See the [speaker-note index](01_Instructor/Speaker_Notes/README.md) for the additional eight DOCX/Markdown pairs. Their same-name `.md` companions are generated reading copies for GitHub. The body text, headings, tables, source links, and code are preserved; Word retains print layout, pagination, headers/footers, and physical writing-space height.
 
 | Editorial source | GitHub reading copy |
 |---|---|
@@ -28,6 +28,10 @@ python -m unittest discover -s tests -v
 The converter uses only the Python standard library and needs no Word installation. It discovers DOCX files outside hidden/build directories, preserves the source content in reading order, and records a source hash in each mirror. It refuses to overwrite independently authored Markdown and reports orphan mirrors when a DOCX disappears. It stops on unsupported content such as images, tracked changes, footnotes, fields, or merged/nested tables; extend and review the converter before introducing those features. Do not remove a content guard just to make a check pass.
 
 The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and `--check` on pushes and pull requests. It reports drift; it does not silently rewrite or push files. The normal update task is responsible for regeneration and committing both formats. No background local-folder synchronization is configured.
+
+## Interactive prep checklist maintenance
+
+[SESSION_PREP_CHECKLIST.html](SESSION_PREP_CHECKLIST.html) opens the real [SESSION_PREP.md](SESSION_PREP.md); it does not embed a status snapshot. It only changes checkbox marks. Narrative records remain editable Markdown. Follow [CHECKLIST_INSTRUCTIONS.md](CHECKLIST_INSTRUCTIONS.md), and run `node --test tests/test_prep_checklist.cjs` after changing the parser or save behavior. The page needs no installed JavaScript packages. Its direct-save/browser permission flow still needs a manual Chrome or Edge check; automated browser preview was unavailable because the browser tool blocked local file URLs. Parsing, character preservation and JavaScript syntax checks passed.
 
 ## Completion checklist for each update
 
@@ -63,6 +67,9 @@ The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and
 
 ### Implemented
 
+- [x] Add separate detailed DOCX/Markdown speaker notes for each of eight classes.
+- [x] Add an interactive local prep checklist that edits checkbox marks in the shared Markdown file, plus save/pull/push instructions.
+
 - [x] Add Markdown mirrors of all four core DOCX files.
 - [x] Add a deterministic generator and a non-writing drift check.
 - [x] Add tests for content preservation, stale edits, missing sources, and unsupported content.
@@ -76,7 +83,7 @@ The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and
 - [ ] Once enrollment/staffing is confirmed, update affected schedules in DOCX, Markdown, slides, and trainer notes together.
 - [ ] Incorporate actual workshop results and first-session findings into operational documents; preserve blank master forms.
 - [ ] If the revised Week 1 notes change again, update the embedded PowerPoint notes and HTML companion together.
-- [ ] Consider Markdown companions for HTML-only notes, station cards, and code guides if direct GitHub reading of those is needed. The current four pairs cover the DOCX request.
+- [ ] Consider Markdown companions for HTML-only station cards and code guides if direct GitHub reading of those is needed. All eight class speaker-note documents now have DOCX/Markdown pairs.
 - [ ] Promote additional build/rehearsal scripts into portable, tracked tooling only when regeneration or further code testing requires them. The old local `.build` directory is not a dependency for this sync workflow.
 - [ ] After any source rename/deletion, review and remove or rename its generated mirror and repair incoming links; the checker intentionally does not delete content automatically.
 

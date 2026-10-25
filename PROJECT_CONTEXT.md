@@ -44,6 +44,12 @@ The hour is 0–5 baseline/welcome; 5–10 demonstration (about three minutes EV
 
 The slide prompt “move the last line to the top” differs from the paper task “swap first and last.” Keep the intended operation clear. For the original signal/pause/drive recipe, the former gives drive/signal/pause; the latter gives drive/pause/signal.
 
+## Separate class notes and prep checklist
+
+All eight classes now have separate detailed DOCX and generated Markdown speaker notes in [01_Instructor/Speaker_Notes](01_Instructor/Speaker_Notes/README.md), with one preparation page and one page per slide. Week 1 preserves the existing detailed script; Weeks 2–8 expand their shorter embedded presentation notes. Week 8 has its own assessment/rehearsal/showcase schedule. Future edits must keep affected documents, slides, programs and Week 1 HTML aligned.
+
+Alex requested clickable prep checkmarks and instructions for use on another laptop. The local [checklist page](SESSION_PREP_CHECKLIST.html) opens and saves the actual prep Markdown; [instructions](CHECKLIST_INSTRUCTIONS.md) cover cloning, pulling, opening, saving, reviewing and pushing. GitHub also permits editing the `[ ]`/`[x]` source directly. There is no automatic sync or independent status database. No physical readiness check was completed by creating these tools.
+
 ## Student trainer session
 
 Alex requested a student-driven train-the-trainer session for October 25 and confirmed about two hours. First task: assemble and test the two teaching bases. The facilitator gives work orders and checks progress rather than lecturing throughout.

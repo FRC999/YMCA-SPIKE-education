@@ -6,6 +6,8 @@ Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-e
 
 Project continuity: [new-computer continuation prompt](CONTINUE_HERE.md), [project context](PROJECT_CONTEXT.md), and [maintenance rules/backlog](MAINTENANCE.md). Four core DOCX documents have generated Markdown reading copies; update the Word sources and run the sync script whenever their content changes.
 
+Use the [interactive checklist](SESSION_PREP_CHECKLIST.html) locally to click and save these checkboxes. Follow the [save and GitHub sync instructions](CHECKLIST_INSTRUCTIONS.md). The [eight-class speaker-note index](01_Instructor/Speaker_Notes/README.md) links separate DOCX and Markdown notes for each class.
+
 ## Current status and decisions
 
 - [x] Curriculum accepted (reported by Alex).
@@ -215,6 +217,7 @@ Keep personal EV3 equipment together as a separately labeled demo kit. For loose
 
 | Date | Update |
 |---|---|
+| 2026-10-25 | Added separate detailed DOCX/Markdown speaker notes for all eight classes and a local interactive prep checklist with save/pull/push instructions. Physical readiness results remain unchanged. |
 | 2026-10-25 | Added four DOCX/Markdown pairs, generator/checker and CI, maintenance backlog, repository AI instructions, project context, skill, and new-computer continuation prompt. Physical readiness statuses remain unchanged. |
 | 2026-10-25 | Added the two-hour trainer session plan and student-led work orders. First task: assemble and test both SPIKE bases. Blank kit and trainer records distinguish the planned session from completed checks. |
 | 2026-10-25 | Confirmed the first-session preassembly plan; added detailed notes for all seven Week 1 slides, a printable companion, and a revised presentation preserving the original. Hardware assembly and testing remain pending. |

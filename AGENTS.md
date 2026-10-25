@@ -10,7 +10,7 @@ Do not ask the user to repeat decisions already recorded. Do not infer that a sc
 
 ## Document and Git workflow
 
-- For the four paired curriculum documents, DOCX is the editorial source and Markdown is the generated GitHub-reading copy. Update the DOCX, then run `python scripts/sync_documents.py --write` and `python scripts/sync_documents.py --check`. Never leave a requested edit only in the generated Markdown.
+- For all paired curriculum documents, including the eight class speaker-note documents, DOCX is the editorial source and Markdown is the generated GitHub-reading copy. Update the DOCX, then run `python scripts/sync_documents.py --write` and `python scripts/sync_documents.py --check`. Never leave a requested edit only in the generated Markdown.
 - Standalone plans, project context, rules, and backlog files are authored Markdown; they do not need artificial DOCX counterparts.
 - When changing the converter, run `python -m unittest discover -s tests -v`. Unsupported DOCX content must be handled explicitly, not silently dropped.
 - Use available document/presentation skills when editing those artifacts. Render and review changed DOCX/PPTX outputs before delivery. The sync checker verifies content pairing, not visual layout or robot behavior.

@@ -12,6 +12,9 @@ For the two-hour, student-led preparation session, use the [facilitator plan](01
 
 ## Start here
 
+- [Speaker notes for all eight classes](01_Instructor/Speaker_Notes/README.md): separate DOCX and Markdown files with slide-by-slide scripts and timing.
+- [Interactive prep checklist](SESSION_PREP_CHECKLIST.html) · [Open, save and sync instructions](CHECKLIST_INSTRUCTIONS.md): open locally, check tasks, save the prep file, then commit and push.
+
 - [Session preparation tracker](SESSION_PREP.md): current decisions, kit inventory, hardware checks, autonomous EV3 R3PTAR demo, borrowed parts, and backlog.
 - [Week 1 presentation with detailed speaker notes](03_Presentations/W01_signal_with_speaker_notes.pptx)
 - [Week 1 printable speaker notes and assembly preparation](01_Instructor/W01_Detailed_Speaker_Notes.html)
