@@ -1,6 +1,6 @@
 # Maintenance rules and backlog
 
-Updated October 25, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+Updated October 26, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
 
 ## Document ownership and synchronization
 
@@ -120,6 +120,7 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 
 | Date | Change |
 |---|---|
+| 2026-10-26 | Added R3PTAR wiring, installed-program location and click-by-click USB/first-run instructions; recorded reported assembly separately from unverified operation. |
 | 2026-10-25 | Retired seven redundant/local HTML pages and the checkbox-editor helper; preserved useful content in Markdown/PDF, made code/research Markdown authoritative, and clarified that classroom PCs need no repository clone. |
 | 2026-10-25 | Applied instructor practice feedback across all eight sessions; updated enrollment, roles/builds, hub guidance, reflection prompts, notes and blank forms; added browser/print copies, quantified packing lists and export checks; made the repository public as requested. |
 | 2026-10-25 | Added DOCX/Markdown synchronization, maintenance rules, backlog, and the portable AI continuation package. DOCX source content and layout were not changed by this conversion. |

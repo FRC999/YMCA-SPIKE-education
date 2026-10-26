@@ -1,6 +1,6 @@
 # Project context for continuing this work
 
-Last reviewed: October 25, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
+Last reviewed: October 26, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
 
 ## Purpose and people
 
@@ -29,7 +29,7 @@ The supplied programs have offline syntax/mock-logic checks from initial prepara
 
 Alex specifically wants something exciting and autonomous, not a robot merely driven by remote. The selected model is EV3 Home **R3PTAR**. Approved behavior: creep forward, detect a cardboard target, hiss and strike, retract, back away, turn, and resume when clear. Use bounded movement and a finite run duration; a taped boundary does not make the robot sense an edge. Keep both SPIKE bases available to learners.
 
-Confirmed October 23: the EV3 powered on. Legacy LEGO MINDSTORMS EV3 Home Edition was found on the original Windows computer. Successful software launch/brick connection, motor/IR checks, assembly, and a reliable demo program have not been reported. A new computer needs its own software/device setup; the old installation does not travel with Git.
+Confirmed October 23: the EV3 powered on. Legacy LEGO MINDSTORMS EV3 Home Edition was found on the original Windows computer. Alex reported R3PTAR assembled on October 26. The EV3 application process launched during instruction preparation, but its screen could not be captured. Brick connection, motor/IR checks and reliable demo operation remain unverified. Installed R3PTAR Mission 3 (Hunting) includes a finished autonomous program; standard ports are A steering, B drive, D strike and infrared 4. See [connection and first-run instructions](01_Instructor/R3PTAR_Setup_and_First_Run.md). The factory program uses an unlimited loop; classroom speed/timing adaptation and acceptance testing are still required. A new computer needs its own software/device setup; the old installation does not travel with Git.
 
 EV3 Home uses an infrared sensor; do not assume an Education-set ultrasonic sensor or gyro. EV3 and SPIKE electronics are not directly interchangeable, although many mechanical Technic pieces can be shared.
 
@@ -75,7 +75,7 @@ Alex explicitly requested GitHub sync after all project changes, Markdown copies
 
 1. Obtain actual results from the trainer session: kit completion, shortages, connectivity, trainer readiness, and remaining owners/tasks. Update the tracker with dated evidence.
 2. Finish any outstanding SPIKE tests and first-session rehearsal.
-3. Complete EV3 connectivity, motor/IR checks, R3PTAR build, program, and repeated autonomous tests.
+3. With R3PTAR assembly reported complete, follow the EV3 first-run guide for USB transfer, motor/IR checks and the factory autonomous program; then adapt and repeatedly test the classroom demonstration.
 4. Confirm first-session dates and local assignments. Enrollment, age group, available mentors and four laptops are settled.
 
 Do not repeat settled design questions or redesign the course merely because this is a new chat. If the user gives a different immediate task, follow it and preserve these decisions unless explicitly changed.

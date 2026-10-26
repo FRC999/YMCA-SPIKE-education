@@ -9,6 +9,7 @@ This repository is **public for reading**. Anyone can open or download these mat
 - [How the four teams and roles work](01_Instructor/Grouping_and_Roles.md)
 - [What to print and bring each week](01_Instructor/Class_Preparation/README.md) · [Reusable kit](01_Instructor/Class_Preparation/Reusable_Kit.md)
 - [Hub light colors and patterns](06_References/SPIKE_Hub_Color_Guide.md) · [Printable hub guide](06_References/SPIKE_Hub_Color_Guide.pdf)
+- [EV3 R3PTAR wiring and click-by-click first run](01_Instructor/R3PTAR_Setup_and_First_Run.md)
 - [Trainer session plan](01_Instructor/Trainer_Session_Plan.md) · [Trainer work orders](01_Instructor/Trainer_Work_Orders.md)
 - [All presentations](03_Presentations/README.md) · [All speaker notes in DOCX and Markdown](01_Instructor/Speaker_Notes/README.md)
 
