@@ -30,20 +30,20 @@ Motor sockets have letters A–D; sensor sockets have numbers 1–4. Use the lab
 ## 3. Open the finished program
 
 1. Click Windows **Start**, type **LEGO MINDSTORMS EV3**, and open **LEGO MINDSTORMS EV3 Home Edition**. Use this legacy app, not SPIKE App or EV3 Classroom.
-2. In the **Lobby**, click the **R3PTAR** snake.
-3. In **Mission Overview**, click **Mission 3 — Hunting**.
+2. In the **Lobby**, select the **R3PTAR** snake and click **Build and Program**.
+3. If the project opens to its properties (robot picture, description and an empty Programs list), click the large **open-book icon at the top-right**, above the robot video. This opens the **Content Editor**, which displays the mission pages. In **Mission Overview**, click the third tile, **Mission 3 — Hunting**.
 4. Click **Command your robot**. If already on the command page, continue below.
 5. Click the illustrated button beneath **Open the finished program**. The other option is the exercise for building the program yourself.
 6. Confirm the program tab is **R3PTAR 03** and contains connected blocks. A tab named only **Program** may be the blank exercise; select **R3PTAR 03**.
-7. Choose **File → Save As** and save a working copy in Documents as **R3PTAR_First_Run.ev3**. This saves on the PC, not on the brick.
+7. Choose **File → Save Project As…** and save a working copy in Documents as **R3PTAR_First_Run.ev3**. This saves on the PC, not on the brick.
 
-The finished project is already installed here:
+For reference, the installed Mission 3 template is located here (do not open it directly):
 
 ```text
 C:\Program Files (x86)\LEGO Software\LEGO MINDSTORMS EV3 Home Edition\Resources\ContentPacks\Retail\en-US\LEGO\pack3\projects\3.ev3
 ```
 
-If the Lobby is hard to navigate, choose **File → Open**, paste that path into **File name**, and click **Open**. Then use **Command your robot → Open the finished program**, or select the existing **R3PTAR 03** program tab. A `.ev3` file is a project containing blocks and assets; do not paste it into Python or drag it onto the brick as if it were a USB flash drive.
+**Installed templates cannot be opened through File → Open Project…** EV3 shows a message requiring new projects to be created through the Lobby. If this happens, click **OK**, cancel the file dialog if it remains open, return to the **R3PTAR** overview project and click its top-right **open-book icon** to reveal Mission Overview. Select Mission 3 there. **Open Project…** is for saved working projects, not these installed templates. A `.ev3` file contains program blocks and assets; it is not Python source or a file to drag onto the brick as if the brick were a USB flash drive.
 
 The installed application is:
 
@@ -104,7 +104,7 @@ For an isolated test, select Mission 1 or 2 from the overview, go to **COMMAND**
 
 - [Official LEGO R3PTAR build PDF](https://www.lego.com/cdn/cs/set/assets/bltfa9d17de847b8936/31313_R3PTAR_2016.pdf), pages 40, 54, 64 and 94 for wiring.
 - Installed LEGO EV3 Home Edition `pack3` projects: mission titles, button labels, program names, A/B/D and sensor 4 settings, threshold and unlimited loop were inspected October 26, 2026.
-- Installed LEGO EV3 Home user guide, `Resources\EditorHelp\Retail\en-US\ev3_user_guide.pdf`, pages 7, 9, 18, 25, 38 and 42–43: stop button, connectors, USB, brick navigation, missions and download controls.
+- Installed LEGO EV3 Home user guide, `Resources\EditorHelp\Retail\en-US\ev3_user_guide.pdf`, pages 7, 9, 18, 25, 38, 42–44: stop button, connectors, USB, brick navigation, missions, download controls and the open-book Content Editor button. The user screenshots confirmed the **Build and Program**, **Open Project…**, **Save Project As…** labels and direct-template opening restriction.
 - [LEGO Hardware Page help](https://ev3-help-online.api.education.lego.com/Retail/en-us/page.html?Path=editor/HardwarePage.html): download controls and connection status.
 
 This repository supplies the walkthrough. The LEGO factory program is part of installed EV3 Home software, not a new custom program in `04_Python`. Classroom tuning and physical validation remain separate work.
