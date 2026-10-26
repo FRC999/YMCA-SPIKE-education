@@ -14,6 +14,10 @@ This repository is **public for reading**. Anyone can open or download these mat
 
 The links below open Markdown or PDF reading copies on GitHub. PPTX and DOCX remain available for editing. PDFs do not provide Presenter View; use the speaker-note link while practicing, or download the PPTX for slideshow delivery. Download the required files before class if internet access is uncertain. GitHub renders PDF files directly ([GitHub documentation](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files)).
 
+## On the classroom computers
+
+Open this page on GitHub to read the Markdown notes and PDF references. Before class, save the weekly Python source on each robot-control laptop and prepare/test its project in SPIKE App. Save the slide PDF or PPTX on the presentation computer and the build-card/hub PDFs on the reference computers for offline use. Print from the weekly checklist. Git and a full clone are optional tools for curriculum maintenance, not classroom requirements.
+
 ## Weekly materials
 
 | Class | Slides | Speaker notes | Team sheet | Build card | Print and bring | Program |
@@ -39,7 +43,7 @@ The links below open Markdown or PDF reading copies on GitHub. PPTX and DOCX rem
 
 ## Preparation status and maintenance
 
-[SESSION_PREP.md](SESSION_PREP.md) holds actual operational results. Use the local [interactive checklist](SESSION_PREP_CHECKLIST.html) with the [save and sync instructions](CHECKLIST_INSTRUCTIONS.md). GitHub shows HTML source; download/clone and open HTML pages locally. The Markdown/PDF links above are the browser-reading path.
+[SESSION_PREP.md](SESSION_PREP.md) is the single preparation record. Read it on GitHub; authorized collaborators can update its Markdown directly in the GitHub editor. See [preparation updates and classroom computer setup](CHECKLIST_INSTRUCTIONS.md). Teaching PCs do not need Git or a repository clone.
 
 Both SPIKE bases stay assembled with left drive motor A and right B. Keep the auxiliary motor unplugged; later lessons add C/D sensors. The separate EV3 R3PTAR is an autonomous demonstration, not a replacement teaching kit. Offline checks cannot certify physical readiness. Rehearse both robots and record actual results. Dates remain unconfirmed.
 

@@ -37,7 +37,7 @@ EV3 Home uses an infrared sensor; do not assume an Education-set ultrasonic sens
 
 Both SPIKE bases should be assembled and tested before children arrive. The official build PDF is in `06_References/LEGO_Practice_Driving_Base.pdf` (37 pages, steps 1–34).
 
-Use `03_Presentations/W01_signal_with_speaker_notes.pptx` as the current Week 1 deck and `01_Instructor/W01_Detailed_Speaker_Notes.html` as its printable companion. Both Week 1 PPTX filenames now contain the same revised six-slide deck with detailed notes. Read the PDF directly on GitHub.
+Use `03_Presentations/W01_signal_with_speaker_notes.pptx` as the current Week 1 deck and `01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.md` as its browser-readable companion. Both Week 1 PPTX filenames now contain the same revised six-slide deck with detailed notes. Read the PDF directly on GitHub.
 
 The hour is 0–5 baseline/welcome; 5–10 demonstration (about three minutes EV3 and two SPIKE); 10–14 combined code/prediction; 14–26 first robot/build rotation; 26–38 switch; 38–44 T1/T3 retest; 44–50 T2/T4 retest; 50–54 reflection; 54–60 save/reset. Rotate three jobs every four minutes in the initial turns and every two in retests. The baseline comes before coaching. Week 8 has its own showcase schedule.
 
@@ -45,9 +45,9 @@ The slide prompt “move the last line to the top” differs from the paper task
 
 ## Separate class notes and prep checklist
 
-All eight classes now have separate detailed DOCX and generated Markdown speaker notes in [01_Instructor/Speaker_Notes](01_Instructor/Speaker_Notes/README.md), with one preparation page and one page per slide. All notes now follow the six-slide decks and revised teams, roles and build activities. Week 8 has its own assessment/rehearsal/showcase schedule. Future edits must keep affected documents, slides, programs and Week 1 HTML aligned.
+All eight classes now have separate detailed DOCX and generated Markdown speaker notes in [01_Instructor/Speaker_Notes](01_Instructor/Speaker_Notes/README.md), with one preparation page and one page per slide. All notes now follow the six-slide decks and revised teams, roles and build activities. Week 8 has its own assessment/rehearsal/showcase schedule. Future edits must keep affected documents, slides, programs and reading copies aligned.
 
-Alex requested clickable prep checkmarks and instructions for use on another laptop. The local [checklist page](SESSION_PREP_CHECKLIST.html) opens and saves the actual prep Markdown; [instructions](CHECKLIST_INSTRUCTIONS.md) cover cloning, pulling, opening, saving, reviewing and pushing. GitHub also permits editing the `[ ]`/`[x]` source directly. There is no automatic sync or independent status database. No physical readiness check was completed by creating these tools.
+Alex initially requested clickable prep checkmarks. On October 25 he clarified a preference for Markdown and questioned the need for local HTML or cloning on teaching PCs. The local HTML checkbox editor and duplicate HTML references were retired. [SESSION_PREP.md](SESSION_PREP.md) remains the sole preparation record, with every existing checkbox and result preserved. Authorized collaborators can edit `[ ]`/`[x]` directly on GitHub; [instructions](CHECKLIST_INSTRUCTIONS.md) explain the workflow. Teaching PCs read GitHub and download the needed class files; cloning is optional for curriculum maintenance with Codex.
 
 ## Student trainer session
 

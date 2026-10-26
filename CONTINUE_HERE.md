@@ -2,7 +2,9 @@
 
 The repository contains the curriculum and a maintained AI handoff. A fresh chat does not automatically inherit the original conversation; the prompt below tells it exactly which project files to load. Keep the handoff current when decisions or actual results change.
 
-## On the other computer
+For teaching or reading, use the [main index](README.md) and download only the needed class files. No Git installation or clone is required. The steps below are for maintaining the curriculum with Codex on another computer. Small Markdown changes can also be made directly on GitHub.
+
+## On the curriculum maintenance computer
 
 1. Read or clone the public `FRC999/YMCA-SPIKE-education` repository without signing in. To push changes, sign in with an authorized collaborator account. Credentials and installed LEGO software are not copied with the project.
 2. Clone it into any convenient folder, using GitHub Desktop or:

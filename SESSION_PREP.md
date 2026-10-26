@@ -2,11 +2,11 @@
 
 Updated: October 25, 2026
 
-Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (public for reading as requested October 25). Initial upload completed October 25, 2026 using `atsekhan`. This folder is the local Git checkout; later changes require a commit and push.
+Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (public for reading as requested October 25). Initial upload completed October 25, 2026 using `atsekhan`. Updates can be committed in the GitHub editor; changes made in a local checkout require a commit and push.
 
 Project continuity: [new-computer continuation prompt](CONTINUE_HERE.md), [project context](PROJECT_CONTEXT.md), and [maintenance rules/backlog](MAINTENANCE.md). Four core DOCX documents have generated Markdown reading copies; update the Word sources and run the sync script whenever their content changes.
 
-Use the [interactive checklist](SESSION_PREP_CHECKLIST.html) locally to click and save these checkboxes. Follow the [save and GitHub sync instructions](CHECKLIST_INSTRUCTIONS.md). The [eight-class speaker-note index](01_Instructor/Speaker_Notes/README.md) links separate DOCX and Markdown notes for each class.
+This Markdown file is the preparation record. Follow the [browser editing and classroom setup instructions](CHECKLIST_INSTRUCTIONS.md); no clone is needed for reading or browser edits. The [eight-class speaker-note index](01_Instructor/Speaker_Notes/README.md) links separate DOCX and Markdown notes for each class.
 
 ## Current status and decisions
 
@@ -24,7 +24,7 @@ Use the [interactive checklist](SESSION_PREP_CHECKLIST.html) locally to click an
 
 The confirmed plan is four teams of three sharing two robots. Two additional tables provide hands-on builds. Bring four laptops: two for robot control and two for build references. Use [Grouping and roles](01_Instructor/Grouping_and_Roles.md) and the [weekly print-and-bring checklists](01_Instructor/Class_Preparation/README.md). The old proposed October 21 start has passed; actual dates remain to be agreed.
 
-Week 1 teaching materials: [detailed slide-by-slide notes and assembly preparation](01_Instructor/W01_Detailed_Speaker_Notes.html) and [presentation with embedded notes](03_Presentations/W01_signal_with_speaker_notes.pptx). Preassemble both SPIKE driving bases before students arrive. The first-session demonstration slot uses about three minutes for R3PTAR and two minutes for the SPIKE starter; the standalone EV3 rehearsal script below remains a five-minute maximum.
+Week 1 teaching materials: [detailed slide-by-slide notes and assembly preparation](01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.md) and [presentation with embedded notes](03_Presentations/W01_signal_with_speaker_notes.pptx). Preassemble both SPIKE driving bases before students arrive. The first-session demonstration slot uses about three minutes for R3PTAR and two minutes for the SPIKE starter; the standalone EV3 rehearsal script below remains a five-minute maximum.
 
 ## Student trainer preparation session
 
@@ -89,7 +89,7 @@ Existing diagnostic files:
 
 - [Motor smoke test](04_Python/00_mentor_smoke_test.py): tests the paired A/B drive motors; initially raise the wheels clear of the surface. It does not test all motors, sensors, or ports.
 - [Sensor readings](04_Python/00_sensor_readings.py): choose distance on C or reflection on D; repeat for both sensor modes and both kits. It does not test the force sensor.
-- [Code guide](04_Python/Code_Guide.html): setup and limitations.
+- [Code guide](04_Python/Code_Guide.md): setup and limitations.
 - [Official practice driving base instructions](06_References/LEGO_Practice_Driving_Base.pdf).
 
 Course wiring: A = left drive motor, B = right drive motor, C = distance sensor, D = color sensor. Follow the instructor guide for mounts. The base's extra motor is not electrically used by the current course programs. Check forward motion with a short command before running a course.

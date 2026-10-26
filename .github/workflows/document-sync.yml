@@ -24,5 +24,3 @@ jobs:
         run: python scripts/sync_documents.py --check
       - name: Check reviewed PDFs and other reading copies
         run: python scripts/check_reading_copies.py --check
-      - name: Test prep checklist text preservation
-        run: node --test tests/test_prep_checklist.cjs

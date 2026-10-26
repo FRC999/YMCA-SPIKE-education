@@ -41,7 +41,7 @@ Source ownership and regeneration:
 - Team sheets, baseline and final checks: extract the matching pages from the newly exported workbook PDF. Attendance comes from the evaluation-forms PDF. Locate pages by heading, rather than assuming old page numbers still apply. Current workbook pages are baseline 2, Weeks 1–8 on 3–10, final check 11; attendance is evaluation page 2.
 - Build cards and packing checklists: edit their same-name Markdown sources, then typeset/re-export the affected PDFs. Check quantities against the reusable kit. Packing PDFs are compact one-page summaries; the Markdown includes the complete preparation and closeout steps.
 - Role cards: use `01_Instructor/Grouping_and_Roles.md`; preserve two pages, three cards per page. Hub guide: use its Markdown source and the supplied reference image.
-- Week 1 HTML notes: regenerate from the Week 1 speaker-note DOCX/Markdown. Station-card and hub-guide HTML follow their same-name Markdown. `Code_Guide.html` and `Research_Sources.html` remain the sources of their Markdown reading copies; preserve code operators and links during conversion.
+- Code guide, research sources, station-card index and hub guide: their Markdown files are the maintained sources. Week 1 notes use the same DOCX/Markdown workflow as the other weeks. Duplicate HTML versions were retired after their content was preserved in Markdown/PDF.
 
 [`scripts/reading_copies.json`](scripts/reading_copies.json) records the reviewed source/output hashes. The standard-library checker detects changed or missing files, including embedded-note dependencies; it cannot prove semantic agreement or visual quality. Text hashes normalize Windows line endings. Regeneration is a normal authoring task using available tools; private `.build` scripts are not required on another computer.
 
@@ -54,9 +54,9 @@ python scripts/check_reading_copies.py --check
 
 Pass multiple output paths when several reviewed copies changed. Do not record hashes merely to hide stale exports. Add source/output mappings to the manifest for new companions. CI checks both the DOCX/Markdown pairs and this manifest without modifying files.
 
-## Interactive prep checklist maintenance
+## Preparation record maintenance
 
-[SESSION_PREP_CHECKLIST.html](SESSION_PREP_CHECKLIST.html) opens the real [SESSION_PREP.md](SESSION_PREP.md); it does not embed a status snapshot. It only changes checkbox marks. Narrative records remain editable Markdown. Follow [CHECKLIST_INSTRUCTIONS.md](CHECKLIST_INSTRUCTIONS.md), and run `node --test tests/test_prep_checklist.cjs` after changing the parser or save behavior. The page needs no installed JavaScript packages. Its direct-save/browser permission flow still needs a manual Chrome or Edge check; automated browser preview was unavailable because the browser tool blocked local file URLs. Parsing, character preservation and JavaScript syntax checks passed.
+[SESSION_PREP.md](SESSION_PREP.md) is the sole preparation record. Follow [CHECKLIST_INSTRUCTIONS.md](CHECKLIST_INSTRUCTIONS.md) to edit checkboxes and evidence directly on GitHub or in an optional local checkout. Preserve actual results and leave unreported work unchecked. The former local HTML editor, JavaScript helper and its tests have been retired. Teaching PCs need the class files and appropriate LEGO software, not Git or a clone.
 
 ## Completion checklist for each update
 
@@ -65,7 +65,7 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 - [ ] Update directly affected notes, programs, task cards, and links.
 - [ ] If DOCX changed, render/review it with the available document tools, regenerate Markdown, and check the pair.
 - [ ] If presentation content or notes changed, keep the slide-by-slide companion aligned and inspect the final deck.
-- [ ] Refresh affected PDF/HTML copies, review them, and record only the reviewed exports in the reading-copy manifest.
+- [ ] Refresh affected PDF/Markdown copies, review them, and record only the reviewed exports in the reading-copy manifest.
 - [ ] Run the relevant checks. Converter changes require the unit tests; physical robot changes require an actual reported bench test before being called verified.
 - [ ] Update `SESSION_PREP.md`, this backlog, or `PROJECT_CONTEXT.md` where the new facts belong.
 - [ ] Review `git status` and the diff, commit the scoped changes, push to the existing remote, and verify the received commit.
@@ -99,7 +99,7 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 - [x] Add GitHub-readable PDFs, Markdown companions for previous HTML-only references, and source/export drift checks.
 - [x] Make the repository public for reading at Alex’s request.
 - [x] Add separate detailed DOCX/Markdown speaker notes for each of eight classes.
-- [x] Add an interactive local prep checklist that edits checkbox marks in the shared Markdown file, plus save/pull/push instructions.
+- [x] Replace the former local HTML checklist workflow with direct Markdown editing on GitHub; preserve all preparation records.
 
 - [x] Add Markdown mirrors of all four core DOCX files.
 - [x] Add a deterministic generator and a non-writing drift check.
@@ -112,7 +112,7 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 
 - [ ] Reconcile the historical proposal calendar with confirmed session dates. Do not invent dates.
 - [ ] Incorporate actual workshop results and first-session findings into operational documents; preserve blank master forms.
-- [ ] If the revised Week 1 notes change again, update the embedded PowerPoint notes and HTML companion together.
+- [ ] If the revised Week 1 notes change again, update the embedded PowerPoint notes and DOCX/Markdown companion together.
 - [ ] Promote additional build/rehearsal scripts into portable, tracked tooling only when regeneration or further code testing requires them. The old local `.build` directory is not a dependency for this sync workflow.
 - [ ] After any source rename/deletion, review and remove or rename its generated mirror and repair incoming links; the checker intentionally does not delete content automatically.
 
@@ -120,5 +120,6 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 
 | Date | Change |
 |---|---|
+| 2026-10-25 | Retired seven redundant/local HTML pages and the checkbox-editor helper; preserved useful content in Markdown/PDF, made code/research Markdown authoritative, and clarified that classroom PCs need no repository clone. |
 | 2026-10-25 | Applied instructor practice feedback across all eight sessions; updated enrollment, roles/builds, hub guidance, reflection prompts, notes and blank forms; added browser/print copies, quantified packing lists and export checks; made the repository public as requested. |
 | 2026-10-25 | Added DOCX/Markdown synchronization, maintenance rules, backlog, and the portable AI continuation package. DOCX source content and layout were not changed by this conversion. |

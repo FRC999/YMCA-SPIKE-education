@@ -18,4 +18,4 @@ Source: the LEGO Education color-coded message sheet supplied by Alex on October
 
 ![LEGO Education SPIKE hub color-coded messages with seven labeled status patterns](LEGO_SPIKE_Hub_Color_Messages.png)
 
-[Open the printable PDF](SPIKE_Hub_Color_Guide.pdf), or use the [local HTML reference](SPIKE_Hub_Color_Guide.html) after downloading or cloning the repository. The table and original image above are directly readable on GitHub.
+[Open the printable PDF](SPIKE_Hub_Color_Guide.pdf). The table and original image above are directly readable on GitHub; no clone is needed.

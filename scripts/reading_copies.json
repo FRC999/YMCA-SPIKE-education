@@ -74,9 +74,9 @@
     },
     {
       "output": "01_Instructor/Instructor_and_Mentor_Guide.pdf",
-      "sha256": "6f482d9e95f1174213f14e412ded40d465bcbb8b2d9d14a7aa7270028d4c3591",
+      "sha256": "e325c027b35064013f4277c10eeea2ad8fc6b45804534bdf85a040673915c01e",
       "sources": {
-        "01_Instructor/Instructor_and_Mentor_Guide.docx": "af3793c681bed31ef9bbd43012a5bb83b74d3451d68ff4f6ace2c10288508e1c"
+        "01_Instructor/Instructor_and_Mentor_Guide.docx": "9bb2c5169a5d2947a56fb9cd9ee315666138d7c286086a89bc546bc08a7d8a3f"
       }
     },
     {
@@ -307,7 +307,7 @@
       "output": "06_References/SPIKE_Hub_Color_Guide.pdf",
       "sha256": "4f9c0f578eea58af1b15dc1c0729031eb020d6081c72d9a3129e111357842f3a",
       "sources": {
-        "06_References/SPIKE_Hub_Color_Guide.md": "d6f3814a99fc58543cee2fe2e440aa17e79c01e1a07c19a0fd71087948071405"
+        "06_References/SPIKE_Hub_Color_Guide.md": "a756fffaebe09483931b752372ef8dee99a5ca633158925466930b089329987a"
       }
     },
     {
@@ -371,42 +371,6 @@
       "sha256": "8ced6998989674e023848c09e1e7b91931a480cb476cd47880f68f5d7ab04f11",
       "sources": {
         "03_Presentations/W01_signal.pptx": "8ced6998989674e023848c09e1e7b91931a480cb476cd47880f68f5d7ab04f11"
-      }
-    },
-    {
-      "output": "01_Instructor/W01_Detailed_Speaker_Notes.html",
-      "sha256": "a60e7f9dd5fadfaae663cc03b01db5b6465e4cb647ff2871eedc5c78e31065be",
-      "sources": {
-        "01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.docx": "bf5af22b1ea3413c8af5ace07372061bf1ec389171c97c08916acb4b5c6443b4"
-      }
-    },
-    {
-      "output": "02_Student/Station_Task_Cards.html",
-      "sha256": "4cb2a72eb678d85885e2fa88ea2e92c89aaed331e63e581f66d9e9f93fb03129",
-      "sources": {
-        "02_Student/Station_Task_Cards.md": "53f0febe5ac057a27ef83cba1f98fa59cd18630928febdc6af1a47e3c6f2a97b"
-      }
-    },
-    {
-      "output": "06_References/SPIKE_Hub_Color_Guide.html",
-      "sha256": "258bbe9c07abc8745ca58408a3ed2fde7e7f95f2a76fbd2394eb3034b1555259",
-      "sources": {
-        "06_References/SPIKE_Hub_Color_Guide.md": "d6f3814a99fc58543cee2fe2e440aa17e79c01e1a07c19a0fd71087948071405",
-        "06_References/LEGO_SPIKE_Hub_Color_Messages.png": "d36e1705346c5c6063bd06f9a3a584d418d0afb385c99e9bdd775e89b8837f67"
-      }
-    },
-    {
-      "output": "04_Python/Code_Guide.md",
-      "sha256": "9b0d3adcf2d90b0c97f9d15bb38d39ee1c97ee37807028416cab31a2f09c7ebd",
-      "sources": {
-        "04_Python/Code_Guide.html": "36320b2f5a4ba03e7a9f77bda55845c4c21bf714f714c7e3b74101d6ccb002ba"
-      }
-    },
-    {
-      "output": "06_References/Research_Sources.md",
-      "sha256": "6ff67fd45d46ea50ea27cd6ee0322189d2e1bf11bb92ba0b534f473eb20feaf1",
-      "sources": {
-        "06_References/Research_Sources.html": "261ec3460f7e48a2a9c738f9d30273bace7e7f36d186399feb2c1958a8907925"
       }
     }
   ]
