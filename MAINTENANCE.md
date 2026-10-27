@@ -1,6 +1,6 @@
 # Maintenance rules and backlog
 
-Updated October 26, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+Updated October 27, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
 
 ## Document ownership and synchronization
 
@@ -31,6 +31,8 @@ The converter uses only the Python standard library and needs no Word installati
 The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and `--check` on pushes and pull requests. It reports drift; it does not silently rewrite or push files. The normal update task is responsible for regeneration and committing both formats. No background local-folder synchronization is configured.
 
 ## PDF and other reading copies
+
+The October 27 first-session readiness guide is authored in `01_Instructor/Class_Preparation/W01_Readiness_Guide.md`. Run `python scripts/build_w01_readiness.py` (reportlab/pypdf required) to typeset its four-page PDF and assemble `02_Student/Printouts/W01_Class_Print_Packet.pdf` from the six original handouts at the recorded quantities. The packet has 30 pages and is printed once, single-sided. Review the four guide pages and all seven unique packet pages, verify the packet sequence, then record both outputs in the export manifest. These two PDFs supplement the original 43 exports below.
 
 The root README is the GitHub reading index. PDFs preserve page/slide layout; Markdown provides searchable text. Editable DOCX/PPTX files remain available. The 43 new PDFs include four core documents, ten decks, eight team sheets, eight build cards, eight packing checklists, baseline/final checks, attendance, role cards and the hub guide. The official LEGO build PDF is an external reference and is not regenerated.
 
@@ -120,6 +122,7 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 
 | Date | Change |
 |---|---|
+| 2026-10-27 | Added complete first-session readiness guide and exact-quantity print packet, with portable PDF generation and source mapping. Updated first-class date and reported EV3 download/movement; unreported physical tests remain open. |
 | 2026-10-26 | Added R3PTAR wiring, installed-program location and click-by-click USB/first-run instructions; recorded reported assembly separately from unverified operation. |
 | 2026-10-25 | Retired seven redundant/local HTML pages and the checkbox-editor helper; preserved useful content in Markdown/PDF, made code/research Markdown authoritative, and clarified that classroom PCs need no repository clone. |
 | 2026-10-25 | Applied instructor practice feedback across all eight sessions; updated enrollment, roles/builds, hub guidance, reflection prompts, notes and blank forms; added browser/print copies, quantified packing lists and export checks; made the repository public as requested. |

@@ -1,6 +1,6 @@
 # MechaRAMS / Cheshire YMCA — session preparation tracker
 
-Updated: October 26, 2026
+Updated: October 27, 2026
 
 Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (public for reading as requested October 25). Initial upload completed October 25, 2026 using `atsekhan`. Updates can be committed in the GitHub editor; changes made in a local checkout require a commit and push.
 
@@ -10,6 +10,8 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 
 ## Current status and decisions
 
+- [x] First session confirmed for October 27, 2026 (Alex: "today"). Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and [30-page class print packet](02_Student/Printouts/W01_Class_Print_Packet.pdf). Local supervision assignments still need confirmation.
+- [x] EV3 Home Edition opened the finished R3PTAR 03 program; download produced no errors and the snake moved (Alex, October 26). Target response, strike/retraction, repeatability and runtime limiting are not yet reported.
 - [x] Curriculum accepted (reported by Alex).
 - [x] Two SPIKE Prime kits are physically available.
 - [x] Personal EV3 Home set and a large collection of other LEGO parts are available.
@@ -17,12 +19,12 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 - [ ] Inspect and test the two SPIKE kits. Neither is certified complete or working yet.
 - [x] Confirm EV3 powers on (Alex, October 23, 2026).
 - [ ] Check EV3 motors, infrared sensor, and ability to load/run a program.
-- [x] Demo selected by Alex: autonomous EV3 R3PTAR — creep forward, detect a target, hiss and strike, back away, turn, and resume. Assembly reported complete October 26; programming and functional validation remain pending.
-- [ ] Confirm actual first-session date and local supervision assignments.
+- [x] Demo selected by Alex: autonomous EV3 R3PTAR — creep forward, detect a target, hiss and strike, back away, turn, and resume. Assembly, factory-program download and movement reported October 26; full reaction and classroom adaptation remain pending.
+- [ ] Confirm local supervision assignments for the October 27 first session.
 - [x] Alex confirmed 12 children in grades 5–6, 4–6 student instructors and four available laptops (October 25).
 - [x] Make the repository public for reading (requested and verified October 25).
 
-The confirmed plan is four teams of three sharing two robots. Two additional tables provide hands-on builds. Bring four laptops: two for robot control and two for build references. Use [Grouping and roles](01_Instructor/Grouping_and_Roles.md) and the [weekly print-and-bring checklists](01_Instructor/Class_Preparation/README.md). The old proposed October 21 start has passed; actual dates remain to be agreed.
+The confirmed plan is four teams of three sharing two robots. Two additional tables provide hands-on builds. Bring four laptops: two for robot control and two for build references. Use [Grouping and roles](01_Instructor/Grouping_and_Roles.md) and the [weekly print-and-bring checklists](01_Instructor/Class_Preparation/README.md). October 27 is the confirmed first session; later dates remain to be agreed.
 
 Week 1 teaching materials: [detailed slide-by-slide notes and assembly preparation](01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.md) and [presentation with embedded notes](03_Presentations/W01_signal_with_speaker_notes.pptx). Preassemble both SPIKE driving bases before students arrive. The first-session demonstration slot uses about three minutes for R3PTAR and two minutes for the SPIKE starter; the standalone EV3 rehearsal script below remains a five-minute maximum.
 
@@ -43,7 +45,7 @@ Student instructors practiced on October 25 and reported feedback. Slides, roles
 2. Do the electronics inventory below, charge both hubs, and run basic tests.
 3. Build the two official practice driving bases. This is the practical test of whether the kits contain enough parts for the course.
 4. Record shortages and fill only those gaps from personal parts, using the loan log.
-5. R3PTAR assembly is reported complete. Follow the [EV3 connection and first-run walkthrough](01_Instructor/R3PTAR_Setup_and_First_Run.md) to connect it and transfer the installed Hunting program.
+5. R3PTAR assembly, Hunting-program transfer and movement are reported complete. Use the [EV3 walkthrough](01_Instructor/R3PTAR_Setup_and_First_Run.md) if reconnection is needed; verify restart and target reaction before the demo.
 6. Test the motors/sensor, then adapt and rehearse the autonomous classroom behavior described below.
 7. Rehearse Week 1 with the actual laptops, cables, kits, slides, and room layout.
 
@@ -127,8 +129,9 @@ Start with the installed EV3 Home Edition **R3PTAR 03 — Hunting** program usin
 - [x] EV3 powered on successfully (Alex, October 23, 2026). Sustained battery operation remains to be tested.
 - [ ] Inspect the battery compartment and confirm battery condition before the demo rehearsal.
 - [ ] Test each motor and the infrared sensor, using the brick's built-in tools where available.
-- [x] Located legacy LEGO MINDSTORMS EV3 Home Edition on this Windows computer (October 23, 2026): `C:\Program Files (x86)\LEGO Software\LEGO MINDSTORMS EV3 Home Edition\MindstormsEV3.exe`. Installed executable and registry entries confirmed; successful launch and brick connection remain untested.
-- [ ] Prove a program can be transferred over USB and run untethered.
+- [x] Located legacy LEGO MINDSTORMS EV3 Home Edition on this Windows computer (October 23, 2026): `C:\Program Files (x86)\LEGO Software\LEGO MINDSTORMS EV3 Home Edition\MindstormsEV3.exe`. Screenshots confirmed the finished program open; Alex reported successful download and movement October 26.
+- [x] Transfer the factory Hunting program to EV3 and start it (Alex, October 26: no errors; snake moves).
+- [ ] Explicitly verify untethered restart after power-off and complete target reaction.
 - [x] R3PTAR assembled (Alex, October 26, 2026); wiring and functional checks remain open.
 - [ ] Compare available mechanical parts with R3PTAR instructions; log borrowed substitutions.
 - [ ] Test the assembled fang mechanism and sensor before using the full reaction sequence.
@@ -193,12 +196,12 @@ Keep personal EV3 equipment together as a separately labeled demo kit. For loose
 
 ### Before the first session
 
-- [ ] Confirm dates, headcount, room, adult lead and teen mentors.
+- [ ] Confirm room, adult lead and teen mentor assignments for October 27; headcount is 12.
 - [ ] Confirm student laptop count, permissions, installed app, cables and charging access.
-- [ ] If enrollment differs from eight, revise group roles and station rotations before printing.
+- [x] Revise group roles and rotations for the confirmed 12 children (completed October 25).
 - [ ] Finish kit acceptance records and missing-parts list.
 - [x] Choose R3PTAR and the autonomous moving demonstration.
-- [ ] Confirm the installed EV3 Home Edition launches and connects to the brick.
+- [x] Confirm the installed EV3 Home Edition launches and connects to the brick (screenshots and successful download, October 26).
 - [ ] Build, program and rehearse the autonomous demo.
 - [ ] Prepare tape, cardboard target, student materials, name labels and transport boxes.
 - [ ] Assign one mentor to demo setup/reset and one to preparing student stations.
@@ -222,6 +225,7 @@ Keep personal EV3 equipment together as a separately labeled demo kit. For loose
 
 | Date | Update |
 |---|---|
+| 2026-10-27 | Confirmed first class is today; added complete power/software/packing guide and exact-quantity 30-page print packet. Recorded October 26 EV3 download and movement without claiming full sensor/demo acceptance or SPIKE tests. |
 | 2026-10-25 | Added separate detailed DOCX/Markdown speaker notes for all eight classes and a local interactive prep checklist with save/pull/push instructions. Physical readiness results remain unchanged. |
 | 2026-10-25 | Added four DOCX/Markdown pairs, generator/checker and CI, maintenance backlog, repository AI instructions, project context, skill, and new-computer continuation prompt. Physical readiness statuses remain unchanged. |
 | 2026-10-25 | Added the two-hour trainer session plan and student-led work orders. First task: assemble and test both SPIKE bases. Blank kit and trainer records distinguish the planned session from completed checks. |
@@ -241,7 +245,7 @@ Keep personal EV3 equipment together as a separately labeled demo kit. For loose
 - [Official R3PTAR build instructions (PDF)](https://www.lego.com/cdn/cs/set/assets/bltfa9d17de847b8936/31313_R3PTAR_2016.pdf)
 - [EV3 user guide, including infrared proximity mode (PDF)](https://www.lego.com/cdn/cs/set/assets/bltbef4d6ce0f40363c/LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf)
 
-EV3 power-on and R3PTAR assembly are confirmed by Alex. Remaining inventory, other builds, programming and functional tests are pending until performed and recorded. This tracker distinguishes planned behavior from verified results.
+EV3 power-on, R3PTAR assembly, factory-program transfer and movement are confirmed by Alex. Remaining inventory, SPIKE builds/tests, EV3 target reaction and classroom adaptation are pending until performed and recorded. This tracker distinguishes planned behavior from verified results.
 
 
 

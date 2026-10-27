@@ -1,5 +1,7 @@
 # Class preparation and printing
 
+For the first session on October 27, use the [complete readiness guide](W01_Readiness_Guide.md) ([four-page PDF](W01_Readiness_Guide.pdf)): batteries, charging, software setup, exact print list, packing and arrival checks. The [30-page class packet](../../02_Student/Printouts/W01_Class_Print_Packet.pdf) already includes the required quantities; print ONE copy, single-sided.
+
 Use the matching week below. Each checklist covers 12 children in four teams of three, two SPIKE kits and 4–6 student instructors plus an adult lead. Pack the [reusable kit](Reusable_Kit.md) every week. Quantities are targets; check owned supplies before buying.
 
 Print worksheets single-sided at actual size on US Letter. PDF files open on GitHub for reading; download or use the PDF viewer’s print command for reliable printing. The class deck is for display, not a student handout. Speaker notes are available digitally; one printed lead copy is optional.

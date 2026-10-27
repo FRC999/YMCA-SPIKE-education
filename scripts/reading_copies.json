@@ -372,6 +372,28 @@
       "sources": {
         "03_Presentations/W01_signal.pptx": "8ced6998989674e023848c09e1e7b91931a480cb476cd47880f68f5d7ab04f11"
       }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W01_Readiness_Guide.pdf",
+      "sha256": "088857ac7e5e88859f68510e02e32edd101f753961bd9373acdca0f693803a4b",
+      "sources": {
+        "01_Instructor/Class_Preparation/W01_Readiness_Guide.md": "1a296aaff50f9acdcb121b8a1e5e7e22b15018b2de668116285fd5b902415a2b",
+        "scripts/build_w01_readiness.py": "2bb6b4fc6d6a8f9f35cf30dab2cb66aa46885a93f194f77a058ee2047e930aed"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W01_Class_Print_Packet.pdf",
+      "sha256": "cdd218b0d70ad333ff2ccb251e0b3edc9c4bec51e832909bd313bc944b55b071",
+      "sources": {
+        "01_Instructor/Class_Preparation/W01_Readiness_Guide.md": "1a296aaff50f9acdcb121b8a1e5e7e22b15018b2de668116285fd5b902415a2b",
+        "scripts/build_w01_readiness.py": "2bb6b4fc6d6a8f9f35cf30dab2cb66aa46885a93f194f77a058ee2047e930aed",
+        "02_Student/Printouts/Baseline.pdf": "e34e20c786020d5d5644eb909e2a51a97baf45b461568917ed742068df5de5af",
+        "02_Student/Printouts/W01_signal_Team_Sheet.pdf": "69502d98e13baa3c12ff8a8f6f3245073ea33e7306541d70ed4f691c0076dfdf",
+        "02_Student/Printouts/W01_signal_Build_Card.pdf": "5324b5bca26fb3cd64685be6c9d8f9885a64d878cf308b2d7035e2ab00c0290f",
+        "02_Student/Printouts/Attendance.pdf": "3124039f37df9eb6f362773b03feb9aa68f7df128d284abefed2e8b59ced8bc7",
+        "02_Student/Printouts/Role_Cards.pdf": "646363c5a279711fd4552bceced6dbbc2566e8b98ca18064decaee54314ba9f1",
+        "06_References/SPIKE_Hub_Color_Guide.pdf": "4f9c0f578eea58af1b15dc1c0729031eb020d6081c72d9a3129e111357842f3a"
+      }
     }
   ]
 }

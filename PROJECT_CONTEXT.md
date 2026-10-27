@@ -1,6 +1,6 @@
 # Project context for continuing this work
 
-Last reviewed: October 26, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
+Last reviewed: October 27, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
 
 ## Purpose and people
 
@@ -12,7 +12,7 @@ The curriculum was originally prepared as a proposal and Alex reported it accept
 
 - Eight weekly sessions, one hour each, using two existing SPIKE Prime kits.
 - Confirmed October 25: 12 children in four teams of three, two teams per kit, 4–6 student instructors and an adult lead. Four laptops are available; bring two for robot control and two for build references. Dates and local assignments remain open.
-- The original proposal included an October 21 start and November/December dates. Those are illustrative, not booked dates; the start has passed. Confirm the actual calendar before revising it.
+- Alex confirmed the first class is October 27, 2026 ("today"). The original proposal's October 21 start is superseded; later dates remain unconfirmed. Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and its four-page PDF; the linked 30-page class packet contains exact copy quantities.
 - Start with scaffolded real Python in SPIKE App 3. Students edit a small `student_recipe` in a complete supplied program. This is not drag-and-drop Python, desktop Python, Pybricks, or the older `from spike import PrimeHub` API. A mentor-tested Word Blocks fallback can preserve the learning goal.
 - Weeks: signals/sequence; delivery/calibration; dance/loops; distance-based parking; dark-marker sensing; passive rescue attachment/functions; chosen community mission; showcase/reflection.
 - Keep both official practice driving bases assembled. Use the same base throughout the course; students build removable attachments or course models every week.
@@ -29,7 +29,7 @@ The supplied programs have offline syntax/mock-logic checks from initial prepara
 
 Alex specifically wants something exciting and autonomous, not a robot merely driven by remote. The selected model is EV3 Home **R3PTAR**. Approved behavior: creep forward, detect a cardboard target, hiss and strike, retract, back away, turn, and resume when clear. Use bounded movement and a finite run duration; a taped boundary does not make the robot sense an edge. Keep both SPIKE bases available to learners.
 
-Confirmed October 23: the EV3 powered on. Legacy LEGO MINDSTORMS EV3 Home Edition was found on the original Windows computer. Alex reported R3PTAR assembled on October 26. The EV3 application process launched during instruction preparation, but its screen could not be captured. Brick connection, motor/IR checks and reliable demo operation remain unverified. Installed R3PTAR Mission 3 (Hunting) includes a finished autonomous program; standard ports are A steering, B drive, D strike and infrared 4. See [connection and first-run instructions](01_Instructor/R3PTAR_Setup_and_First_Run.md). The factory program uses an unlimited loop; classroom speed/timing adaptation and acceptance testing are still required. A new computer needs its own software/device setup; the old installation does not travel with Git.
+Confirmed October 23: the EV3 powered on. Legacy LEGO MINDSTORMS EV3 Home Edition was found on the original Windows computer. On October 26 Alex reported assembly complete, supplied screenshots showing the finished R3PTAR 03 program, reported no download errors, and confirmed the snake moved. Full infrared/strike/retreat response, untethered restart after power-off and demo acceptance remain unverified. Installed Mission 3 (Hunting) uses A steering, B drive, D strike and infrared 4. See [connection and first-run instructions](01_Instructor/R3PTAR_Setup_and_First_Run.md). The factory program uses an unlimited loop; classroom speed/timing adaptation and acceptance testing are still required. The October 27 guide distinguishes a brief continuously supervised manually stopped demonstration from the still-unverified automatic duration limit. A new computer needs its own software/device setup; the old installation does not travel with Git.
 
 EV3 Home uses an infrared sensor; do not assume an Education-set ultrasonic sensor or gyro. EV3 and SPIKE electronics are not directly interchangeable, although many mechanical Technic pieces can be shared.
 
@@ -75,7 +75,7 @@ Alex explicitly requested GitHub sync after all project changes, Markdown copies
 
 1. Obtain actual results from the trainer session: kit completion, shortages, connectivity, trainer readiness, and remaining owners/tasks. Update the tracker with dated evidence.
 2. Finish any outstanding SPIKE tests and first-session rehearsal.
-3. With R3PTAR assembly reported complete, follow the EV3 first-run guide for USB transfer, motor/IR checks and the factory autonomous program; then adapt and repeatedly test the classroom demonstration.
-4. Confirm first-session dates and local assignments. Enrollment, age group, available mentors and four laptops are settled.
+3. With R3PTAR download and movement reported, verify full target response, restart and stop behavior; adapt and repeatedly test the classroom demonstration.
+4. Prepare for the confirmed October 27 first session using the readiness guide; confirm local assignments and later dates. Enrollment, age group, available mentors and four laptops are settled.
 
 Do not repeat settled design questions or redesign the course merely because this is a new chat. If the user gives a different immediate task, follow it and preserve these decisions unless explicitly changed.
