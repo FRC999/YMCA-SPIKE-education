@@ -6,7 +6,7 @@ This repository is **public for reading**. Anyone can open or download these mat
 
 ## Prepare and practice
 
-- **First session, October 27:** [Complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) · [Print the four-page guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.pdf) · [30-page class packet: print ONE copy](02_Student/Printouts/W01_Class_Print_Packet.pdf)
+- **First session, October 27:** [Complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) · [Print the four-page guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.pdf) · [16-page class packet: print ONE copy](02_Student/Printouts/W01_Class_Print_Packet.pdf)
 - [How the four teams and roles work](01_Instructor/Grouping_and_Roles.md)
 - [What to print and bring each week](01_Instructor/Class_Preparation/README.md) · [Reusable kit](01_Instructor/Class_Preparation/Reusable_Kit.md)
 - [Hub light colors and patterns](06_References/SPIKE_Hub_Color_Guide.md) · [Printable hub guide](06_References/SPIKE_Hub_Color_Guide.pdf)
@@ -41,7 +41,7 @@ Open this page on GitHub to read the Markdown notes and PDF references. Before c
 - Evaluation and blank partner forms: [Read](05_Evaluation/Evaluation_and_Partner_Forms.md) · [Print PDF](05_Evaluation/Evaluation_and_Partner_Forms.pdf) · [Edit Word](05_Evaluation/Evaluation_and_Partner_Forms.docx)
 - [Python code guide](04_Python/Code_Guide.md) · [Research sources](06_References/Research_Sources.md)
 - [Official LEGO base assembly PDF](06_References/LEGO_Practice_Driving_Base.pdf)
-- [Baseline check](02_Student/Printouts/Baseline.pdf) · [Final check](02_Student/Printouts/Final_Check.pdf) · [Role cards](02_Student/Printouts/Role_Cards.pdf) · [Attendance](02_Student/Printouts/Attendance.pdf)
+- [Final check](02_Student/Printouts/Final_Check.pdf) · [Role cards](02_Student/Printouts/Role_Cards.pdf) · [Attendance](02_Student/Printouts/Attendance.pdf)
 
 ## Preparation status and maintenance
 

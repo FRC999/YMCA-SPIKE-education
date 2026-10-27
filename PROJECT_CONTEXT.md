@@ -12,7 +12,7 @@ The curriculum was originally prepared as a proposal and Alex reported it accept
 
 - Eight weekly sessions, one hour each, using two existing SPIKE Prime kits.
 - Confirmed October 25: 12 children in four teams of three, two teams per kit, 4–6 student instructors and an adult lead. Four laptops are available; bring two for robot control and two for build references. Dates and local assignments remain open.
-- Alex confirmed the first class is October 27, 2026 ("today"). The original proposal's October 21 start is superseded; later dates remain unconfirmed. Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and its four-page PDF; the linked 30-page class packet contains exact copy quantities.
+- Alex confirmed the first class is October 27, 2026 ("today"). The original proposal's October 21 start is superseded; later dates remain unconfirmed. Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and its four-page PDF; the linked 16-page class packet contains exact copy quantities.
 - Start with scaffolded real Python in SPIKE App 3. Students edit a small `student_recipe` in a complete supplied program. This is not drag-and-drop Python, desktop Python, Pybricks, or the older `from spike import PrimeHub` API. A mentor-tested Word Blocks fallback can preserve the learning goal.
 - Weeks: signals/sequence; delivery/calibration; dance/loops; distance-based parking; dark-marker sensing; passive rescue attachment/functions; chosen community mission; showcase/reflection.
 - Keep both official practice driving bases assembled. Use the same base throughout the course; students build removable attachments or course models every week.
@@ -35,11 +35,13 @@ EV3 Home uses an infrared sensor; do not assume an Education-set ultrasonic sens
 
 ## First-session teaching plan
 
+October 27 correction from Alex: children already answered prior-experience questions. Begin with welcome, curiosity and a robot demonstration, without a technical quiz or a request to admit what they do not know. The old baseline is retired. Record learning through dated work, mentor observations and final explanations; do not claim pre/post score gains without a concept baseline.
+
 Both SPIKE bases should be assembled and tested before children arrive. The official build PDF is in `06_References/LEGO_Practice_Driving_Base.pdf` (37 pages, steps 1–34).
 
 Use `03_Presentations/W01_signal_with_speaker_notes.pptx` as the current Week 1 deck and `01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.md` as its browser-readable companion. Both Week 1 PPTX filenames now contain the same revised six-slide deck with detailed notes. Read the PDF directly on GitHub.
 
-The hour is 0–5 baseline/welcome; 5–10 demonstration (about three minutes EV3 and two SPIKE); 10–14 combined code/prediction; 14–26 first robot/build rotation; 26–38 switch; 38–44 T1/T3 retest; 44–50 T2/T4 retest; 50–54 reflection; 54–60 save/reset. Rotate three jobs every four minutes in the initial turns and every two in retests. The baseline comes before coaching. Week 8 has its own showcase schedule.
+The hour is 0–5 welcome and introductions; 5–10 demonstration (about three minutes EV3 and two SPIKE); 10–14 combined code/prediction; 14–26 first robot/build rotation; 26–38 switch; 38–44 T1/T3 retest; 44–50 T2/T4 retest; 50–54 reflection; 54–60 save/reset. Rotate three jobs every four minutes in the initial turns and every two in retests. There is no opening quiz, ability rating or repeated prior-experience survey. Mentors notice support needs during coached activities. Week 8 has its own showcase schedule.
 
 The slide prompt “move the last line to the top” differs from the paper task “swap first and last.” Keep the intended operation clear. For the original signal/pause/drive recipe, the former gives drive/signal/pause; the latter gives drive/pause/signal.
 

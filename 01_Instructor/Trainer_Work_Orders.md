@@ -14,7 +14,7 @@ The [facilitator plan](Trainer_Session_Plan.md) contains the schedule and adult 
 | Code setup | [Code Guide](../04_Python/Code_Guide.md) | App, complete file, recipe area, units |
 | Lesson instructions | [Week 1 detailed speaker notes](Speaker_Notes/W01_signal_Speaker_Notes.md) | What to say, ask, demonstrate, and do |
 | Student slides | [Week 1 deck with notes](../03_Presentations/W01_signal.pdf) | Rehearse the lesson |
-| Student materials | [Workbook](../02_Student/Student_Workbook.md) and [Week 1 station card](../02_Student/Station_Task_Cards.md) | Baseline and work away from the robot |
+| Student materials | [Workbook](../02_Student/Student_Workbook.md) and [Week 1 station card](../02_Student/Station_Task_Cards.md) | Coached team activity and build instructions |
 
 On GitHub, open a Python file and use **Raw** or download the file to copy its plain text. On a training computer, open the downloaded `.py` file in a text editor. HTML guides should be opened locally in a browser; GitHub normally shows their source. The repository is public for reading; use Markdown and PDF links directly, and keep offline copies for the session.
 
@@ -137,7 +137,7 @@ Use this feedback sentence: **“One thing that helped me learn was ____. Next t
 3. Photograph your finished chassis and A/B wiring for future setup; keep people out of the reference pictures.
 4. Leave the base assembled. Store loose parts and borrowed parts in their labeled locations. Confirm the charging and storage assignment with the adult.
 5. Give the adult one short report: **“Kit ___ is ready / blocked. We verified ___. The remaining task is ___, owned by ___, to be checked by ___.”**
-6. Confirm your first-session role. The learner baseline happens before the demonstrations; children switch driver/navigator roles; the last six minutes are reserved for saving and cleanup. R3PTAR has its own assigned operator and rehearsal.
+6. Confirm your first-session role. Start with names, mentor introductions and the stop signal, then the robot demonstrations. Do not give an opening quiz or ask children to rate their abilities. Children rotate three roles; the last six minutes are reserved for saving and cleanup. R3PTAR has its own assigned operator and rehearsal.
 
 ## Kit completion record
 

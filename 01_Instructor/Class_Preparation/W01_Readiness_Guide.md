@@ -6,20 +6,19 @@ Start now: charge both SPIKE hubs and all four laptops. While they charge, print
 
 ## 1. Print this exact set
 
-Print **ONE copy of [W01_Class_Print_Packet.pdf](../../02_Student/Printouts/W01_Class_Print_Packet.pdf)**: US Letter, single-sided, actual size. It already contains every copy below: **30 pages total**. Do not also print the individual files unless you need replacements.
+Print **ONE copy of [W01_Class_Print_Packet.pdf](../../02_Student/Printouts/W01_Class_Print_Packet.pdf)**: US Letter, single-sided, actual size. It already contains every copy below: **16 pages total**. Do not also print the individual files unless you need replacements. There is no opening assessment.
 
 | Paper | Copies/pages to bring | Packet pages | Use |
 |---|---|---|---|
-| [Baseline](../../02_Student/Printouts/Baseline.pdf) | 14 one-page copies | 1-14 | One per child plus two spares; before coaching |
-| [Week 1 team sheet](../../02_Student/Printouts/W01_signal_Team_Sheet.pdf) | 5 one-page copies | 15-19 | One per team plus one spare |
-| [Week 1 build card](../../02_Student/Printouts/W01_signal_Build_Card.pdf) | 4 one-page copies | 20-23 | One per team |
-| [Attendance](../../02_Student/Printouts/Attendance.pdf) | 1 page | 24 | One class record |
-| [Role cards](../../02_Student/Printouts/Role_Cards.pdf) | Two copies of both pages: 4 sheets | 25-28 | Cut into 12 cards; one set per station |
-| [Hub color guide](../../06_References/SPIKE_Hub_Color_Guide.pdf) | 2 one-page copies | 29-30 | One per robot station |
+| [Week 1 team sheet](../../02_Student/Printouts/W01_signal_Team_Sheet.pdf) | 5 one-page copies | 1-5 | One per team plus one spare; use during the activity |
+| [Week 1 build card](../../02_Student/Printouts/W01_signal_Build_Card.pdf) | 4 one-page copies | 6-9 | One per team |
+| [Attendance](../../02_Student/Printouts/Attendance.pdf) | 1 page | 10 | One class record |
+| [Role cards](../../02_Student/Printouts/Role_Cards.pdf) | Two copies of both pages: 4 sheets | 11-14 | Cut into 12 cards; one set per station |
+| [Hub color guide](../../06_References/SPIKE_Hub_Color_Guide.pdf) | 2 one-page copies | 15-16 | One per robot station |
 
-Black and white is usable; color is helpful for pages 29-30. Keep the role cards and hub guides for later weeks. Write student IDs on assessment papers and keep completed records private.
+Black and white is usable; color is helpful for pages 15-16. Keep the role cards and hub guides for later weeks. Use student IDs on team records and keep completed records private.
 
-Print **one copy of [this readiness guide](W01_Readiness_Guide.pdf)** for yourself if useful: four more sheets, **34 sheets including the class packet**. It replaces the need to print the older one-page packing checklist today.
+Print **one copy of [this readiness guide](W01_Readiness_Guide.pdf)** for yourself if useful: four more sheets, **20 sheets including the class packet**. It replaces the need to print the older one-page packing checklist today.
 
 Keep the [detailed speaker notes](../Speaker_Notes/W01_signal_Speaker_Notes.md) available digitally; a printed [Word copy](../Speaker_Notes/W01_signal_Speaker_Notes.docx) for the lead is optional. Display the [six-slide deck](../../03_Presentations/W01_signal.pdf); do not print a deck or full workbook for every child. Hand-label four station signs and four team trays T1-T4.
 
@@ -89,7 +88,7 @@ The snake already has its program. Keep the working **LEGO MINDSTORMS EV3 Home E
 - [ ] Six pre-cut card faces/name flags (four teams plus two examples), 12 brace strips, one box of 12 crayons/markers, two rolls craft tape, two supervised child-safe scissors.
 - [ ] 14 sharpened pencils, 14 erasers, two sharpeners, four rulers, two measuring tapes and two rolls removable floor-safe tape.
 - [ ] Four clipboards/firm writing surfaces, four labeled storage bags, one private records folder, four station signs and two timers (phone timers are fine).
-- [ ] The 30-sheet class packet, optional four-sheet lead guide, transport boxes, and a bag for personal parts to return.
+- [ ] The 16-sheet class packet, optional four-sheet lead guide, transport boxes, and a bag for personal parts to return.
 - [ ] R3PTAR, its batteries/charger as applicable, cardboard target and mini-USB cable only after the demonstration rehearsal passes. Keep it separate from student robot lanes.
 
 ### Rehearse before departure
@@ -104,10 +103,10 @@ Confirmed October 26: EV3 download and movement. SPIKE tests and the full snake 
 
 - [ ] Confirm room, adult lead and 4-6 student instructors. Assign two robot mentors and two build mentors; extras float. Confirm attendance/pickup arrangements with YMCA staff and prepare student IDs privately.
 - [ ] Set Robot A, Build A, Robot B and Build B stations; T1/T2 share A and T3/T4 share B. Clear two robot lanes. Place all power leads away from feet and wheels.
-- [ ] Open saved slides/projects, test the display and one short run per base, place role cards and supplies, and set the baseline sheets aside for the opening activity.
+- [ ] Open saved slides/projects, test the display and one short run per base, and place role cards and supplies. Keep team sheets for the coached activity after the demonstrations.
 
 ### The hour and closeout
 
-0-5 baseline/welcome; 5-10 demonstrations; 10-14 code/prediction; 14-26 first robot/build turn; 26-38 switch; 38-44 T1/T3 retest; 44-50 T2/T4 retest; 50-54 reflection; 54-60 save/reset. Give the baseline before teaching code. Rotate three roles every four minutes in initial turns and every two minutes in retests.
+0-5 names, mentor introductions and the stop signal; 5-10 demonstrations; 10-14 code/prediction; 14-26 first robot/build turn; 26-38 switch; 38-44 T1/T3 retest; 44-50 T2/T4 retest; 50-54 reflection; 54-60 save/reset. Say: Today you will make a robot move and build something for it. Use no opening quiz or ability rating; prior experience was already asked about. Rotate roles every four minutes in initial turns and every two in retests.
 
-Save four team projects; collect attendance, baseline and team sheets privately; bag four labeled builds; count parts; switch off hubs; assign who takes each hub/laptop home and charges it for the next session. Keep both teaching bases assembled.
+Save four team projects; collect attendance and team sheets privately; bag four labeled builds; count parts; switch off hubs; assign who takes each hub/laptop home and charges it for the next session. Keep both teaching bases assembled.

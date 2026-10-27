@@ -49,7 +49,7 @@ At the robot, use the job before the slash. At the build table, use the job afte
 
 | Minutes | T1 and T3 | T2 and T4 | Role-change times |
 |---|---|---|---|
-| 0–5 | Welcome and quick check | Welcome and quick check | Week 1 baseline before coaching |
+| 0–5 | Welcome and introductions | Welcome and introductions | Week 1: names, mentors and stop signal; no opening quiz |
 | 5–10 | Short demonstration | Short demonstration | Hub-light reminder |
 | 10–14 | Read the robot rule and predict | Read the robot rule and predict | Combined code/prediction slide |
 | 14–26 | Robot | Build | 18 and 22 |

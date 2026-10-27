@@ -4,6 +4,7 @@
 Requires reportlab and pypdf. Review rendered PDFs before recording export hashes.
 """
 from pathlib import Path
+from io import BytesIO
 import re
 from xml.sax.saxutils import escape
 
@@ -20,7 +21,6 @@ ROOT = Path(__file__).resolve().parents[1]
 GUIDE = ROOT / '01_Instructor/Class_Preparation/W01_Readiness_Guide.md'
 PACKET = ROOT / '02_Student/Printouts/W01_Class_Print_Packet.pdf'
 SECTIONS = [
-    ('02_Student/Printouts/Baseline.pdf', 14, 1),
     ('02_Student/Printouts/W01_signal_Team_Sheet.pdf', 5, 1),
     ('02_Student/Printouts/W01_signal_Build_Card.pdf', 4, 1),
     ('02_Student/Printouts/Attendance.pdf', 1, 1),
@@ -120,7 +120,7 @@ def packet_pdf():
     writer = PdfWriter()
     expected_text = []
     for filename, copies, expected_pages in SECTIONS:
-        source = PdfReader(ROOT / filename)
+        source = PdfReader(BytesIO((ROOT / filename).read_bytes()))
         if len(source.pages) != expected_pages:
             raise ValueError(f'Unexpected source page count: {filename}')
         for _ in range(copies):
@@ -129,12 +129,13 @@ def packet_pdf():
                 expected_text.append(page.extract_text())
     writer.add_metadata({'/Title': 'Week 1 class packet - print one copy, single-sided',
                          '/Author': 'MechaRAMS / Cheshire YMCA'})
-    with PACKET.open('wb') as stream:
-        writer.write(stream)
-    output = PdfReader(PACKET)
-    if len(output.pages) != 30 or [p.extract_text() for p in output.pages] != expected_text:
+    stream = BytesIO()
+    writer.write(stream)
+    PACKET.write_bytes(stream.getvalue())
+    output = PdfReader(BytesIO(stream.getvalue()))
+    if len(output.pages) != 16 or [p.extract_text() for p in output.pages] != expected_text:
         raise ValueError('Print packet failed quantity/content verification')
-    print('Class packet: 30 pages; every page matches its ordered source text')
+    print('Class packet: 16 pages; every page matches its ordered source text')
 
 
 if __name__ == '__main__':

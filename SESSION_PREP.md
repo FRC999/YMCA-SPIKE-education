@@ -10,7 +10,9 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 
 ## Current status and decisions
 
-- [x] First session confirmed for October 27, 2026 (Alex: "today"). Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and [30-page class print packet](02_Student/Printouts/W01_Class_Print_Packet.pdf). Local supervision assignments still need confirmation.
+- [x] October 27 opening revised at Alex's request: prior experience was already asked about. No opening concept test, ability rating or repeated survey. Use names, mentor introductions, the stop signal and robot demonstrations; notice support needs during the activities. The print packet now has 16 sheets.
+
+- [x] First session confirmed for October 27, 2026 (Alex: "today"). Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and [16-page class print packet](02_Student/Printouts/W01_Class_Print_Packet.pdf). Local supervision assignments still need confirmation.
 - [x] EV3 Home Edition opened the finished R3PTAR 03 program; download produced no errors and the snake moved (Alex, October 26). Target response, strike/retraction, repeatability and runtime limiting are not yet reported.
 - [x] Curriculum accepted (reported by Alex).
 - [x] Two SPIKE Prime kits are physically available.
@@ -151,7 +153,7 @@ Start with the installed EV3 Home Edition **R3PTAR 03 — Hunting** program usin
 
 ### Five-minute presentation
 
-Use the existing Week 1 demonstration slot after the brief baseline activity.
+Use the existing Week 1 demonstration slot after the welcome and mentor introductions.
 
 - 0:00–0:30: Introduce the snake and ask what would make a machine “notice” something.
 - 0:30–1:30: Bring in the cardboard target; let the autonomous reaction happen.
@@ -225,7 +227,8 @@ Keep personal EV3 equipment together as a separately labeled demo kit. For loose
 
 | Date | Update |
 |---|---|
-| 2026-10-27 | Confirmed first class is today; added complete power/software/packing guide and exact-quantity 30-page print packet. Recorded October 26 EV3 download and movement without claiming full sensor/demo acceptance or SPIKE tests. |
+| 2026-10-27 | Removed the opening baseline at Alex's request; prior experience was already asked about. Revised welcome, packet (16 sheets), guide, workbook, notes and evaluation language. |
+| 2026-10-27 | Confirmed first class is today; added complete power/software/packing guide and exact-quantity 16-page print packet. Recorded October 26 EV3 download and movement without claiming full sensor/demo acceptance or SPIKE tests. |
 | 2026-10-25 | Added separate detailed DOCX/Markdown speaker notes for all eight classes and a local interactive prep checklist with save/pull/push instructions. Physical readiness results remain unchanged. |
 | 2026-10-25 | Added four DOCX/Markdown pairs, generator/checker and CI, maintenance backlog, repository AI instructions, project context, skill, and new-computer continuation prompt. Physical readiness statuses remain unchanged. |
 | 2026-10-25 | Added the two-hour trainer session plan and student-led work orders. First task: assemble and test both SPIKE bases. Blank kit and trainer records distinguish the planned session from completed checks. |

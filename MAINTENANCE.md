@@ -32,15 +32,15 @@ The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and
 
 ## PDF and other reading copies
 
-The October 27 first-session readiness guide is authored in `01_Instructor/Class_Preparation/W01_Readiness_Guide.md`. Run `python scripts/build_w01_readiness.py` (reportlab/pypdf required) to typeset its four-page PDF and assemble `02_Student/Printouts/W01_Class_Print_Packet.pdf` from the six original handouts at the recorded quantities. The packet has 30 pages and is printed once, single-sided. Review the four guide pages and all seven unique packet pages, verify the packet sequence, then record both outputs in the export manifest. These two PDFs supplement the original 43 exports below.
+The October 27 first-session readiness guide is authored in `01_Instructor/Class_Preparation/W01_Readiness_Guide.md`. Run `python scripts/build_w01_readiness.py` (reportlab/pypdf required) to typeset its four-page PDF and assemble `02_Student/Printouts/W01_Class_Print_Packet.pdf` from the five original handouts at the recorded quantities. The packet has 16 pages and is printed once, single-sided. Review the four guide pages and all six unique packet pages, verify the packet sequence, then record both outputs in the export manifest. These two PDFs supplement the original 43 exports below.
 
-The root README is the GitHub reading index. PDFs preserve page/slide layout; Markdown provides searchable text. Editable DOCX/PPTX files remain available. The 43 new PDFs include four core documents, ten decks, eight team sheets, eight build cards, eight packing checklists, baseline/final checks, attendance, role cards and the hub guide. The official LEGO build PDF is an external reference and is not regenerated.
+The root README is the GitHub reading index. PDFs preserve page/slide layout; Markdown provides searchable text. Editable DOCX/PPTX files remain available. The 43 new PDFs include four core documents, ten decks, eight team sheets, eight build cards, eight packing checklists, the final check, attendance, role cards and the hub guide. The official LEGO build PDF is an external reference and is not regenerated.
 
 Source ownership and regeneration:
 
 - Core PDFs: export the matching DOCX to PDF with Word or the available document renderer; inspect every page.
 - Deck PDFs: export the matching PPTX as slides, with one slide per page. The current PDFs contain the reviewed slide images at 1280 × 720, preserving layout. Use the Markdown speaker notes for text and the PPTX for Presenter View. When notes change, update the corresponding embedded PPTX notes from the six slide sections in the speaker-note DOCX. Keep both Week 1 PPTX filenames identical.
-- Team sheets, baseline and final checks: extract the matching pages from the newly exported workbook PDF. Attendance comes from the evaluation-forms PDF. Locate pages by heading, rather than assuming old page numbers still apply. Current workbook pages are baseline 2, Weeks 1–8 on 3–10, final check 11; attendance is evaluation page 2.
+- Team sheets and final checks: extract the matching pages from the newly exported workbook PDF. Attendance comes from the evaluation-forms PDF. Locate pages by heading, rather than assuming old page numbers still apply. The former baseline page is now a welcoming introduction on page 2, with no questions or ratings. Weeks 1–8 remain on pages 3–10, final check on page 11; attendance is evaluation page 2.
 - Build cards and packing checklists: edit their same-name Markdown sources, then typeset/re-export the affected PDFs. Check quantities against the reusable kit. Packing PDFs are compact one-page summaries; the Markdown includes the complete preparation and closeout steps.
 - Role cards: use `01_Instructor/Grouping_and_Roles.md`; preserve two pages, three cards per page. Hub guide: use its Markdown source and the supplied reference image.
 - Code guide, research sources, station-card index and hub guide: their Markdown files are the maintained sources. Week 1 notes use the same DOCX/Markdown workflow as the other weeks. Duplicate HTML versions were retired after their content was preserved in Markdown/PDF.
@@ -122,6 +122,7 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 
 | Date | Change |
 |---|---|
+| 2026-10-27 | Removed the opening baseline at Alex's request; prior experience was already asked about. Revised welcome, packet (16 sheets), guide, workbook, notes and evaluation language. |
 | 2026-10-27 | Added complete first-session readiness guide and exact-quantity print packet, with portable PDF generation and source mapping. Updated first-class date and reported EV3 download/movement; unreported physical tests remain open. |
 | 2026-10-26 | Added R3PTAR wiring, installed-program location and click-by-click USB/first-run instructions; recorded reported assembly separately from unverified operation. |
 | 2026-10-25 | Retired seven redundant/local HTML pages and the checkbox-editor helper; preserved useful content in Markdown/PDF, made code/research Markdown authoritative, and clarified that classroom PCs need no repository clone. |

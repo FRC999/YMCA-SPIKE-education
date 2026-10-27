@@ -94,7 +94,7 @@ Assign these jobs before leaving. One person may hold several jobs, but avoid gi
 | Kit A student rotations and coaching | ______ | First session practice blocks |
 | Kit B student rotations and coaching | ______ | First session practice blocks |
 | R3PTAR build/program/rehearsal and demo operation | ______ | Ready before class; about 3 minutes in the demo slot |
-| Baseline/workbook printing and team IDs | ______ | Before class |
+| Team-sheet/build-card printing and team IDs | ______ | Before class |
 | Timer, role-switch announcements, and transitions | ______ | During class |
 | Save work, storage, and post-session issue log | ______ | Final six minutes and after dismissal |
 | Adult supervision and YMCA procedures | ______ | Throughout |
