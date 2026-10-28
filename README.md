@@ -22,6 +22,8 @@ Open this page on GitHub to read the Markdown notes and PDF references. Before c
 
 ## Weekly materials
 
+**After the first class:** use the [plan for sessions 2–8](01_Instructor/Remaining_Sessions_Plan.md) for the recommended sequence, optional stretches, build tasks and instructor rehearsal. Keep the one-hour schedule. A complete optional Week 7 timed delivery lesson is linked below; the original mission remains available.
+
 | Class | Slides | Speaker notes | Team sheet | Build card | Print and bring | Program |
 |---|---|---|---|---|---|---|
 | 1 Meet your robot | [PDF](03_Presentations/W01_signal.pdf) | [Read](01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.md) | [PDF](02_Student/Printouts/W01_signal_Team_Sheet.pdf) | [Read](02_Student/Printouts/W01_signal_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W01_signal_Checklist.md) | [Python](04_Python/W01_signal.py) |
@@ -32,6 +34,12 @@ Open this page on GitHub to read the Markdown notes and PDF references. Before c
 | 6 A rescue attachment | [PDF](03_Presentations/W06_rescue.pdf) | [Read](01_Instructor/Speaker_Notes/W06_rescue_Speaker_Notes.md) | [PDF](02_Student/Printouts/W06_rescue_Team_Sheet.pdf) | [Read](02_Student/Printouts/W06_rescue_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W06_rescue_Checklist.md) | [Python](04_Python/W06_rescue.py) |
 | 7 Community robot mission | [PDF](03_Presentations/W07_mission.pdf) | [Read](01_Instructor/Speaker_Notes/W07_mission_Speaker_Notes.md) | [PDF](02_Student/Printouts/W07_mission_Team_Sheet.pdf) | [Read](02_Student/Printouts/W07_mission_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W07_mission_Checklist.md) | [Python](04_Python/W07_mission.py) |
 | 8 Robot showcase | [PDF](03_Presentations/W08_showcase.pdf) | [Read](01_Instructor/Speaker_Notes/W08_showcase_Speaker_Notes.md) | [PDF](02_Student/Printouts/W08_showcase_Team_Sheet.pdf) | [Read](02_Student/Printouts/W08_showcase_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W08_showcase_Checklist.md) | [Python](04_Python/W08_showcase.py) |
+
+| Optional replacement | Slides | Speaker notes | Trial sheet | Build card | Print and bring | Program |
+|---|---|---|---|---|---|---|
+| 7 Timed delivery | [PDF](03_Presentations/W07_speed_trial.pdf) / [PPTX](03_Presentations/W07_speed_trial.pptx) | [Read](01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.md) | [PDF](02_Student/Printouts/W07_speed_trial_Team_Sheet.pdf) | [Read](02_Student/Printouts/W07_speed_trial_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md) | [Python](04_Python/W07_speed_trial.py) |
+
+Timed delivery combines a removable cargo cradle, approved speed settings and three-trial comparisons over 60 cm. Choose this set or the original Week 7 set before class. For the speed option, use its separate trial sheet in place of the workbook's mission page; reload the saved speed program for Week 8. Physical calibration and rehearsal are still required.
 
 ## Core references
 
@@ -47,7 +55,7 @@ Open this page on GitHub to read the Markdown notes and PDF references. Before c
 
 [SESSION_PREP.md](SESSION_PREP.md) is the single preparation record. Read it on GitHub; authorized collaborators can update its Markdown directly in the GitHub editor. See [preparation updates and classroom computer setup](CHECKLIST_INSTRUCTIONS.md). Teaching PCs do not need Git or a repository clone.
 
-Both SPIKE bases stay assembled with left drive motor A and right B. Keep the auxiliary motor unplugged; later lessons add C/D sensors. The separate EV3 R3PTAR is an autonomous demonstration, not a replacement teaching kit. Offline checks cannot certify physical readiness. Rehearse both robots and record actual results. Dates remain unconfirmed.
+Both SPIKE bases stay assembled with left drive motor A and right B. Keep the auxiliary motor unplugged; later lessons add C/D sensors. The separate EV3 R3PTAR is an autonomous demonstration, not a replacement teaching kit. Alex reported a successful first session on October 27; later dates and hardware rehearsals remain to be recorded. Offline checks cannot certify physical readiness.
 
 For another computer or Codex chat, use [CONTINUE_HERE.md](CONTINUE_HERE.md), [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md), [AGENTS.md](AGENTS.md) and [MAINTENANCE.md](MAINTENANCE.md). DOCX is the editorial source for paired documents. After edits, regenerate Markdown and update affected PDF views:
 
@@ -55,6 +63,7 @@ For another computer or Codex chat, use [CONTINUE_HERE.md](CONTINUE_HERE.md), [P
 python scripts/sync_documents.py --write
 python scripts/sync_documents.py --check
 python scripts/check_reading_copies.py
+python scripts/check_lesson_materials.py
 python -m unittest discover -s tests -v
 ```
 

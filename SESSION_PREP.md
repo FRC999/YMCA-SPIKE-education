@@ -10,6 +10,11 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 
 ## Current status and decisions
 
+- [x] First session held October 27. Alex reported that the curriculum and tasks went very well, children stayed engaged, the group seemed more advanced than expected, and timing fitted the hour. Children asked how fast the robot could run. This report does not complete the separate inventory, sensor or speed-rehearsal records below.
+- [x] Added the [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) and a complete optional Week 7 timed delivery lesson. Keep sessions 2–6 in order and add stretches only after core work; retain the original Week 7 mission as an alternative.
+- [ ] Rehearse Week 2 delivery and cargo-tray build on both kits using its existing checklist; record actual results and any kit issues from the first session.
+- [ ] Before the speed option: check room/lane fit, calibrate each kit's travel, rehearse loaded 200/300 settings, test stopwatch timing and record approved settings using its [checklist](01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md). Do not infer approval from offline tests.
+
 - [x] October 27 opening revised at Alex's request: prior experience was already asked about. No opening concept test, ability rating or repeated survey. Use names, mentor introductions, the stop signal and robot demonstrations; notice support needs during the activities. The print packet now has 16 sheets.
 
 - [x] First session confirmed for October 27, 2026 (Alex: "today"). Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and [16-page class print packet](02_Student/Printouts/W01_Class_Print_Packet.pdf). Local supervision assignments still need confirmation.
@@ -41,7 +46,13 @@ Two hours confirmed for October 25, 2026. Use the [facilitator plan](01_Instruct
 
 Student instructors practiced on October 25 and reported feedback. Slides, roles and build activities have been revised. The unchecked kit and readiness items below remain open because their actual results have not been reported.
 
-## Next work, in order
+## Next session preparation
+
+1. Prepare Week 2 using the [checklist](01_Instructor/Class_Preparation/W02_delivery_Checklist.md), [notes](01_Instructor/Speaker_Notes/W02_delivery_Speaker_Notes.md) and cargo-tray build card. Preserve the rotation schedule that fitted the first hour.
+2. Use the [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) for mentor teach-back, later sensor checks and optional stretches. Confirm subsequent class dates locally.
+3. Resolve actual kit issues and record unreported workshop/check results as evidence becomes available. Keep the historical preparation tasks below as a record, not as proof they passed.
+
+## Initial preparation sequence retained for reference
 
 1. Label the kits A and B; photograph each open kit before mixing or borrowing parts.
 2. Do the electronics inventory below, charge both hubs, and run basic tests.

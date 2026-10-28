@@ -14,5 +14,8 @@ Open a PDF to read the slides directly on GitHub. Download the PPTX for an edita
 | Week 6 A rescue attachment | [PDF](W06_rescue.pdf) | [PowerPoint](W06_rescue.pptx) |
 | Week 7 Community robot mission | [PDF](W07_mission.pdf) | [PowerPoint](W07_mission.pptx) |
 | Week 8 Robot showcase | [PDF](W08_showcase.pdf) | [PowerPoint](W08_showcase.pptx) |
+| Week 7 option Timed delivery | [PDF](W07_speed_trial.pdf) | [PowerPoint](W07_speed_trial.pptx) |
+
+The timed delivery option has its own [detailed notes](../01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.md), embedded Presenter View notes, build card, trial sheet and program. Use the [remaining-sessions plan](../01_Instructor/Remaining_Sessions_Plan.md) to choose and rehearse the route. It is an alternative Week 7 lesson within the same eight-session course.
 
 All weekly decks have six slides. Both Week 1 PPTX filenames contain the same updated deck. [Speaker notes](../01_Instructor/Speaker_Notes/README.md) and [print-and-bring checklists](../01_Instructor/Class_Preparation/README.md).

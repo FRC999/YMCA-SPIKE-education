@@ -27,6 +27,8 @@ Support code limits drive to 0–1080 wheel degrees, pivots to -360–360 wheel 
 
 ## Offline checks and local rehearsal
 
+The optional [Week 7 timed delivery program](W07_speed_trial.py) uses a separate `sprint(speed)` helper. Its mentor-calibrated travel accepts 1–1440 wheel degrees; the supplied zero blocks movement until configured. Approved speeds are selected from 200, 300 and 400 wheel degrees/s after physical rehearsal. One start makes one finite move. There is no automatic repeated run, finish-line sensing or built-in crossing timer. Use the [speed checklist](../01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md) for calibration and stopwatch timing. The original programs and their limits above are unchanged. For a speed showcase, reopen the saved team speed project rather than the marker fallback in W08_showcase.py.
+
 The package checks Python syntax, loop counts, sensor threshold boundaries, invalid distance readings, movement limits, and stopping on a simulated sensor exception with mock modules. These checks do not emulate motors, sensor noise, battery state, firmware, mounting, geometry, or real floor behavior. Complete the hardware acceptance record in the instructor guide.
 
 ## Recipe reading cards

@@ -35,12 +35,12 @@ Keep the DOCX and generated Markdown versions in sync using the repository scrip
 
 ## What the new chat should learn
 
-- The curriculum is accepted; the current phase is equipment/trainer preparation.
+- The curriculum is accepted; Alex reported a successful first session on October 27. The current phase is preparing sessions 2–8 using the remaining-sessions plan, including an optional Week 7 timed delivery challenge.
 - The two teaching SPIKE bases should be assembled before the first class. They use the existing complete SPIKE App 3 Python starters.
 - The selected separate EV3 demonstration is autonomous R3PTAR, with movement and a sensor-triggered strike/retreat sequence.
 - The two-hour trainer session starts with assembly and testing and includes individual teaching practice.
 - Only reported or observed results count as completed work.
-- Four core DOCX files have generated Markdown copies; standalone plans/trackers are authored Markdown.
+- Four core DOCX files and the separate speaker-note documents have generated Markdown copies; standalone plans/trackers are authored Markdown.
 - The user expects all project updates to be synced to GitHub.
 
 The detailed decisions, unknowns, and next actions are in [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) and [SESSION_PREP.md](SESSION_PREP.md), not duplicated in this prompt. This avoids making the prompt stale as the program moves forward.

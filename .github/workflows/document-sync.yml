@@ -24,3 +24,5 @@ jobs:
         run: python scripts/sync_documents.py --check
       - name: Check reviewed PDFs and other reading copies
         run: python scripts/check_reading_copies.py --check
+      - name: Check complete lesson sets and embedded speaker notes
+        run: python scripts/check_lesson_materials.py

@@ -32,6 +32,8 @@ The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and
 
 ## PDF and other reading copies
 
+The optional Week 7 speed set adds one DOCX/Markdown notes pair, a six-slide PPTX/PDF with embedded notes, a Python program, and three one-page print PDFs with Markdown sources. Run `python scripts/build_speed_handouts.py` to typeset the build card, trial sheet and compact packing checklist; the full calibration procedure stays in the Markdown checklist and notes. Review all three pages before recording their hashes. Export the speed deck using the existing deck workflow. The tracked material checker verifies all eight core sets plus this optional set and compares embedded notes with their Word source; CI runs it. Keep the original Week 7 materials available.
+
 The October 27 first-session readiness guide is authored in `01_Instructor/Class_Preparation/W01_Readiness_Guide.md`. Run `python scripts/build_w01_readiness.py` (reportlab/pypdf required) to typeset its four-page PDF and assemble `02_Student/Printouts/W01_Class_Print_Packet.pdf` from the five original handouts at the recorded quantities. The packet has 16 pages and is printed once, single-sided. Review the four guide pages and all six unique packet pages, verify the packet sequence, then record both outputs in the export manifest. These two PDFs supplement the original 43 exports below.
 
 The root README is the GitHub reading index. PDFs preserve page/slide layout; Markdown provides searchable text. Editable DOCX/PPTX files remain available. The 43 new PDFs include four core documents, ten decks, eight team sheets, eight build cards, eight packing checklists, the final check, attendance, role cards and the hub guide. The official LEGO build PDF is an external reference and is not regenerated.
@@ -95,6 +97,10 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 
 ### Implemented
 
+- [x] Recorded Alex's successful first-session report and preserved the one-hour sequence. Added a remaining-sessions plan with mentor practice and optional stretches.
+- [x] Added optional Week 7 timed delivery with complete slides/notes, cradle build, trial record, calibration checklist and bounded program; Week 8 handoff included. Physical speed rehearsal remains open in SESSION_PREP.md.
+- [x] Added a portable check for complete lesson sets and embedded-note agreement, plus offline tests for the speed program's configuration guards and stopping behavior.
+
 - [x] Reconcile all eight classes with 12 learners, three rotating jobs, weekly hands-on builds, four laptops and 4–6 student instructors.
 - [x] Merge the old code/prediction slides, add hub-light guidance and final reflection prompts, and align embedded/companion notes.
 - [x] Add per-session print-and-bring checklists with quantities, reusable supplies and individual one-page printouts.
@@ -113,7 +119,7 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 ### Pending when new facts or work require them
 
 - [ ] Reconcile the historical proposal calendar with confirmed session dates. Do not invent dates.
-- [ ] Incorporate actual workshop results and first-session findings into operational documents; preserve blank master forms.
+- [ ] Incorporate detailed workshop/hardware results when supplied; the October 27 first-session teaching feedback is recorded. Preserve blank master forms.
 - [ ] If the revised Week 1 notes change again, update the embedded PowerPoint notes and DOCX/Markdown companion together.
 - [ ] Promote additional build/rehearsal scripts into portable, tracked tooling only when regeneration or further code testing requires them. The old local `.build` directory is not a dependency for this sync workflow.
 - [ ] After any source rename/deletion, review and remove or rename its generated mirror and repair incoming links; the checker intentionally does not delete content automatically.
@@ -122,6 +128,7 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 
 | Date | Change |
 |---|---|
+| 2026-10-27 | After successful first-class feedback, retained pacing and added sessions 2–8 preparation guidance plus an optional timed delivery lesson with build/program comparisons and a Week 8 handoff. |
 | 2026-10-27 | Removed the opening baseline at Alex's request; prior experience was already asked about. Revised welcome, packet (16 sheets), guide, workbook, notes and evaluation language. |
 | 2026-10-27 | Added complete first-session readiness guide and exact-quantity print packet, with portable PDF generation and source mapping. Updated first-class date and reported EV3 download/movement; unreported physical tests remain open. |
 | 2026-10-26 | Added R3PTAR wiring, installed-program location and click-by-click USB/first-run instructions; recorded reported assembly separately from unverified operation. |

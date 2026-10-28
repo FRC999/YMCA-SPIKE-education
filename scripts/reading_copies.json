@@ -237,7 +237,7 @@
       "output": "03_Presentations/W01_signal.pdf",
       "sha256": "555d22875a3fd4f8a9be085d087609805a58648a1a7ca840013eef55e11677b0",
       "sources": {
-        "03_Presentations/W01_signal.pptx": "f46256ff04875dcd18a8a3e15d19d20ea5e89ca07142dd6130eef4c228f040d2"
+        "03_Presentations/W01_signal.pptx": "4b1998a1e57e012a907f3d95949831d66dfdc86f24f7dc2efdb6e891a2ee73e3"
       }
     },
     {
@@ -286,7 +286,7 @@
       "output": "03_Presentations/W08_showcase.pdf",
       "sha256": "3c5b51475afc69c9b6a7fd7cd2f8f895dbb9fb6eb923306a99e36c95e966fcda",
       "sources": {
-        "03_Presentations/W08_showcase.pptx": "0a8aa26af5da2cb956f0da6e84abb2b48adca791b9262651aa985b0403bc5f2d"
+        "03_Presentations/W08_showcase.pptx": "911cca9c3fd0bbb2fe23377b79d2c9c44feb69d24c39bce7c3e5d930df74a1aa"
       }
     },
     {
@@ -305,7 +305,7 @@
     },
     {
       "output": "03_Presentations/W01_signal.pptx",
-      "sha256": "f46256ff04875dcd18a8a3e15d19d20ea5e89ca07142dd6130eef4c228f040d2",
+      "sha256": "4b1998a1e57e012a907f3d95949831d66dfdc86f24f7dc2efdb6e891a2ee73e3",
       "sources": {
         "01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.docx": "40a14e2ad0081144bfde0dd3d2ecd7cc290c37b8d040c5d952534e32a5a5fd49"
       }
@@ -354,16 +354,16 @@
     },
     {
       "output": "03_Presentations/W08_showcase.pptx",
-      "sha256": "0a8aa26af5da2cb956f0da6e84abb2b48adca791b9262651aa985b0403bc5f2d",
+      "sha256": "911cca9c3fd0bbb2fe23377b79d2c9c44feb69d24c39bce7c3e5d930df74a1aa",
       "sources": {
         "01_Instructor/Speaker_Notes/W08_showcase_Speaker_Notes.docx": "feb893b348065dc9ba86cb3022eab9b9a2fa1c003eb121b62b90891c1a7fb387"
       }
     },
     {
       "output": "03_Presentations/W01_signal_with_speaker_notes.pptx",
-      "sha256": "f46256ff04875dcd18a8a3e15d19d20ea5e89ca07142dd6130eef4c228f040d2",
+      "sha256": "4b1998a1e57e012a907f3d95949831d66dfdc86f24f7dc2efdb6e891a2ee73e3",
       "sources": {
-        "03_Presentations/W01_signal.pptx": "f46256ff04875dcd18a8a3e15d19d20ea5e89ca07142dd6130eef4c228f040d2"
+        "03_Presentations/W01_signal.pptx": "4b1998a1e57e012a907f3d95949831d66dfdc86f24f7dc2efdb6e891a2ee73e3"
       }
     },
     {
@@ -385,6 +385,46 @@
         "02_Student/Printouts/Attendance.pdf": "dfe10f350f50bdeb05d82f212b51053e8d56fc9a738e866b2e4f348ba2189594",
         "02_Student/Printouts/Role_Cards.pdf": "646363c5a279711fd4552bceced6dbbc2566e8b98ca18064decaee54314ba9f1",
         "06_References/SPIKE_Hub_Color_Guide.pdf": "4f9c0f578eea58af1b15dc1c0729031eb020d6081c72d9a3129e111357842f3a"
+      }
+    },
+    {
+      "output": "03_Presentations/W07_speed_trial.pptx",
+      "sha256": "658b3ef0331bafa225fca3bfa37717323acf7ba81be0a1fb1781d3794c3bdb9f",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.docx": "6f9a15beebbed1e9799bf260ce1b8ebac50a37f5e12862277e7b1a7840b2ed53",
+        "04_Python/W07_speed_trial.py": "79f3af3754ba30cd093241a89b2dbebd94852cba52135f8e7c52c66e992570a5"
+      }
+    },
+    {
+      "output": "03_Presentations/W07_speed_trial.pdf",
+      "sha256": "98f35be4e5ff093369e71ae1c27ec7f9dd9eaa1b2f57ad7fc9763d320a3bf1f5",
+      "sources": {
+        "03_Presentations/W07_speed_trial.pptx": "658b3ef0331bafa225fca3bfa37717323acf7ba81be0a1fb1781d3794c3bdb9f"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W07_speed_trial_Build_Card.pdf",
+      "sha256": "f818426a1dc3862f7c794013395b612f7da3e76d18be2367c5f89be24297cec0",
+      "sources": {
+        "02_Student/Printouts/W07_speed_trial_Build_Card.md": "3d1de3b33be203d50501370332b64242aaee96dc5e0260bf879407b665c2c751",
+        "scripts/build_speed_handouts.py": "27ff47e35a14567a17c8d57a256d7b1f918afb0fb82ee1aa634995d54dc90437"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W07_speed_trial_Team_Sheet.pdf",
+      "sha256": "9e6cfae61ecacb6855b642d196cc26b1013fcd21e11733f21e8cdbf6dbbbf77f",
+      "sources": {
+        "02_Student/Printouts/W07_speed_trial_Team_Sheet.md": "8af273a67c81cb8614ae428b9c672b89b3d13f90ea34b60e132def24bc09998f",
+        "scripts/build_speed_handouts.py": "27ff47e35a14567a17c8d57a256d7b1f918afb0fb82ee1aa634995d54dc90437"
+      }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W07_speed_trial_Checklist.pdf",
+      "sha256": "5490f751a6fc10707b2092f6fe15d4bac199fc671906b8057be23650ab574eda",
+      "sources": {
+        "01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md": "6ea866f0bde848685cf19639a29e8efa814d66f2bbbb5a7c88b84be49d7512a4",
+        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f",
+        "scripts/build_speed_handouts.py": "27ff47e35a14567a17c8d57a256d7b1f918afb0fb82ee1aa634995d54dc90437"
       }
     }
   ]

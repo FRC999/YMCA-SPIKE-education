@@ -1,5 +1,7 @@
 # Speaker notes for all eight classes
 
+For the post-session-1 plan and optional extensions, read [sessions 2–8](../Remaining_Sessions_Plan.md). The core sequence remains eight classes; the timed delivery lesson below is an alternative for Week 7.
+
 Each class has a separate Word document for printing and a matching Markdown copy for reading on GitHub. Each contains a preparation page and notes for all six slides: timing, suggested words, actions, questions and expected answers, three-role team rotations, troubleshooting, evidence and cleanup. Leave activity slides visible while students work.
 
 | Class | Topic | Read on GitHub | Print or edit | Matching slides |
@@ -12,6 +14,9 @@ Each class has a separate Word document for printing and a matching Markdown cop
 | 6 | A rescue attachment | [Markdown](W06_rescue_Speaker_Notes.md) | [Word](W06_rescue_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W06_rescue.pptx) |
 | 7 | Community robot mission | [Markdown](W07_mission_Speaker_Notes.md) | [Word](W07_mission_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_mission.pptx) |
 | 8 | Robot showcase | [Markdown](W08_showcase_Speaker_Notes.md) | [Word](W08_showcase_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W08_showcase.pptx) |
+| 7 option | Timed delivery | [Markdown](W07_speed_trial_Speaker_Notes.md) | [Word](W07_speed_trial_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_speed_trial.pptx) |
+
+The timed delivery notes include preparation, all six slides and the Week 8 handoff. If using that option, substitute the saved speed program and delivery evidence for Week 8's sensor-specific example. Keep its assessment and four-minute team showcase slots. All nine note documents have their preparation and slide sections embedded in the corresponding PPTX; `scripts/check_lesson_materials.py` checks agreement.
 
 The confirmed plan is 12 children in grades 5–6, four teams of three, two kits and 4–6 student instructors plus an adult lead. Use two robot stations and two build tables. Weeks 1–7 use 12-minute turns and six-minute retests; Week 8 has its own assessment, rehearsal and showcase schedule.
 

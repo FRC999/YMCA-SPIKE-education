@@ -6,7 +6,7 @@ Last reviewed: October 27, 2026. This is a curated handoff of the project’s de
 
 Alex is preparing a Cheshire, Connecticut YMCA robotics program with MechaRAMS / FRC Team 999. The audience is confirmed as 12 children in grades 5–6. High-school juniors and seniors will teach under an adult educator. The program should provide useful community learning and a voluntary path toward future high-school robotics participation. Evidence may support team outreach/award narratives, but no learning gains, recruitment outcomes, or award eligibility are assumed.
 
-The curriculum was originally prepared as a proposal and Alex reported it accepted on October 23, 2026. The current phase is preparing equipment and student trainers for the first session.
+The curriculum was originally prepared as a proposal and Alex reported it accepted on October 23, 2026. On October 27 Alex reported that the first session went very well, the children stayed engaged and the activities fitted the hour. The group seemed more advanced than expected and asked how fast the robot could run. The current phase is preparing the remaining sessions; no detailed kit acceptance results or later dates were supplied with that report.
 
 ## Accepted course design
 
@@ -15,6 +15,7 @@ The curriculum was originally prepared as a proposal and Alex reported it accept
 - Alex confirmed the first class is October 27, 2026 ("today"). The original proposal's October 21 start is superseded; later dates remain unconfirmed. Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and its four-page PDF; the linked 16-page class packet contains exact copy quantities.
 - Start with scaffolded real Python in SPIKE App 3. Students edit a small `student_recipe` in a complete supplied program. This is not drag-and-drop Python, desktop Python, Pybricks, or the older `from spike import PrimeHub` API. A mentor-tested Word Blocks fallback can preserve the learning goal.
 - Weeks: signals/sequence; delivery/calibration; dance/loops; distance-based parking; dark-marker sensing; passive rescue attachment/functions; chosen community mission; showcase/reflection.
+- After Week 1: keep Weeks 2–6 in order and offer readiness-based extensions. The [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) adds a complete optional Week 7 timed delivery challenge: fixed 60 cm course, removable cargo cradle, repeated stopwatch trials and controlled speed/design comparisons. It replaces the original Week 7 mission if selected and physically rehearsed. Week 8 uses the saved result within its existing schedule. Do not compress the course based only on a successful first class.
 - Keep both official practice driving bases assembled. Use the same base throughout the course; students build removable attachments or course models every week.
 
 ## Hardware and programming decisions
@@ -75,9 +76,9 @@ Alex explicitly requested GitHub sync after all project changes, Markdown copies
 
 ## Next useful work
 
-1. Obtain actual results from the trainer session: kit completion, shortages, connectivity, trainer readiness, and remaining owners/tasks. Update the tracker with dated evidence.
-2. Finish any outstanding SPIKE tests and first-session rehearsal.
-3. With R3PTAR download and movement reported, verify full target response, restart and stop behavior; adapt and repeatedly test the classroom demonstration.
-4. Prepare for the confirmed October 27 first session using the readiness guide; confirm local assignments and later dates. Enrollment, age group, available mentors and four laptops are settled.
+1. Prepare and rehearse Week 2 delivery and its cargo-tray build on both kits. Use the existing checklist and notes, with optional stretches from the remaining-sessions plan.
+2. Record actual kit issues or acceptance results as reported. First-session success does not establish later sensor calibration, full inventory or unreported EV3 behavior.
+3. Rehearse the later sensor lessons in advance. For the optional Week 7 speed lesson, confirm floor space and calibrate each kit's fixed travel and approved speeds. Its shipped program refuses motion until the mentor configures travel.
+4. Confirm later class dates and mentor assignments locally. Enrollment, age group, available mentors and four laptops are settled. Preserve the successful hour and three-role rotations.
 
 Do not repeat settled design questions or redesign the course merely because this is a new chat. If the user gives a different immediate task, follow it and preserve these decisions unless explicitly changed.
