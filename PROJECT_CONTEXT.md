@@ -1,6 +1,12 @@
 # Project context for continuing this work
 
-Last reviewed: October 27, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
+Last reviewed: November 7, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
+
+## Current Session 2 revision
+
+Alex reported Session 2 practice and requested clearer code/prediction wording, a simple motor explanation and circumference reasoning in both directions. The revised [Week 2 deck](03_Presentations/W02_delivery.pptx) has 11 slides with embedded notes. The accepted motor picture is slide 2. Slides 3–7 connect degrees, circumference and distance; the former code slide is now slide 8 and uses `wheel_degrees` rather than `travel`. Use each kit's measured tire circumference; 5.6 cm diameter / 17.6 cm circumference is an example only. Keep SPEED = 200 and the existing 0–1080-degree helper limit. A 1 meter calculation stays on paper. Complete slides 1–8 by minute 14 and preserve the existing robot/build rotations and cargo-tray activity.
+
+The [Week 2 checklist](01_Instructor/Class_Preparation/W02_delivery_Checklist.md) links all teaching files. Print one [14-page class packet](02_Student/Printouts/W02_Class_Print_Packet.pdf): five team sheets, four build cards, four wheel reference cards and attendance. The optional checklist adds two sheets. Reuse role cards and hub guides. The companion DOCX/Markdown notes, workbook, guide and program match the lesson. Practice was reported; actual wheel measurements and revised hardware trial outcomes remain unreported.
 
 ## Purpose and people
 
@@ -48,7 +54,7 @@ The slide prompt “move the last line to the top” differs from the paper task
 
 ## Separate class notes and prep checklist
 
-All eight classes now have separate detailed DOCX and generated Markdown speaker notes in [01_Instructor/Speaker_Notes](01_Instructor/Speaker_Notes/README.md), with one preparation page and one page per slide. All notes now follow the six-slide decks and revised teams, roles and build activities. Week 8 has its own assessment/rehearsal/showcase schedule. Future edits must keep affected documents, slides, programs and reading copies aligned.
+All eight classes now have separate detailed DOCX and generated Markdown speaker notes in [01_Instructor/Speaker_Notes](01_Instructor/Speaker_Notes/README.md), with one preparation page and one page per slide. Notes follow 11 slides for Week 2 and six for the other core lessons, with revised teams, roles and build activities. Week 8 has its own assessment/rehearsal/showcase schedule. Future edits must keep affected documents, slides, programs and reading copies aligned.
 
 Alex initially requested clickable prep checkmarks. On October 25 he clarified a preference for Markdown and questioned the need for local HTML or cloning on teaching PCs. The local HTML checkbox editor and duplicate HTML references were retired. [SESSION_PREP.md](SESSION_PREP.md) remains the sole preparation record, with every existing checkbox and result preserved. Authorized collaborators can edit `[ ]`/`[x]` directly on GitHub; [instructions](CHECKLIST_INSTRUCTIONS.md) explain the workflow. Teaching PCs read GitHub and download the needed class files; cloning is optional for curriculum maintenance with Codex.
 

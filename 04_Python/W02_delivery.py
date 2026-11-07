@@ -15,8 +15,11 @@ PAIR = motor_pair.PAIR_1
 
 async def student_recipe():
     # STUDENT RECIPE START
-    travel = 180  # Change this value after measuring.
-    await drive(travel)
+    wheel_degrees = 180  # Wheel rotation, NOT centimeters or robot heading.
+    # Predict distance_cm = (wheel_degrees / 360) * circumference_cm.
+    # For a target: wheel_degrees = round((target_cm / circumference_cm) * 360).
+    # Use your measured wheel circumference; keep the 0..1080 helper limit.
+    await drive(wheel_degrees)
     await signal("D")
     # STUDENT RECIPE END
 

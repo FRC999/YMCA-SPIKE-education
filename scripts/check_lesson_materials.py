@@ -50,15 +50,16 @@ def check():
             elif p.strip():
                 current.append(p)
         sections.append(current)
-        if len(sections) != 7:
-            errors.append(f'{name}: expected preparation plus six slide sections')
+        expected_count = 11 if name == 'W02_delivery' else 6
+        if len(sections) != expected_count + 1:
+            errors.append(f'{name}: expected preparation plus {expected_count} slide sections')
             continue
         with ZipFile(ROOT/f'03_Presentations/{name}.pptx') as z:
             slide_files = [f for f in z.namelist()
                            if re.fullmatch(r'ppt/slides/slide\d+.xml', f)]
-            if len(slide_files) != 6:
-                errors.append(f'{name}: expected six slides')
-            for i in range(1, 7):
+            if len(slide_files) != expected_count:
+                errors.append(f'{name}: expected {expected_count} slides')
+            for i in range(1, expected_count + 1):
                 if not sections[i][0].startswith(f'Slide {i} '):
                     errors.append(f'{name}: note section order {i}')
                 try:
@@ -70,7 +71,7 @@ def check():
                 expected = sections[0]+sections[1] if i == 1 else sections[i]
                 if norm(' '.join(expected)) not in embedded:
                     errors.append(f'{name}: slide {i} notes differ from DOCX')
-        print(f'{name}: material set and six note sections checked')
+        print(f'{name}: material set and {expected_count} note sections checked')
     if errors:
         raise SystemExit('\n'.join(errors))
     print('All eight core lessons and optional timed delivery agree. Hardware rehearsal remains separate.')

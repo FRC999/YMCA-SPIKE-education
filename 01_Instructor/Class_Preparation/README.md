@@ -1,5 +1,7 @@
 # Class preparation and printing
 
+For Session 2, use the [complete teaching-file and packing checklist](W02_delivery_Checklist.md). Print one [14-page class packet](../../02_Student/Printouts/W02_Class_Print_Packet.pdf), single-sided, plus the optional [two-page checklist](W02_delivery_Checklist.pdf). Reuse role cards and hub guides.
+
 After the successful first session, use the [remaining-sessions plan](../Remaining_Sessions_Plan.md) for instructor practice and optional stretches. For Week 7, the [timed delivery checklist](W07_speed_trial_Checklist.md) ([print PDF](W07_speed_trial_Checklist.pdf)) is a complete alternative with **10 required class sheets**. It replaces the original Week 7 student materials and requires its own physical calibration.
 
 For the first session on October 27, use the [complete readiness guide](W01_Readiness_Guide.md) ([four-page PDF](W01_Readiness_Guide.pdf)): batteries, charging, software setup, exact print list, packing and arrival checks. The [16-page class packet](../../02_Student/Printouts/W01_Class_Print_Packet.pdf) already includes the required quantities; print ONE copy, single-sided.

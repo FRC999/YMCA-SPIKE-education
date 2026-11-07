@@ -6,6 +6,8 @@ This repository is **public for reading**. Anyone can open or download these mat
 
 ## Prepare and practice
 
+- **Session 2:** [All teaching files and exact packing list](01_Instructor/Class_Preparation/W02_delivery_Checklist.md) · [14-page class packet: print ONE copy](02_Student/Printouts/W02_Class_Print_Packet.pdf) · [Two-page checklist](01_Instructor/Class_Preparation/W02_delivery_Checklist.pdf). The revised lesson includes the motor picture and wheel-distance calculations in both directions.
+
 - **First session, October 27:** [Complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) · [Print the four-page guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.pdf) · [16-page class packet: print ONE copy](02_Student/Printouts/W01_Class_Print_Packet.pdf)
 - [How the four teams and roles work](01_Instructor/Grouping_and_Roles.md)
 - [What to print and bring each week](01_Instructor/Class_Preparation/README.md) · [Reusable kit](01_Instructor/Class_Preparation/Reusable_Kit.md)

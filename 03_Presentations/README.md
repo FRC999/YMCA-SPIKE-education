@@ -18,4 +18,4 @@ Open a PDF to read the slides directly on GitHub. Download the PPTX for an edita
 
 The timed delivery option has its own [detailed notes](../01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.md), embedded Presenter View notes, build card, trial sheet and program. Use the [remaining-sessions plan](../01_Instructor/Remaining_Sessions_Plan.md) to choose and rehearse the route. It is an alternative Week 7 lesson within the same eight-session course.
 
-All weekly decks have six slides. Both Week 1 PPTX filenames contain the same updated deck. [Speaker notes](../01_Instructor/Speaker_Notes/README.md) and [print-and-bring checklists](../01_Instructor/Class_Preparation/README.md).
+Week 2 has 11 slides, including a motor illustration, wheel degrees, circumference and both directions of distance conversion. Its former code slide is now slide 8 and uses `wheel_degrees`. Other weekly decks have six slides. Both Week 1 PPTX filenames contain the same updated deck. [Speaker notes](../01_Instructor/Speaker_Notes/README.md) and [print-and-bring checklists](../01_Instructor/Class_Preparation/README.md).

@@ -46,12 +46,12 @@ Number these actions in run order: drive, show Y, wait. What changes if the firs
 ### Week 2: Delivery to a target
 
 ```python
-travel = 180
-await drive(travel)
+wheel_degrees = 180
+await drive(wheel_degrees)
 await signal("D")
 ```
 
-If 180 wheel degrees travels about 9 cm on our floor, what might 360 do? Mark this as a prediction, not a promise.
+Measure wheel circumference C in centimeters. Predict the centimeters traveled for 180 and 360 wheel degrees using (degrees / 360) × C. For the 40 cm target, calculate (40 / C) × 360 and round at the end. Keep SPEED = 200 and the 0–1080-degree limit. Test the prediction on the real floor.
 
 ### Week 3: Robot dance studio
 

@@ -1,6 +1,6 @@
 # MechaRAMS / Cheshire YMCA — session preparation tracker
 
-Updated: October 27, 2026
+Updated: November 7, 2026
 
 Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (public for reading as requested October 25). Initial upload completed October 25, 2026 using `atsekhan`. Updates can be committed in the GitHub editor; changes made in a local checkout require a commit and push.
 
@@ -9,6 +9,9 @@ Project continuity: [new-computer continuation prompt](CONTINUE_HERE.md), [proje
 This Markdown file is the preparation record. Follow the [browser editing and classroom setup instructions](CHECKLIST_INSTRUCTIONS.md); no clone is needed for reading or browser edits. The [eight-class speaker-note index](01_Instructor/Speaker_Notes/README.md) links separate DOCX and Markdown notes for each class.
 
 ## Current status and decisions
+
+- [x] November 7: Alex reported Session 2 practice and requested clearer code/prediction prompts, simple motor visuals and wheel-degree/distance inference both ways. Added the accepted motor picture to slide 2 of the revised 11-slide deck; updated matching notes, code and handouts. Use the [current file/packing list](01_Instructor/Class_Preparation/W02_delivery_Checklist.md) and [14-page class packet](02_Student/Printouts/W02_Class_Print_Packet.pdf).
+- [ ] Measure both actual wheel circumferences and rehearse the revised 180/360/40 cm sequence with a fixed chassis reference, SPEED = 200 and unchanged mentor tray/cube. Record results; the practice report does not establish that all revised checks passed.
 
 - [x] First session held October 27. Alex reported that the curriculum and tasks went very well, children stayed engaged, the group seemed more advanced than expected, and timing fitted the hour. Children asked how fast the robot could run. This report does not complete the separate inventory, sensor or speed-rehearsal records below.
 - [x] Added the [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) and a complete optional Week 7 timed delivery lesson. Keep sessions 2–6 in order and add stretches only after core work; retain the original Week 7 mission as an alternative.

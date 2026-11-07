@@ -1,6 +1,10 @@
 # Maintenance rules and backlog
 
-Updated October 27, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+Updated November 7, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+
+## Week 2 motion revision
+
+Week 2 now has 11 slides and matching DOCX/Markdown/embedded notes. The approved motor artwork and provenance are in `03_Presentations/Assets/`. Preserve the navy/teal slide style and one-hour rotation schedule. `scripts/check_lesson_materials.py` expects 11 Week 2 slides and six in other lessons. Use `scripts/build_w02_handouts.py` to typeset the one-page wheel reference and two-page checklist and assemble the 14-page class packet after regenerating the workbook's Week 2 sheet. Packet order: 5 team sheets, 4 build cards, 4 wheel cards and 1 attendance sheet. Review changes before recording export hashes. Week 2 notes also have a printable PDF companion.
 
 ## Document ownership and synchronization
 
@@ -41,7 +45,7 @@ The root README is the GitHub reading index. PDFs preserve page/slide layout; Ma
 Source ownership and regeneration:
 
 - Core PDFs: export the matching DOCX to PDF with Word or the available document renderer; inspect every page.
-- Deck PDFs: export the matching PPTX as slides, with one slide per page. The current PDFs contain the reviewed slide images at 1280 × 720, preserving layout. Use the Markdown speaker notes for text and the PPTX for Presenter View. When notes change, update the corresponding embedded PPTX notes from the six slide sections in the speaker-note DOCX. Keep both Week 1 PPTX filenames identical.
+- Deck PDFs: export the matching PPTX as slides, with one slide per page. The current PDFs contain the reviewed slide images at 1280 × 720, preserving layout. Use the Markdown speaker notes for text and the PPTX for Presenter View. When notes change, update the corresponding embedded PPTX notes from all slide sections in the speaker-note DOCX (11 for Week 2, six for other lessons). Keep both Week 1 PPTX filenames identical.
 - Team sheets and final checks: extract the matching pages from the newly exported workbook PDF. Attendance comes from the evaluation-forms PDF. Locate pages by heading, rather than assuming old page numbers still apply. The former baseline page is now a welcoming introduction on page 2, with no questions or ratings. Weeks 1–8 remain on pages 3–10, final check on page 11; attendance is evaluation page 2.
 - Build cards and packing checklists: edit their same-name Markdown sources, then typeset/re-export the affected PDFs. Check quantities against the reusable kit. Packing PDFs are compact one-page summaries; the Markdown includes the complete preparation and closeout steps.
 - Role cards: use `01_Instructor/Grouping_and_Roles.md`; preserve two pages, three cards per page. Hub guide: use its Markdown source and the supplied reference image.
