@@ -18,9 +18,9 @@
     },
     {
       "output": "01_Instructor/Class_Preparation/W02_delivery_Checklist.pdf",
-      "sha256": "9de3921cb12dd2fed840bb7eea637ad55f96004898c5bef1e93c15dcd23e5d13",
+      "sha256": "7bdf9c44ba1c0ce5fffc8af884d637f2d0f639381ee80e4e25086db0e885ae20",
       "sources": {
-        "01_Instructor/Class_Preparation/W02_delivery_Checklist.md": "01939007e34c261eafdf339819cbea09747bfa24b87c7433768a007d88814bf6",
+        "01_Instructor/Class_Preparation/W02_delivery_Checklist.md": "0385854f422d4bfad8599f6db43b8a55895ffd05fea28c0cf3d66c93e5f850a0",
         "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f",
         "scripts/build_w02_handouts.py": "53255d718ca73b29dc74fd905be44e0f657de4c3f5f4c69d7c5881da5baccfa7"
       }
@@ -75,9 +75,9 @@
     },
     {
       "output": "01_Instructor/Instructor_and_Mentor_Guide.pdf",
-      "sha256": "aeba49ed286db37939e7741317e7e7a149887eb54042292897dd392026135930",
+      "sha256": "4b6ed60d98700eb77247136b94795f62582624e650bae4cf4cbf4c506df1a952",
       "sources": {
-        "01_Instructor/Instructor_and_Mentor_Guide.docx": "18ab3dc9a7c5b4c648a873838dd03fdc1e43ddbdc85d32365dd2291472b7cd7f"
+        "01_Instructor/Instructor_and_Mentor_Guide.docx": "f87d5c8fd80e706064e1f82a1cea6e8dc6f05ada211d0227a2cde4fbe744e8bb"
       }
     },
     {
@@ -117,9 +117,9 @@
     },
     {
       "output": "02_Student/Printouts/W02_delivery_Build_Card.pdf",
-      "sha256": "61dd3c824bf17aab0ef680ba59d1c559203f9e71bfbbe4d81c2e37edfe2282d6",
+      "sha256": "26fb28c9d3dad806ad44b0a89cddd578ca0c60267fb707773a1a1fdedb19a13a",
       "sources": {
-        "02_Student/Printouts/W02_delivery_Build_Card.md": "e72933ccda0452e17f4a07d93771fecb62da713d47ece111ede12d2d5dfb8f5f"
+        "02_Student/Printouts/W02_delivery_Build_Card.md": "aae89f053dd9465bd449d93cf8f6829ab56003749244541dfa4c91202ccef1cc"
       }
     },
     {
@@ -243,9 +243,9 @@
     },
     {
       "output": "03_Presentations/W02_delivery.pdf",
-      "sha256": "da1c018ddecfd1e672bdcb1feae50ada0678ff1368eae27334a742f28aa3594d",
+      "sha256": "bff845088fb0ec83bbb5a1b3b53285162324a7bbd1fb4189816566bc72b2083f",
       "sources": {
-        "03_Presentations/W02_delivery.pptx": "1a7dd57283b69681fa3e3e463dd9e7d80d3872459cd8f964d738dc4d70cc2bf3"
+        "03_Presentations/W02_delivery.pptx": "a6bbad42544359903ff6e475dbb2753808c085fc82d697171819de74c2f197c7"
       }
     },
     {
@@ -313,9 +313,9 @@
     },
     {
       "output": "03_Presentations/W02_delivery.pptx",
-      "sha256": "1a7dd57283b69681fa3e3e463dd9e7d80d3872459cd8f964d738dc4d70cc2bf3",
+      "sha256": "a6bbad42544359903ff6e475dbb2753808c085fc82d697171819de74c2f197c7",
       "sources": {
-        "01_Instructor/Speaker_Notes/W02_delivery_Speaker_Notes.docx": "fa9f4cff1face8f980a2ad9bedfc5f032fa5c86a4e706912acc0168fa5da05b9",
+        "01_Instructor/Speaker_Notes/W02_delivery_Speaker_Notes.docx": "1eb09128e986a59c5f59dd4f5a7b980599ae3bb851d45aae3e1ea36f04f410fc",
         "03_Presentations/Assets/W02_motor_concept.png": "bb79394b532c10b1aa878f3e84437eb748f3e6ef97fe98b0ade63b4f6df61861",
         "03_Presentations/Assets/W02_Visual_Sources.md": "756d5d64a59bfa4360c194deb1309e506f11f312b0fcd45f4ba6c20eb267f823"
       }
@@ -432,9 +432,9 @@
     },
     {
       "output": "01_Instructor/Speaker_Notes/W02_delivery_Speaker_Notes.pdf",
-      "sha256": "a7ad0a92a3ad57b5a831070fc62c44312110ff83006ab3bc759c8c80242c81fe",
+      "sha256": "e3a3f4d78159fce61e567d21f01deb496f7a19ad56062aedc6512840d205c2d9",
       "sources": {
-        "01_Instructor/Speaker_Notes/W02_delivery_Speaker_Notes.docx": "fa9f4cff1face8f980a2ad9bedfc5f032fa5c86a4e706912acc0168fa5da05b9"
+        "01_Instructor/Speaker_Notes/W02_delivery_Speaker_Notes.docx": "1eb09128e986a59c5f59dd4f5a7b980599ae3bb851d45aae3e1ea36f04f410fc"
       }
     },
     {
@@ -447,10 +447,10 @@
     },
     {
       "output": "02_Student/Printouts/W02_Class_Print_Packet.pdf",
-      "sha256": "a1259284e84fd1ce6b1595f93eaad736030bfa11dd627e214f36fb3175fb5b9f",
+      "sha256": "56e0c73e7e269cbe581339899577c856eb293e735304eb3751b8c0598f31f289",
       "sources": {
         "02_Student/Printouts/W02_delivery_Team_Sheet.pdf": "15a0b5cadf327e901404b3cfd2b5fd54579ab8e8f13e158e56f567123bdf0b99",
-        "02_Student/Printouts/W02_delivery_Build_Card.pdf": "61dd3c824bf17aab0ef680ba59d1c559203f9e71bfbbe4d81c2e37edfe2282d6",
+        "02_Student/Printouts/W02_delivery_Build_Card.pdf": "26fb28c9d3dad806ad44b0a89cddd578ca0c60267fb707773a1a1fdedb19a13a",
         "02_Student/Printouts/W02_Wheel_Reference.pdf": "8fc8c8d1626865ffdd8564bb1b2c62cdbfa1cd408b87e2fb6878ac06e16bc8ea",
         "02_Student/Printouts/Attendance.pdf": "dfe10f350f50bdeb05d82f212b51053e8d56fc9a738e866b2e4f348ba2189594",
         "scripts/build_w02_handouts.py": "53255d718ca73b29dc74fd905be44e0f657de4c3f5f4c69d7c5881da5baccfa7"

@@ -1,6 +1,6 @@
 # MechaRAMS / Cheshire YMCA — session preparation tracker
 
-Updated: November 7, 2026
+Updated: November 9, 2026
 
 Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (public for reading as requested October 25). Initial upload completed October 25, 2026 using `atsekhan`. Updates can be committed in the GitHub editor; changes made in a local checkout require a commit and push.
 
@@ -9,6 +9,9 @@ Project continuity: [new-computer continuation prompt](CONTINUE_HERE.md), [proje
 This Markdown file is the preparation record. Follow the [browser editing and classroom setup instructions](CHECKLIST_INSTRUCTIONS.md); no clone is needed for reading or browser edits. The [eight-class speaker-note index](01_Instructor/Speaker_Notes/README.md) links separate DOCX and Markdown notes for each class.
 
 ## Current status and decisions
+
+- [x] November 9: reviewed student-instructor Google Slides edits read-only and incorporated useful changes into the GitHub deck and notes. Added detailed programming/cart tasks and the requested optional tabletop book-parking challenge. The deck now has 15 slides; opening still ends at minute 14.
+- [ ] Rehearse the optional loaded-cart/book challenge: measure frontmost clearance, check calculated travel and table-edge space, supervise Stop, and preserve reflection at minute 50. No tabletop run or hardware result is claimed by this material update.
 
 - [x] November 7: Alex reported Session 2 practice and requested clearer code/prediction prompts, simple motor visuals and wheel-degree/distance inference both ways. Added the accepted motor picture to slide 2 of the revised 11-slide deck; updated matching notes, code and handouts. Use the [current file/packing list](01_Instructor/Class_Preparation/W02_delivery_Checklist.md) and [14-page class packet](02_Student/Printouts/W02_Class_Print_Packet.pdf).
 - [ ] Measure both actual wheel circumferences and rehearse the revised 180/360/40 cm sequence with a fixed chassis reference, SPEED = 200 and unchanged mentor tray/cube. Record results; the practice report does not establish that all revised checks passed.

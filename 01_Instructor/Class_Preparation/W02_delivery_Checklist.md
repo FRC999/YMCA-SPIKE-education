@@ -29,6 +29,8 @@ Delivery to a target. 12 children, four teams of three, two robots. Finish the o
 - [ ] 2 floor lanes at least 100 cm long with extra stopping space as rehearsal requires, 2 targets at 40 cm and 2 fixed chassis-reference markers.
 - [ ] Optional: 1 loose matching wheel already available, or 1 prepared paper/card circle. Do not dismantle a teaching base for the demonstration.
 
+- [ ] Optional book challenge: 2 stable books and 2 supervised table lanes with ample edge/stopping clearance. Omit if the tabletop cannot safely contain the run.
+
 ## Rehearse
 
 - [ ] With power off, measure each tire's diameter and circumference C. Confirm direct wheel-to-motor attachment. Write each kit's C on its team sheets. The 5.6 cm / 17.6 cm slide example is not a measurement of these kits.
@@ -36,8 +38,9 @@ Delivery to a target. 12 children, four teams of three, two robots. Finish the o
 - [ ] Calculate predicted cm = (wheel degrees / 360) × C and target degrees = (40 / C) × 360. Round only the final target answer. Use cm for both target and C.
 - [ ] On BOTH kits, rehearse 180, 360 and the calculated 40 cm value at SPEED = 200. Keep the 0–1080 degree limit. Check intended hub, A/B ports, stop controls and saving.
 - [ ] Measure movement of the same chassis mark. Keep tray, cube, floor, heading and speed fixed. If the target calculation exceeds 1080, check measurements; do not bypass the guard. A 1 meter example is a paper calculation only today.
-- [ ] Inspect both mentor trays and rehearse a quick team-tray swap. Test a different tray separately using the same code.
-- [ ] Open the 11-slide deck, matching notes, full program and build references offline. Practice slides 1–8 within 14 minutes; coach calculator work at stations as needed.
+- [ ] Inspect both mentor trays and rehearse a quick team-cart swap. The cart must not hinder movement: no wheel rubbing, floor dragging or cable snagging. Test the new cart separately with the same code.
+- [ ] Open the 15-slide deck, matching notes, full program and build references offline. Practice slides 1–9 within 14 minutes; coach calculator work at stations as needed.
+- [ ] Optional: rehearse measuring from the cart’s front to the book, subtracting a 3 cm gap, and converting travel to degrees. Use the existing retest block only; no book contact or sensor logic.
 - [ ] Assign two robot mentors, two build mentors, an adult lead and any floaters. Confirm local supervision and pickup arrangements.
 
 ## Rotation and closeout

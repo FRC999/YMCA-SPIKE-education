@@ -1,10 +1,12 @@
 # Maintenance rules and backlog
 
-Updated November 7, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+Updated November 9, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
 
 ## Week 2 motion revision
 
-Week 2 now has 11 slides and matching DOCX/Markdown/embedded notes. The approved motor artwork and provenance are in `03_Presentations/Assets/`. Preserve the navy/teal slide style and one-hour rotation schedule. `scripts/check_lesson_materials.py` expects 11 Week 2 slides and six in other lessons. Use `scripts/build_w02_handouts.py` to typeset the one-page wheel reference and two-page checklist and assemble the 14-page class packet after regenerating the workbook's Week 2 sheet. Packet order: 5 team sheets, 4 build cards, 4 wheel cards and 1 attendance sheet. Review changes before recording export hashes. Week 2 notes also have a printable PDF companion.
+Week 2 now has 15 slides and matching DOCX/Markdown/embedded notes. The approved motor artwork and provenance are in `03_Presentations/Assets/`. Preserve the navy/teal slide style and one-hour rotation schedule. `scripts/check_lesson_materials.py` expects 15 Week 2 slides and six in other lessons. Use `scripts/build_w02_handouts.py` to typeset the one-page wheel reference and two-page checklist and assemble the 14-page class packet after regenerating the workbook's Week 2 sheet. Packet order: 5 team sheets, 4 build cards, 4 wheel cards and 1 attendance sheet. Review changes before recording export hashes. Week 2 notes also have a printable PDF companion.
+
+November 9 review adopted the student-instructor recap, concrete rolling-before-formula order, explicit units/circumference labels, half-turn inference and formula beside code. Retained the unit-conversion reminder and corrected duplicated degree notation. Added dedicated programming/build slides plus optional book parking, with matching notes, build card and checklist. Google Slides remains unchanged.
 
 ## Document ownership and synchronization
 
