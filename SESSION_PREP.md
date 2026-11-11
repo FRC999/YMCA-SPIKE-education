@@ -1,12 +1,18 @@
 # MechaRAMS / Cheshire YMCA — session preparation tracker
 
-Updated: November 9, 2026
+Updated: November 11, 2026
 
 Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (public for reading as requested October 25). Initial upload completed October 25, 2026 using `atsekhan`. Updates can be committed in the GitHub editor; changes made in a local checkout require a commit and push.
 
 Project continuity: [new-computer continuation prompt](CONTINUE_HERE.md), [project context](PROJECT_CONTEXT.md), and [maintenance rules/backlog](MAINTENANCE.md). Four core DOCX documents have generated Markdown reading copies; update the Word sources and run the sync script whenever their content changes.
 
 This Markdown file is the preparation record. Follow the [browser editing and classroom setup instructions](CHECKLIST_INSTRUCTIONS.md); no clone is needed for reading or browser edits. The [eight-class speaker-note index](01_Instructor/Speaker_Notes/README.md) links separate DOCX and Markdown notes for each class.
+
+## Week 3 cone pusher preparation
+
+- [x] November 11: revised Week 3 build to a removable cone pusher, with aligned slides, notes, handouts and straight-loop recipe.
+- [ ] Pack six matching small cones, four pusher packs/proxies and two mentor pushers; rehearse upright sliding and reachable targets on both kits at SPEED = 200.
+- [ ] Rehearse quick swaps and the 38–50 minute retests while preserving driver turns. Record actual results using the [Week 3 checklist](01_Instructor/Class_Preparation/W03_dance_Checklist.md).
 
 ## Current status and decisions
 

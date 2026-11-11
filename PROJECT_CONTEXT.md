@@ -1,6 +1,10 @@
 # Project context for continuing this work
 
-Last reviewed: November 9, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
+Last reviewed: November 11, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
+
+## Current Week 3 attachment revision
+
+November 11: Alex replaced the dancing-character build with a removable cone pusher. Teams keep a small cone upright with its whole base inside a target zone, hand-test three times, change one feature and retest. Explore contact height, width, bracing or a shallow V. The original counted-loop dance stays; existing retest time connects the build to three straight drive(60)/pause(300) repeats and one final D. SPEED remains 200; no turns with the cone, no extra motor or sensor. Six matching small cones must be supplied and the floor/target travel rehearsed on both bases. Updated teaching files retain W03_dance filenames and the one-hour schedule. Slide 5 of the seven-slide deck contains the build steps and trial procedure; the cone code follows on slide 6. Physical rehearsal is unreported.
 
 ## Current Session 2 revision
 
@@ -56,7 +60,7 @@ The slide prompt “move the last line to the top” differs from the paper task
 
 ## Separate class notes and prep checklist
 
-All eight classes now have separate detailed DOCX and generated Markdown speaker notes in [01_Instructor/Speaker_Notes](01_Instructor/Speaker_Notes/README.md), with one preparation page and one page per slide. Notes follow 15 slides for Week 2 and six for the other core lessons, with revised teams, roles and build activities. Week 8 has its own assessment/rehearsal/showcase schedule. Future edits must keep affected documents, slides, programs and reading copies aligned.
+All eight classes now have separate detailed DOCX and generated Markdown speaker notes in [01_Instructor/Speaker_Notes](01_Instructor/Speaker_Notes/README.md), with one preparation page and one page per slide. Notes follow 15 slides for Week 2, seven for Week 3 and six for the other core lessons, with revised teams, roles and build activities. Week 8 has its own assessment/rehearsal/showcase schedule. Future edits must keep affected documents, slides, programs and reading copies aligned.
 
 Alex initially requested clickable prep checkmarks. On October 25 he clarified a preference for Markdown and questioned the need for local HTML or cloning on teaching PCs. The local HTML checkbox editor and duplicate HTML references were retired. [SESSION_PREP.md](SESSION_PREP.md) remains the sole preparation record, with every existing checkbox and result preserved. Authorized collaborators can edit `[ ]`/`[x]` directly on GitHub; [instructions](CHECKLIST_INSTRUCTIONS.md) explain the workflow. Teaching PCs read GitHub and download the needed class files; cloning is optional for curriculum maintenance with Codex.
 

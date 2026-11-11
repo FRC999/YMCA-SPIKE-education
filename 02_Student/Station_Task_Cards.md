@@ -4,7 +4,7 @@ Print four cards for the current week, one per team. Teams build and hand-test a
 
 - Week 1: [A removable robot mascot](Printouts/W01_signal_Build_Card.md) · [Print PDF](Printouts/W01_signal_Build_Card.pdf)
 - Week 2: [A cargo tray that keeps its load](Printouts/W02_delivery_Build_Card.md) · [Print PDF](Printouts/W02_delivery_Build_Card.pdf)
-- Week 3: [A dancing character with moving parts](Printouts/W03_dance_Build_Card.md) · [Print PDF](Printouts/W03_dance_Build_Card.pdf)
+- Week 3: [A removable cone pusher](Printouts/W03_dance_Build_Card.md) · [Print PDF](Printouts/W03_dance_Build_Card.pdf)
 - Week 4: [A garage with a dependable target wall](Printouts/W04_parking_Build_Card.md) · [Print PDF](Printouts/W04_parking_Build_Card.pdf)
 - Week 5: [A road with a delivery marker](Printouts/W05_marker_Build_Card.md) · [Print PDF](Printouts/W05_marker_Build_Card.pdf)
 - Week 6: [A rescue scoop or guide](Printouts/W06_rescue_Build_Card.md) · [Print PDF](Printouts/W06_rescue_Build_Card.pdf)

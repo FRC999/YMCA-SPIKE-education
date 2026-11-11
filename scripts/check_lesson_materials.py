@@ -50,7 +50,7 @@ def check():
             elif p.strip():
                 current.append(p)
         sections.append(current)
-        expected_count = 15 if name == 'W02_delivery' else 6
+        expected_count = {'W02_delivery': 15, 'W03_dance': 7}.get(name, 6)
         if len(sections) != expected_count + 1:
             errors.append(f'{name}: expected preparation plus {expected_count} slide sections')
             continue

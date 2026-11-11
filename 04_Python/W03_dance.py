@@ -21,6 +21,15 @@ async def student_recipe():
     await signal("D")
     # STUDENT RECIPE END
 
+# CONE RETEST: replace only the student recipe above after the fit check.
+# for push in range(3):
+#     await drive(60)
+#     await pause(300)
+# await signal("D")
+# Keep these lines inside student_recipe(); retain its function indentation.
+# SPEED stays 200. No turns. Mentor rehearses target placement on both kits.
+# Stop for a tip/escape; reset only when stopped. Remove pusher for dancing.
+
 # MENTOR SUPPORT FUNCTIONS BELOW
 async def signal(letter):
     await light_matrix.write(letter)

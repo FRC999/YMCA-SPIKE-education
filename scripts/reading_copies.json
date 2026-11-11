@@ -3,9 +3,9 @@
   "copies": [
     {
       "output": "00_Start_Here/Program_Proposal_and_Resources.pdf",
-      "sha256": "fd5b92b4da0253289e2a63b054643bcd5104c2e929edf6ada652a1d6578e6a40",
+      "sha256": "fcf454b8736476941d73f7feb0d31c3974396ea194a435d0d647bc0586b479a4",
       "sources": {
-        "00_Start_Here/Program_Proposal_and_Resources.docx": "13d05cd47c41cbb0aae6ae85d2ed0adfe9154e34a0c594b6594632609e4d3e8b"
+        "00_Start_Here/Program_Proposal_and_Resources.docx": "5afc15bfed06e6a7509b30fea538912c5a7076c5786e6618e082418f6d28fd3c"
       }
     },
     {
@@ -27,10 +27,11 @@
     },
     {
       "output": "01_Instructor/Class_Preparation/W03_dance_Checklist.pdf",
-      "sha256": "94d91323097e81078b69bc60ab4fdbd1fbe7e20a19d60f5bb8723674a1aa427e",
+      "sha256": "537f532122079ce1882e770c1b024c24e36a7b031088ca550acf87e07af0e1b4",
       "sources": {
-        "01_Instructor/Class_Preparation/W03_dance_Checklist.md": "fc201ae2baa24baa0a52d327946b3b5c10abfb56455ddfcd93240ff2f732d1d6",
-        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
+        "01_Instructor/Class_Preparation/W03_dance_Checklist.md": "8c4d69cb36b581144c2a5a28bd0446fb840b78660a527dd2896fe1f7400ac968",
+        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f",
+        "scripts/build_w03_handouts.py": "5db6e589cba1184dc8fb7daefcb6d9f7f5b452e06c9797134b5bf31f4a55707e"
       }
     },
     {
@@ -75,9 +76,9 @@
     },
     {
       "output": "01_Instructor/Instructor_and_Mentor_Guide.pdf",
-      "sha256": "4b6ed60d98700eb77247136b94795f62582624e650bae4cf4cbf4c506df1a952",
+      "sha256": "0afda85910dfcdbb37d3755fc0997c7b32f16e2a21f012172aef5a28fc66f961",
       "sources": {
-        "01_Instructor/Instructor_and_Mentor_Guide.docx": "f87d5c8fd80e706064e1f82a1cea6e8dc6f05ada211d0227a2cde4fbe744e8bb"
+        "01_Instructor/Instructor_and_Mentor_Guide.docx": "93f4d368565ab4060d3fd7da5e2cae5759396700be9d9a6d8788b40a71440878"
       }
     },
     {
@@ -91,7 +92,7 @@
       "output": "02_Student/Printouts/Final_Check.pdf",
       "sha256": "165cf554006f8257cc71d0f6cc0d25d92549c1498e4b591c189f353c8a70d383",
       "sources": {
-        "02_Student/Student_Workbook.docx": "fe5b78e94d8cc494c97517f7033f062a5a13808e8d37cdd4774e54b955ccf2cf"
+        "02_Student/Student_Workbook.docx": "06f8d106a89afc6b824734f93c1bde264f8498796fe9a22741518f905eb65d6a"
       }
     },
     {
@@ -112,7 +113,7 @@
       "output": "02_Student/Printouts/W01_signal_Team_Sheet.pdf",
       "sha256": "ac009db1d090ade93c5ab5c03fd2c51d2c6cea1193b93f1020eac1d4c813df71",
       "sources": {
-        "02_Student/Student_Workbook.docx": "fe5b78e94d8cc494c97517f7033f062a5a13808e8d37cdd4774e54b955ccf2cf"
+        "02_Student/Student_Workbook.docx": "06f8d106a89afc6b824734f93c1bde264f8498796fe9a22741518f905eb65d6a"
       }
     },
     {
@@ -126,21 +127,22 @@
       "output": "02_Student/Printouts/W02_delivery_Team_Sheet.pdf",
       "sha256": "15a0b5cadf327e901404b3cfd2b5fd54579ab8e8f13e158e56f567123bdf0b99",
       "sources": {
-        "02_Student/Student_Workbook.docx": "fe5b78e94d8cc494c97517f7033f062a5a13808e8d37cdd4774e54b955ccf2cf"
+        "02_Student/Student_Workbook.docx": "06f8d106a89afc6b824734f93c1bde264f8498796fe9a22741518f905eb65d6a"
       }
     },
     {
       "output": "02_Student/Printouts/W03_dance_Build_Card.pdf",
-      "sha256": "e324d59b1f00ee30f7f403477d7aacc1e0d02c3a0c9bff7ee6d12f6d3796e5f1",
+      "sha256": "41400df0ceb9547cefa2b5cd73fe4a63c336d1331116694e26cf207eef33be3f",
       "sources": {
-        "02_Student/Printouts/W03_dance_Build_Card.md": "ba67c0e323aa91e310ab7a96211f7b3fe6da05f2fdd63743aa1e022398abb925"
+        "02_Student/Printouts/W03_dance_Build_Card.md": "8e249a0b21b6ef6655d232a0f41f7e463157d82d475e234b7d7e73fc8e75c03d",
+        "scripts/build_w03_handouts.py": "5db6e589cba1184dc8fb7daefcb6d9f7f5b452e06c9797134b5bf31f4a55707e"
       }
     },
     {
       "output": "02_Student/Printouts/W03_dance_Team_Sheet.pdf",
-      "sha256": "e2e120f4860cd6ae6c0df6ef8489cdb4cd2b648e24c00287bde4b4e2e25582c7",
+      "sha256": "91f707d401cacd14647e4ea6d6ff3edf39edc6fe2d0029195e97396ef3bf715d",
       "sources": {
-        "02_Student/Student_Workbook.docx": "fe5b78e94d8cc494c97517f7033f062a5a13808e8d37cdd4774e54b955ccf2cf"
+        "02_Student/Student_Workbook.docx": "06f8d106a89afc6b824734f93c1bde264f8498796fe9a22741518f905eb65d6a"
       }
     },
     {
@@ -154,7 +156,7 @@
       "output": "02_Student/Printouts/W04_parking_Team_Sheet.pdf",
       "sha256": "1773eaf02bc2c180c98168f647285ced16424114c9db564cb17a0cb9d1e727af",
       "sources": {
-        "02_Student/Student_Workbook.docx": "fe5b78e94d8cc494c97517f7033f062a5a13808e8d37cdd4774e54b955ccf2cf"
+        "02_Student/Student_Workbook.docx": "06f8d106a89afc6b824734f93c1bde264f8498796fe9a22741518f905eb65d6a"
       }
     },
     {
@@ -168,7 +170,7 @@
       "output": "02_Student/Printouts/W05_marker_Team_Sheet.pdf",
       "sha256": "518f44fd39b1f79708001a22e40969942686b8efd74ac96cee8977a91d4ef6d3",
       "sources": {
-        "02_Student/Student_Workbook.docx": "fe5b78e94d8cc494c97517f7033f062a5a13808e8d37cdd4774e54b955ccf2cf"
+        "02_Student/Student_Workbook.docx": "06f8d106a89afc6b824734f93c1bde264f8498796fe9a22741518f905eb65d6a"
       }
     },
     {
@@ -182,7 +184,7 @@
       "output": "02_Student/Printouts/W06_rescue_Team_Sheet.pdf",
       "sha256": "73dad2c5158333f9b9cacead29ac8e2b9883d258d9ad63e040dc65f6bca425af",
       "sources": {
-        "02_Student/Student_Workbook.docx": "fe5b78e94d8cc494c97517f7033f062a5a13808e8d37cdd4774e54b955ccf2cf"
+        "02_Student/Student_Workbook.docx": "06f8d106a89afc6b824734f93c1bde264f8498796fe9a22741518f905eb65d6a"
       }
     },
     {
@@ -196,7 +198,7 @@
       "output": "02_Student/Printouts/W07_mission_Team_Sheet.pdf",
       "sha256": "8d5b826662e1b59cd6bd1f867ed897c1ecb06e7f0996d1b92c23e35cfb377764",
       "sources": {
-        "02_Student/Student_Workbook.docx": "fe5b78e94d8cc494c97517f7033f062a5a13808e8d37cdd4774e54b955ccf2cf"
+        "02_Student/Student_Workbook.docx": "06f8d106a89afc6b824734f93c1bde264f8498796fe9a22741518f905eb65d6a"
       }
     },
     {
@@ -210,14 +212,14 @@
       "output": "02_Student/Printouts/W08_showcase_Team_Sheet.pdf",
       "sha256": "b57e62bbc45acca45340c293dd70069e5c80332e690d3a051841902d9d605491",
       "sources": {
-        "02_Student/Student_Workbook.docx": "fe5b78e94d8cc494c97517f7033f062a5a13808e8d37cdd4774e54b955ccf2cf"
+        "02_Student/Student_Workbook.docx": "06f8d106a89afc6b824734f93c1bde264f8498796fe9a22741518f905eb65d6a"
       }
     },
     {
       "output": "02_Student/Student_Workbook.pdf",
-      "sha256": "5778bce8ceef69d7e75fb3681140e1de4616a9f52f7e955f458427dee3301229",
+      "sha256": "2acd9a31a2f130bfaa746b0950f602f208977facf93c1732e13aa42ef2ae2f94",
       "sources": {
-        "02_Student/Student_Workbook.docx": "fe5b78e94d8cc494c97517f7033f062a5a13808e8d37cdd4774e54b955ccf2cf"
+        "02_Student/Student_Workbook.docx": "06f8d106a89afc6b824734f93c1bde264f8498796fe9a22741518f905eb65d6a"
       }
     },
     {
@@ -250,9 +252,9 @@
     },
     {
       "output": "03_Presentations/W03_dance.pdf",
-      "sha256": "4afd5cbcf4f7ed899c48751d8396fc1ad34709b5a005bf657d7d18ab289d92b9",
+      "sha256": "34715fd1e89f6aa8a2d44ff4c881946e9ed655a4e81efb2094cf9f99e8c496c5",
       "sources": {
-        "03_Presentations/W03_dance.pptx": "d2a02b23d6cb2d6845f5255a3b255c1bd9488193ef7cbbd86959eb0bb29bfa84"
+        "03_Presentations/W03_dance.pptx": "f40723bb24e2f06f1217575ac49c0201e6df75dea931350029141b45fd0da4b7"
       }
     },
     {
@@ -322,9 +324,9 @@
     },
     {
       "output": "03_Presentations/W03_dance.pptx",
-      "sha256": "d2a02b23d6cb2d6845f5255a3b255c1bd9488193ef7cbbd86959eb0bb29bfa84",
+      "sha256": "f40723bb24e2f06f1217575ac49c0201e6df75dea931350029141b45fd0da4b7",
       "sources": {
-        "01_Instructor/Speaker_Notes/W03_dance_Speaker_Notes.docx": "a4d637129014b02829e1f7723c443edf090771833f9664255c7fe60a4d486857"
+        "01_Instructor/Speaker_Notes/W03_dance_Speaker_Notes.docx": "8ae20a9b347aa7d2d5232a4918457b356e6d594e5696117c4cd3a41be67b7eeb"
       }
     },
     {

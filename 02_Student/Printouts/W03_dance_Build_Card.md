@@ -1,29 +1,32 @@
 # Week 3 build card
 
-## A dancing character with moving parts
+## A removable cone pusher
 
 Team ____  Builders A ____ B ____ C ____
 
-Build a lightweight character with arms or a feature that can move by hand and still stays attached.
+Build an attachment that pushes a small cone into a target zone while keeping it upright. The cone slides on the floor; do not lift or carry it.
 
-**Materials:** Light beams, pins, an axle or loose hinge, pre-cut card and the clearance template. No extra motor is required.
+**Materials:** Beams, pins, braces or pre-cut card, craft tape, a mounting proxy, ruler, small cone and marked target. No extra motor or sensor.
 
-## Try it
+## Build and test
 
-1. Build the character and a stable support.
-2. Add a free-moving arm, hinge or axle that stays outside the wheel path.
-3. Move it by hand ten times and improve a loose or tipping part.
+1. Make a low front bar and two secure mounting points. Use the proxy while the other team has the robot.
+2. Hand-push the cone 10 cm toward the zone. Keep the bar off the floor and clear of the wheel outline. Start gently.
+3. Repeat three times from the same start. Count success only when the cone stays upright and its whole base finishes inside the zone.
+4. Change ONE feature: contact height, width, bracing, or a shallow V with room for the cone. Try three more times. Keep the cone, floor, start and hand-push distance the same.
 
 ## Our jobs
 
-Builder connects pieces. Designer chooses/finds parts and checks the plan. Tester performs the hand test and reports one result. Everyone builds. Rotate when the mentor calls time.
+Builder connects pieces. Designer selects parts and checks fit. Tester resets the cone and reports results. Rotate when the mentor calls time.
 
-## Test and improve
+## Show your evidence
 
-Moving feature works by hand without jamming; support survives gentle handling.
+First design: ____ / 3 successes. Changed design: ____ / 3.
 
 We noticed ____________________. We changed ____________________.
 
-The tested character may ride on the stopped base after a mentor clearance check. Its mechanism is passive; the robot program makes the base dance.
+## Try it on the robot
 
-Fit attachments only to a stopped robot after the mentor checks clearance. Leave wheels, buttons, cables and sensors clear.
+Fit only while stopped, after a mentor checks wheels, cables, buttons and floor clearance. Use the straight cone recipe: repeat drive(60), pause(300) three times; then signal D once. Use await and the full supplied project. No turns. The mentor sets the target for the rehearsed travel.
+
+Stop if the cone tips or escapes. Wait for motion to stop before resetting. Remove the pusher before running the dance. Finish by minute 50.

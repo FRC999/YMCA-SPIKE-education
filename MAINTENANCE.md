@@ -1,10 +1,14 @@
 # Maintenance rules and backlog
 
-Updated November 9, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+Updated November 11, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+
+## Week 3 cone pusher revision
+
+November 11: replaced the passive dancing character with a removable cone pusher throughout paired documents and Week 3 teaching files. Preserve the dance loop as the opening exercise and use the straight drive/pause loop for the cone retest. Existing W03_dance filenames remain; the deck now has seven slides, including a dedicated step-by-step build slide. Run scripts/build_w03_handouts.py to regenerate the one-page build card and compact packing checklist; review both before recording hashes. Rehearsal and cone suitability remain open in SESSION_PREP.md.
 
 ## Week 2 motion revision
 
-Week 2 now has 15 slides and matching DOCX/Markdown/embedded notes. The approved motor artwork and provenance are in `03_Presentations/Assets/`. Preserve the navy/teal slide style and one-hour rotation schedule. `scripts/check_lesson_materials.py` expects 15 Week 2 slides and six in other lessons. Use `scripts/build_w02_handouts.py` to typeset the one-page wheel reference and two-page checklist and assemble the 14-page class packet after regenerating the workbook's Week 2 sheet. Packet order: 5 team sheets, 4 build cards, 4 wheel cards and 1 attendance sheet. Review changes before recording export hashes. Week 2 notes also have a printable PDF companion.
+Week 2 now has 15 slides and matching DOCX/Markdown/embedded notes. The approved motor artwork and provenance are in `03_Presentations/Assets/`. Preserve the navy/teal slide style and one-hour rotation schedule. `scripts/check_lesson_materials.py` expects 15 Week 2 slides, seven Week 3 slides and six in other lessons. Use `scripts/build_w02_handouts.py` to typeset the one-page wheel reference and two-page checklist and assemble the 14-page class packet after regenerating the workbook's Week 2 sheet. Packet order: 5 team sheets, 4 build cards, 4 wheel cards and 1 attendance sheet. Review changes before recording export hashes. Week 2 notes also have a printable PDF companion.
 
 November 9 review adopted the student-instructor recap, concrete rolling-before-formula order, explicit units/circumference labels, half-turn inference and formula beside code. Retained the unit-conversion reminder and corrected duplicated degree notation. Added dedicated programming/build slides plus optional book parking, with matching notes, build card and checklist. Google Slides remains unchanged.
 
@@ -47,7 +51,7 @@ The root README is the GitHub reading index. PDFs preserve page/slide layout; Ma
 Source ownership and regeneration:
 
 - Core PDFs: export the matching DOCX to PDF with Word or the available document renderer; inspect every page.
-- Deck PDFs: export the matching PPTX as slides, with one slide per page. The current PDFs contain the reviewed slide images at 1280 × 720, preserving layout. Use the Markdown speaker notes for text and the PPTX for Presenter View. When notes change, update the corresponding embedded PPTX notes from all slide sections in the speaker-note DOCX (11 for Week 2, six for other lessons). Keep both Week 1 PPTX filenames identical.
+- Deck PDFs: export the matching PPTX as slides, with one slide per page. The current PDFs contain the reviewed slide images at 1280 × 720, preserving layout. Use the Markdown speaker notes for text and the PPTX for Presenter View. When notes change, update the corresponding embedded PPTX notes from all slide sections in the speaker-note DOCX (15 for Week 2, seven for Week 3, six for other lessons). Keep both Week 1 PPTX filenames identical.
 - Team sheets and final checks: extract the matching pages from the newly exported workbook PDF. Attendance comes from the evaluation-forms PDF. Locate pages by heading, rather than assuming old page numbers still apply. The former baseline page is now a welcoming introduction on page 2, with no questions or ratings. Weeks 1–8 remain on pages 3–10, final check on page 11; attendance is evaluation page 2.
 - Build cards and packing checklists: edit their same-name Markdown sources, then typeset/re-export the affected PDFs. Check quantities against the reusable kit. Packing PDFs are compact one-page summaries; the Markdown includes the complete preparation and closeout steps.
 - Role cards: use `01_Instructor/Grouping_and_Roles.md`; preserve two pages, three cards per page. Hub guide: use its Markdown source and the supplied reference image.

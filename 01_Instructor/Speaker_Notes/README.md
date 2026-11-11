@@ -2,7 +2,7 @@
 
 For the post-session-1 plan and optional extensions, read [sessions 2–8](../Remaining_Sessions_Plan.md). The core sequence remains eight classes; the timed delivery lesson below is an alternative for Week 7.
 
-Each class has a separate Word document for printing and a matching Markdown copy for reading on GitHub. Each contains a preparation page and notes for every slide (11 for revised Week 2, six for other lessons): timing, suggested words, actions, questions and expected answers, three-role team rotations, troubleshooting, evidence and cleanup. Leave activity slides visible while students work. Week 2 also has [printable PDF notes](W02_delivery_Speaker_Notes.pdf).
+Each class has a separate Word document for printing and a matching Markdown copy for reading on GitHub. Each contains a preparation page and notes for every slide (15 for Week 2, seven for Week 3, six for other lessons): timing, suggested words, actions, questions and expected answers, three-role team rotations, troubleshooting, evidence and cleanup. Leave activity slides visible while students work. Week 2 also has [printable PDF notes](W02_delivery_Speaker_Notes.pdf).
 
 | Class | Topic | Read on GitHub | Print or edit | Matching slides |
 |---|---|---|---|---|

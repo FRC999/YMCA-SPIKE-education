@@ -64,6 +64,19 @@ await signal("D")
 
 How many drives? How many turns? Does the final D repeat? Which indentation tells you?
 
+#### Week 3 cone pusher retest
+
+After the mentor checks the attachment, replace only the student recipe with this fragment (keep it inside `async def student_recipe()` in the complete project):
+
+```python
+for push in range(3):
+    await drive(60)
+    await pause(300)
+await signal("D")
+```
+
+Predict three drives, three pauses and one D; total travel is 180 wheel degrees, not 180 cm. Use the mentor-rehearsed target and SPEED = 200. No turns with the cone. Stop for a tip or escape; reset only once stopped. Compare attachment designs using the same cone, floor, start and recipe. Remove the pusher before returning to the dance.
+
 ### Week 4: Parking assistant
 
 ```python
