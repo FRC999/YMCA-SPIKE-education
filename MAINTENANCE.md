@@ -4,7 +4,7 @@ Updated November 11, 2026. This file tracks repository maintenance and reusable 
 
 ## Week 3 cone pusher revision
 
-November 11: replaced the passive dancing character with a removable cone pusher throughout paired documents and Week 3 teaching files. Preserve the dance loop as the opening exercise and use the straight drive/pause loop for the cone retest. Existing W03_dance filenames remain; the deck now has seven slides, including a dedicated step-by-step build slide. Run scripts/build_w03_handouts.py to regenerate the one-page build card and compact packing checklist; review both before recording hashes. Rehearsal and cone suitability remain open in SESSION_PREP.md.
+November 11 clarification: the pusher stays attached and guides the cone throughout the dance loop, including turns. Removed the separate straight-push exercise and target-zone rule. Preserve seven slides, the dedicated build/mounting instructions and the unchanged one-hour schedule. Keep notes, workbook, code, build card and checklist aligned. Run scripts/build_w03_handouts.py to regenerate the two one-page PDFs, review them and record their hashes. Physical rehearsal remains in SESSION_PREP.md.
 
 ## Week 2 motion revision
 

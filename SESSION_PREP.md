@@ -10,9 +10,10 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 
 ## Week 3 cone pusher preparation
 
-- [x] November 11: revised Week 3 build to a removable cone pusher, with aligned slides, notes, handouts and straight-loop recipe.
-- [ ] Pack six matching small cones, four pusher packs/proxies and two mentor pushers; rehearse upright sliding and reachable targets on both kits at SPEED = 200.
-- [ ] Rehearse quick swaps and the 38–50 minute retests while preserving driver turns. Record actual results using the [Week 3 checklist](01_Instructor/Class_Preparation/W03_dance_Checklist.md).
+- [x] November 11: revised materials so teams attach their own pushers and test them during the dance moves AND turns. The earlier separate straight-push recipe is superseded.
+- [ ] Pack six matching cones, four pusher build packs/proxies and two mentor pushers. Mark two actual front mounting points; check proxy spacing/height against both bases.
+- [ ] Rehearse the mounted pusher and upright cone through the full drive/turn loop on both kits at SPEED = 200. Check secure mounts and the swept floor area; rehearse a smaller positive turn if needed.
+- [ ] Rehearse quick swaps so every team tests its own attachment within the existing 38–50 minute retests. Record actual results in the [Week 3 checklist](01_Instructor/Class_Preparation/W03_dance_Checklist.md).
 
 ## Current status and decisions
 

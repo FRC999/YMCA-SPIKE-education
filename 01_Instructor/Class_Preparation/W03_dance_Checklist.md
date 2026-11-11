@@ -20,17 +20,18 @@ Required student/record sheets: **10 pages**. Add one optional packing checklist
 
 - [ ] 6 matching small lightweight cones (suggested height 4–8 cm): 4 for team build packs and 2 for robot lanes. Use cones with flat stable bases; test that they slide on the actual floor. These are supplied props, not assumed kit contents.
 - [ ] 4 equal pusher packs with beams/pins or pre-cut card, two mounting supports and braces per team; 4 matching mounting proxies, craft tape and 2 mentor pushers. Check available parts without taking either base apart.
-- [ ] 2 clear FLOOR areas sized for the dance and straight cone runs; tape for starts and target zones, rulers and room to stop. Provide a 10 cm hand-test path and a zone wider than the cone at each build table.
+- [ ] 2 clear FLOOR areas sized for the full swept path of robot, pusher and cone during the dance; tape for start marks and boundaries, rulers and room to stop. Clear space for gentle hand-push and turn checks at the build tables.
 
 ## Before children arrive
 
 - [ ] Open the Week 3 slide PDF/PPTX, speaker notes, complete W03_dance.py and build references. Save offline copies.
 - [ ] Run the week’s robot sequence on BOTH bases; confirm intended hub, ports, stop controls and save workflow.
-- [ ] Rehearse the original dance and a 90-wheel-degree pivot on both bases; this is not a 90-degree heading command. Keep SPEED = 200. Keep the pusher off during the dance.
-- [ ] Rehearse the cone recipe in a separate saved copy: inside student_recipe(), repeat await drive(60) then await pause(300) three times; await signal("D") outside the loop. Total travel is 180 wheel degrees. No turns or sensor changes.
-- [ ] With the same cone and start, mark a reachable target for each kit's actual travel. The whole cone base must finish inside while upright. Check three runs, pusher attachment/clearance and a quick swap. Record actual outcomes; lower contact or widen the guide if it tips or escapes. Do not raise speed to overcome sticking.
-- [ ] Teach Stop for a tip or escape; reset only after motion stops. Compare designs with cone, floor, start, SPEED and recipe fixed. Do not try to recover a fallen cone during the run.
-- [ ] Use build turns for three 10 cm hand trials, one design change and three more trials. Use the existing 38–50 minute robot retests for fitting and the straight-loop test; preserve each child's driver turn and reflection at minute 50. If a fit fails, use the mentor pusher and report the team's hand-test evidence.
+- [ ] Mark two existing front mounting points on each stopped base. Match the four proxies to actual spacing, height and wheel clearance. Provide enough compatible pins/beams for every team to fit its own pusher without dismantling a base.
+- [ ] Rehearse W03_dance.py WITH a mounted pusher and cone on both bases: three repeats of await drive(90), await turn(90), then await signal("D") outside the loop. Keep SPEED = 200. The turn value is wheel rotation, not a 90-degree heading change.
+- [ ] Check mount strength through turns, wheel/floor/cable clearance and the entire swept area. If needed, rehearse a smaller positive turn; retain forward moves AND turns. Keep the approved code fixed when comparing pusher designs. Do not raise speed to overcome sticking.
+- [ ] Success: three complete drive-and-turn repeats with secure mounting and cone upright inside the guide. Count repeats completed before a tip, escape or loose mount (0–3). Stop for failure; reset only after motion stops. Do not fasten the cone to the robot or recover it during motion.
+- [ ] Use build turns for mounting-proxy construction and gentle forward/turn hand checks. Use mentor pushers for early programming turns until team builds are ready. Every team must fit and test its OWN attachment on the actual robot during the 38–50 minute retests; a hand test or mentor pusher does not count as completing the team's build test. Record an unsuccessful fit honestly and help repair it.
+- [ ] Rehearse quick swaps, one-change retesting and role rotation. Preserve each child's driver turn and reflection at minute 50. Test the pusher as part of the dance, not with a separate straight-push routine.
 - [ ] Assign two robot mentors and two build mentors. Use additional mentors for transitions or support. Keep paper recording short and at the robot.
 
 ## At the end

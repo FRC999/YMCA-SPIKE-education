@@ -4,7 +4,7 @@ Last reviewed: November 11, 2026. This is a curated handoff of the project’s d
 
 ## Current Week 3 attachment revision
 
-November 11: Alex replaced the dancing-character build with a removable cone pusher. Teams keep a small cone upright with its whole base inside a target zone, hand-test three times, change one feature and retest. Explore contact height, width, bracing or a shallow V. The original counted-loop dance stays; existing retest time connects the build to three straight drive(60)/pause(300) repeats and one final D. SPEED remains 200; no turns with the cone, no extra motor or sensor. Six matching small cones must be supplied and the floor/target travel rehearsed on both bases. Updated teaching files retain W03_dance filenames and the one-hour schedule. Slide 5 of the seven-slide deck contains the build steps and trial procedure; the cone code follows on slide 6. Physical rehearsal is unreported.
+November 11 clarification: the team-built pusher MUST attach to the actual robot and push the cone DURING the dance programming test, including turns. The separate straight-push recipe is superseded. Use the same three-repeat drive(90)/turn(90) dance with one final D, SPEED = 200. Rehearse a smaller positive turn if needed; retain turns and hold the approved recipe fixed to compare builds. Success is three complete repeats with a secure mount and the cone upright inside the guide. Record completed repeats before failure (0–3). Hand tests/proxies are preparation; every team must fit and test its own pusher in the existing retest slot. Use mentor pushers for early coding turns until team builds are ready. Slide 5 shows construction/mounting; slide 6 shows the combined test. Physical rehearsal remains unreported.
 
 ## Current Session 2 revision
 

@@ -1,32 +1,33 @@
 # Week 3 build card
 
-## A removable cone pusher
+## Attach a cone pusher and test the dance
 
 Team ____  Builders A ____ B ____ C ____
 
-Build an attachment that pushes a small cone into a target zone while keeping it upright. The cone slides on the floor; do not lift or carry it.
+Build a pusher that attaches to the robot and guides a small upright cone during the dance's forward moves AND turns. The cone slides on the floor; do not fasten it to the pusher or carry it.
 
-**Materials:** Beams, pins, braces or pre-cut card, craft tape, a mounting proxy, ruler, small cone and marked target. No extra motor or sensor.
+**Materials:** Beams, pins, braces, short side guides or pre-cut card, matching mounting proxy and small cone. No extra motor or sensor.
 
-## Build and test
+## Build and prepare
 
-1. Make a low front bar and two secure mounting points. Use the proxy while the other team has the robot.
-2. Hand-push the cone 10 cm toward the zone. Keep the bar off the floor and clear of the wheel outline. Start gently.
-3. Repeat three times from the same start. Count success only when the cone stays upright and its whole base finishes inside the zone.
-4. Change ONE feature: contact height, width, bracing, or a shallow V with room for the cone. Try three more times. Keep the cone, floor, start and hand-push distance the same.
-
-## Our jobs
-
-Builder connects pieces. Designer selects parts and checks fit. Tester resets the cone and reports results. Rotate when the mentor calls time.
-
-## Show your evidence
-
-First design: ____ / 3 successes. Changed design: ____ / 3.
-
-We noticed ____________________. We changed ____________________.
+1. Match the two front mounting points marked by the mentor. Use the proxy while the other team has the robot.
+2. Make a low pushing bar with short side guides. Try a shallow V or open U shape with room for the cone to slide. Brace the mount against twisting.
+3. Check wheel and floor clearance. Hand-test a gentle forward push AND turn. Change a part that bends, tips the cone or lets it escape.
 
 ## Try it on the robot
 
-Fit only while stopped, after a mentor checks wheels, cables, buttons and floor clearance. Use the straight cone recipe: repeat drive(60), pause(300) three times; then signal D once. Use await and the full supplied project. No turns. The mentor sets the target for the rehearsed travel.
+4. Attach YOUR pusher to the actual stopped robot. With the mentor, check both mounts, wheels, cables and buttons. A hand test alone does not finish this challenge.
+5. Put the cone in the guide and run the SAME dance loop: drive(90), turn(90), repeated three times, then signal D once. Use await and the supplied full project. Keep the pusher attached during the turns.
+6. Count complete drive-and-turn repeats before a tip, escape or loose mount (0–3). Stop for a failure; reset only after motion stops. Improve ONE feature and rerun the same code.
 
-Stop if the cone tips or escapes. Wait for motion to stop before resetting. Remove the pusher before running the dance. Finish by minute 50.
+**Success:** Three complete repeats with the mount secure and the cone still upright inside the guide. Keep cone, floor, start, speed and code the same when comparing builds.
+
+## Our jobs and evidence
+
+Rotate builder, designer and tester. At the robot, rotate driver, navigator and observer when called.
+
+First test: ____ / 3 repeats. After one change: ____ / 3 repeats.
+
+We noticed ____________________. We changed ____________________.
+
+SPEED stays 200. Mentors may rehearse a smaller positive turn if needed, but turns remain in the dance. Finish testing by minute 50.

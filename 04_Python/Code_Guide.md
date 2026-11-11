@@ -64,18 +64,11 @@ await signal("D")
 
 How many drives? How many turns? Does the final D repeat? Which indentation tells you?
 
-#### Week 3 cone pusher retest
+#### Week 3 build and dance test
 
-After the mentor checks the attachment, replace only the student recipe with this fragment (keep it inside `async def student_recipe()` in the complete project):
+Attach the team's pusher to the stopped robot and put the cone inside its guide. Run the SAME dance recipe above, including `turn(90)`, with the pusher attached. Predict three drives, three turns and one D. The pusher must keep the cone upright within the guide through the turns; the cone slides on the floor, not fastened or carried.
 
-```python
-for push in range(3):
-    await drive(60)
-    await pause(300)
-await signal("D")
-```
-
-Predict three drives, three pauses and one D; total travel is 180 wheel degrees, not 180 cm. Use the mentor-rehearsed target and SPEED = 200. No turns with the cone. Stop for a tip or escape; reset only once stopped. Compare attachment designs using the same cone, floor, start and recipe. Remove the pusher before returning to the dance.
+Record complete drive-and-turn repeats before a tip, escape or loose mount (0–3). Stop for a failure and reset only once stopped. Keep SPEED = 200. Mentors rehearse the swept area and may approve a smaller positive turn on both kits; a wheel turn value is not a heading angle. Preserve turns. Compare one build change with the same cone, start, surface, speed and approved recipe. A hand test alone does not complete the task: each team must fit and test its attachment on the robot.
 
 ### Week 4: Parking assistant
 
