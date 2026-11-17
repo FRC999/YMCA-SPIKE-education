@@ -4,6 +4,8 @@ Updated November 16, 2026. This file tracks repository maintenance and reusable 
 
 ## Week 3 cone pusher revision
 
+Run `python scripts/build_w03_dance_field.py` with ReportLab to regenerate the field for the original Week 3 program. Check the playfield and movable markers at actual size, and verify the PDF sequence still matches the original class program.
+
 Run `python scripts/build_w03_demo_playfield.py` with ReportLab and Pillow to produce the three-cone demo playfield and the separate pusher picture. Check the five US Letter pages, the four trimmed seams, the nominal demo sequence against the Week 3 helpers, and the assembly picture before recording both hashes.
 
 Generate the four-cone US Letter pattern with python scripts/build_cone_template.py (ReportLab). Review the page before recording its hash.

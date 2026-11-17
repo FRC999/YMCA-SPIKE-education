@@ -2,6 +2,14 @@
   "version": 1,
   "copies": [
     {
+      "output": "02_Student/Printouts/W03_Dance_Three_Cone_Field.pdf",
+      "sha256": "ba32dbf589a6767f6d703fedc4f383424ea5f6bd0a9e7270aa5a76f0ede3e854",
+      "sources": {
+        "scripts/build_w03_dance_field.py": "c54cd9e5ba997aeafa9bd3bedbf2b48b2c805664e8deb2228e89fe517cc519a9",
+        "04_Python/W03_dance.py": "6da8f726c2fcf54ebe326c3a6ede108bc62f92439b97b1ab5d4ffb4b5f75de57"
+      }
+    },
+    {
       "output": "02_Student/Printouts/W03_Three_Cone_Demo_Playfield.pdf",
       "sha256": "1be71281b5667fcd236a8840ac7ab2ac1ff47f7e0ea48bf199d5e66001ce04cd",
       "sources": {

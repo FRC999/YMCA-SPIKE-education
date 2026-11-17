@@ -6,7 +6,7 @@ This repository is **public for reading**. Anyone can open or download these mat
 
 ## Prepare and practice
 
-- **Session 3:** [Printable paper cones](02_Student/Printouts/W03_Paper_Cone_Template.pdf) and [class checklist](01_Instructor/Class_Preparation/W03_dance_Checklist.md). For the three-cone demo, use the [full-size playfield and setup](02_Student/Printouts/W03_Three_Cone_Demo_Playfield.pdf) and [centered pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png).
+- **Session 3:** [Printable paper cones](02_Student/Printouts/W03_Paper_Cone_Template.pdf) and [class checklist](01_Instructor/Class_Preparation/W03_dance_Checklist.md). Run the three-cone demo with the [original Week 3 program and matching playfield](02_Student/Printouts/W03_Dance_Three_Cone_Field.pdf). See the [centered pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png) for the base attachment and page 2 of the matching playfield for the round tip.
 
 - **Session 2:** [All teaching files and exact packing list](01_Instructor/Class_Preparation/W02_delivery_Checklist.md) · [14-page class packet: print ONE copy](02_Student/Printouts/W02_Class_Print_Packet.pdf) · [Two-page checklist](01_Instructor/Class_Preparation/W02_delivery_Checklist.pdf). The revised lesson includes the motor picture and wheel-distance calculations in both directions.
 

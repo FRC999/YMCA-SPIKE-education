@@ -4,6 +4,8 @@ Last reviewed: November 16, 2026. This is a curated handoff of the project’s d
 
 ## Current Week 3 attachment revision
 
+November 16: use the [original-program three-cone field](02_Student/Printouts/W03_Dance_Three_Cone_Field.pdf) when the demo must run the same Week 3 loop as the class. It keeps drive(90), turn(90) repeated three times at SPEED = 200 and one final D. Page 1 fits three centered cones and numbered homes on one landscape Letter sheet. Page 2 has movable markers and a rounded center pusher tip to release each cone on the turn. The starter locations are examples. Confirm and adjust on the actual floor without changing the program.
+
 November 16: the separate three-cone demo uses a low centered beam and three cycle moves: drive straight to a numbered home, reverse to leave the cone, then pivot right. The [playfield PDF](02_Student/Printouts/W03_Three_Cone_Demo_Playfield.pdf) has a setup guide and four full-size tiles. Use the printed program in a demo copy and calibrate on the actual robot. See the [pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png) for the mount, crossbar and floor clearance.
 
 November 16: the [paper cone template](02_Student/Printouts/W03_Paper_Cone_Template.pdf) fits two demo sets on one US Letter page, each with one working cone and one spare. Each robot uses the same cone for all three repeats. Two copies cover the four team build packs and two robot lanes, with two cones left over.
