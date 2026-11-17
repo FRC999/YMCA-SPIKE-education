@@ -1,8 +1,10 @@
 # Project context for continuing this work
 
-Last reviewed: November 11, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
+Last reviewed: November 16, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
 
 ## Current Week 3 attachment revision
+
+November 16: the [paper cone template](02_Student/Printouts/W03_Paper_Cone_Template.pdf) fits two demo sets on one US Letter page, each with one working cone and one spare. Each robot uses the same cone for all three repeats. Two copies cover the four team build packs and two robot lanes, with two cones left over.
 
 November 11 clarification: the team-built pusher MUST attach to the actual robot and push the cone DURING the dance programming test, including turns. The separate straight-push recipe is superseded. Use the same three-repeat drive(90)/turn(90) dance with one final D, SPEED = 200. Rehearse a smaller positive turn if needed; retain turns and hold the approved recipe fixed to compare builds. Success is three complete repeats with a secure mount and the cone upright inside the guide. Record completed repeats before failure (0–3). Hand tests/proxies are preparation; every team must fit and test its own pusher in the existing retest slot. Use mentor pushers for early coding turns until team builds are ready. Slide 5 shows construction/mounting; slide 6 shows the combined test. Physical rehearsal remains unreported.
 

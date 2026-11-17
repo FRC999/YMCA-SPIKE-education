@@ -1,6 +1,6 @@
 # MechaRAMS / Cheshire YMCA — session preparation tracker
 
-Updated: November 11, 2026
+Updated: November 16, 2026
 
 Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (public for reading as requested October 25). Initial upload completed October 25, 2026 using `atsekhan`. Updates can be committed in the GitHub editor; changes made in a local checkout require a commit and push.
 
@@ -10,6 +10,7 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 
 ## Week 3 cone pusher preparation
 
+- [x] November 16: prepared the [one-page cone template](02_Student/Printouts/W03_Paper_Cone_Template.pdf) with four 5 cm tall cones and tape tabs. Print one US Letter sheet at actual size for the demo or two sheets for the six class cones plus two spares.
 - [x] November 11: revised materials so teams attach their own pushers and test them during the dance moves AND turns. The earlier separate straight-push recipe is superseded.
 - [ ] Pack six matching cones, four pusher build packs/proxies and two mentor pushers. Mark two actual front mounting points; check proxy spacing/height against both bases.
 - [ ] Rehearse the mounted pusher and upright cone through the full drive/turn loop on both kits at SPEED = 200. Check secure mounts and the swept floor area; rehearse a smaller positive turn if needed.

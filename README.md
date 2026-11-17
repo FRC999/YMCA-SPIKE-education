@@ -6,6 +6,8 @@ This repository is **public for reading**. Anyone can open or download these mat
 
 ## Prepare and practice
 
+- **Session 3:** [Printable paper cones](02_Student/Printouts/W03_Paper_Cone_Template.pdf) and [class checklist](01_Instructor/Class_Preparation/W03_dance_Checklist.md). Print one sheet for the two robot sets or two sheets for the full class supply.
+
 - **Session 2:** [All teaching files and exact packing list](01_Instructor/Class_Preparation/W02_delivery_Checklist.md) · [14-page class packet: print ONE copy](02_Student/Printouts/W02_Class_Print_Packet.pdf) · [Two-page checklist](01_Instructor/Class_Preparation/W02_delivery_Checklist.pdf). The revised lesson includes the motor picture and wheel-distance calculations in both directions.
 
 - **First session, October 27:** [Complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) · [Print the four-page guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.pdf) · [16-page class packet: print ONE copy](02_Student/Printouts/W01_Class_Print_Packet.pdf)

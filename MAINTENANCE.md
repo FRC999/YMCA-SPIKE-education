@@ -1,8 +1,10 @@
 # Maintenance rules and backlog
 
-Updated November 11, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+Updated November 16, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
 
 ## Week 3 cone pusher revision
+
+Generate the four-cone US Letter pattern with python scripts/build_cone_template.py (ReportLab). Review the page before recording its hash.
 
 November 11 clarification: the pusher stays attached and guides the cone throughout the dance loop, including turns. Removed the separate straight-push exercise and target-zone rule. Preserve seven slides, the dedicated build/mounting instructions and the unchanged one-hour schedule. Keep notes, workbook, code, build card and checklist aligned. Run scripts/build_w03_handouts.py to regenerate the two one-page PDFs, review them and record their hashes. Physical rehearsal remains in SESSION_PREP.md.
 

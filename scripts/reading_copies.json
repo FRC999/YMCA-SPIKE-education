@@ -2,6 +2,13 @@
   "version": 1,
   "copies": [
     {
+      "output": "02_Student/Printouts/W03_Paper_Cone_Template.pdf",
+      "sha256": "b644882001f36a186eb40c456c00dab1a7fd490528779120948562805ce1a9cd",
+      "sources": {
+        "scripts/build_cone_template.py": "f76fcdc53df52f6fd55b556188e990e06348821bb50d2999620a92b49af87f8b"
+      }
+    },
+    {
       "output": "00_Start_Here/Program_Proposal_and_Resources.pdf",
       "sha256": "fcf454b8736476941d73f7feb0d31c3974396ea194a435d0d647bc0586b479a4",
       "sources": {
