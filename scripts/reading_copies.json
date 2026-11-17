@@ -2,6 +2,21 @@
   "version": 1,
   "copies": [
     {
+      "output": "02_Student/Printouts/W03_Three_Cone_Demo_Playfield.pdf",
+      "sha256": "1be71281b5667fcd236a8840ac7ab2ac1ff47f7e0ea48bf199d5e66001ce04cd",
+      "sources": {
+        "scripts/build_w03_demo_playfield.py": "27d2dff97d72986c4e3e881006fabd13723fc29c9fd77ce256bb4b8a75967aae",
+        "04_Python/W03_dance.py": "6da8f726c2fcf54ebe326c3a6ede108bc62f92439b97b1ab5d4ffb4b5f75de57"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W03_Centered_LEGO_Pusher.png",
+      "sha256": "7d2886b45758888602d6df1433c67d4d16d8caaa9c4125b1c05d1f1dbcbc4258",
+      "sources": {
+        "scripts/build_w03_demo_playfield.py": "27d2dff97d72986c4e3e881006fabd13723fc29c9fd77ce256bb4b8a75967aae"
+      }
+    },
+    {
       "output": "02_Student/Printouts/W03_Paper_Cone_Template.pdf",
       "sha256": "b644882001f36a186eb40c456c00dab1a7fd490528779120948562805ce1a9cd",
       "sources": {

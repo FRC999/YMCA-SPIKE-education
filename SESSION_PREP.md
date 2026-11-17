@@ -10,6 +10,8 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 
 ## Week 3 cone pusher preparation
 
+- [x] November 16: prepared the [three-cone playfield](02_Student/Printouts/W03_Three_Cone_Demo_Playfield.pdf) with centered starts, matching homes, join marks, and the demo recipe. Prepared a separate [LEGO pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png). Checked the print layout and nominal movement sequence.
+- [ ] Print playfield pages 2-5 at actual size, trim and join. Fit the centered pusher, measure wheel circumference and axle-to-beam distance, and rehearse the demo recipe on the actual floor. Confirm the robot delivers all three cones upright and clears them when reversing and turning.
 - [x] November 16: prepared the [one-page cone template](02_Student/Printouts/W03_Paper_Cone_Template.pdf) with four 5 cm tall cones and tape tabs. Print one US Letter sheet at actual size for the demo or two sheets for the six class cones plus two spares.
 - [x] November 11: revised materials so teams attach their own pushers and test them during the dance moves AND turns. The earlier separate straight-push recipe is superseded.
 - [ ] Pack six matching cones, four pusher build packs/proxies and two mentor pushers. Mark two actual front mounting points; check proxy spacing/height against both bases.
