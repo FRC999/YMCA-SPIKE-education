@@ -28,6 +28,10 @@ Run `python scripts/build_w07_speed_prints.py` to generate the full-size course,
 
 The six-slide `W07_speed_trial` deck teaches course setup and calibration on slide 2 and stopwatch timing on slide 3. Keep the embedded notes, DOCX source, slide PDF and program behavior aligned with the print packet.
 
+## Week 8 timed showcase packet
+
+Run `python scripts/build_w08_showcase_prints.py` with ReportLab and pypdf. It generates the one-page Week 8 checklist, one-page timed showcase team sheet and 58-page packet. Verify both sets of unchanged Week 7 tiles, the five team sheets, four build cards, 14 final checks and attendance. Keep the original workbook team sheet available for sensor missions.
+
 ## Week 3 cone pusher revision
 
 Run `python scripts/build_w03_dance_field.py` with ReportLab to regenerate the field for the original Week 3 program. Check the playfield and movable markers at actual size, and verify the PDF sequence still matches the original class program.

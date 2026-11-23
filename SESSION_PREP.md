@@ -44,6 +44,11 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 - [x] Updated the [timed delivery slides](03_Presentations/W07_speed_trial.pptx) and [speaker notes](01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.md) to show the printed course, per-kit calibration and the stopwatch start and finish cues.
 - [ ] Verify the 60 cm timing distance and clear runout on both lanes. Calibrate each kit at 200, check three loaded runs for each approved speed and record each kit's settings.
 
+## Week 8 showcase preparation
+
+- [x] Prepared the [58-page timed showcase packet](02_Student/Printouts/W08_Class_Print_Packet.pdf) with a mentor checklist, two Week 7 courses, five timed showcase team sheets, four build cards, 14 individual checks and attendance. Reuse the assembled courses if ready.
+- [ ] Confirm access to each team's saved Week 7 project and trial evidence. Rehearse its selected configuration on the assigned kit and actual lane. Verify the stopwatch cues, cargo retention and stopping in the runout.
+
 ## Current status and decisions
 
 - [x] November 9: reviewed student-instructor Google Slides edits read-only and incorporated useful changes into the GitHub deck and notes. Added detailed programming/cart tasks and the requested optional tabletop book-parking challenge. The deck now has 15 slides; opening still ends at minute 14.

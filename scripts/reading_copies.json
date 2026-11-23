@@ -2,6 +2,28 @@
   "version": 1,
   "copies": [
     {
+      "output": "02_Student/Printouts/W08_Class_Print_Packet.pdf",
+      "sha256": "139d39367ec204298ce6f4d17d2c2012e9efb4f49a7ce17cc52143e7d79ae1a3",
+      "sources": {
+        "scripts/build_w08_showcase_prints.py": "8dfb522836e5a65a27f0cc5a719bb05a699ba34457f6906a68222bedbdeedf87",
+        "scripts/build_w04_w05_print_packets.py": "a21e93417740d76f21daf000980de3ce4385d2f03075643b4698732bc8c19def",
+        "01_Instructor/Class_Preparation/W08_showcase_Checklist.pdf": "4e13a87d64e22523370185ece0c2ad2119f6c0ea207790771c95bbd5f2fc08b1",
+        "02_Student/Printouts/W07_Speed_Trial_Full_Size_Course.pdf": "43593efe225eb9999f82ecec9e3a7bd862a80709d83fe66fd4310ef78de3c352",
+        "02_Student/Printouts/W08_showcase_Timed_Team_Sheet.pdf": "1c3e046a288dafbd1e8fe70aea336666641119fb68983706d094e3d6a379b2c2",
+        "02_Student/Printouts/W08_showcase_Build_Card.pdf": "0eb1ad804a86bac263e6028e17dc63763302abdcbd602c0ea7d36a6e675b9e0a",
+        "02_Student/Printouts/Final_Check.pdf": "165cf554006f8257cc71d0f6cc0d25d92549c1498e4b591c189f353c8a70d383",
+        "02_Student/Printouts/Attendance.pdf": "dfe10f350f50bdeb05d82f212b51053e8d56fc9a738e866b2e4f348ba2189594"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W08_showcase_Timed_Team_Sheet.pdf",
+      "sha256": "1c3e046a288dafbd1e8fe70aea336666641119fb68983706d094e3d6a379b2c2",
+      "sources": {
+        "scripts/build_w08_showcase_prints.py": "8dfb522836e5a65a27f0cc5a719bb05a699ba34457f6906a68222bedbdeedf87",
+        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00"
+      }
+    },
+    {
       "output": "02_Student/Printouts/W07_Speed_Trial_Full_Size_Course.pdf",
       "sha256": "43593efe225eb9999f82ecec9e3a7bd862a80709d83fe66fd4310ef78de3c352",
       "sources": {
@@ -239,10 +261,14 @@
     },
     {
       "output": "01_Instructor/Class_Preparation/W08_showcase_Checklist.pdf",
-      "sha256": "2656c74372407f662fd8d87d77f6f3aa242c696f1c09c5789695137452871daa",
+      "sha256": "4e13a87d64e22523370185ece0c2ad2119f6c0ea207790771c95bbd5f2fc08b1",
       "sources": {
-        "01_Instructor/Class_Preparation/W08_showcase_Checklist.md": "a7053eb7b16fcb69f8ae857db207c540837ff0cf28b132f2ab9bf893a45f7b4d",
-        "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
+        "01_Instructor/Class_Preparation/W08_showcase_Checklist.md": "7dbce5f4dee43803c23eadedb3d88bfaac1c9473447683e9cc62b175a41e0f90",
+        "scripts/build_w08_showcase_prints.py": "8dfb522836e5a65a27f0cc5a719bb05a699ba34457f6906a68222bedbdeedf87",
+        "scripts/build_w04_w05_print_packets.py": "a21e93417740d76f21daf000980de3ce4385d2f03075643b4698732bc8c19def",
+        "scripts/build_w04_w05_setup_checklists.py": "8c4ea418ac862bc27b193d9521695cb687dcd1ee1fc9349d06c39501fb5c8fb5",
+        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "scripts/build_w07_speed_prints.py": "0ffc26fc2e6269f5292f0f88466d563b32de7c44bf5fa075bb6eb241231c96cf"
       }
     },
     {

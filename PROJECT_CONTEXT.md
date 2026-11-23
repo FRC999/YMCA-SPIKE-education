@@ -6,6 +6,10 @@ Last reviewed: November 22, 2026. This is a curated handoff of the project’s d
 
 Alex reported that the students enjoyed trying the Week 3 cone exercise and did not quite complete it. The approved Week 4 rematch starts with one cone and uses a 60 × 60 cm example layout for up to three, including the diagonal second approach. Students change one drive or turn value or one pusher feature per comparison. Week 5 opens with the distance-to-wall demonstration and gives all teams hands-on floor-marker calibration and testing. Use the [Week 4 mentor guide](01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md) and [Week 5 mentor guide](01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md). Both revisions require a physical rehearsal.
 
+## Week 8 timed showcase
+
+The [showcase packet](02_Student/Printouts/W08_Class_Print_Packet.pdf) includes two copies of the full-size Week 7 course. Reuse the assembled courses when available. Open each team's saved Week 7 project with its tested robot, tray and settings. The [mentor checklist](01_Instructor/Class_Preparation/W08_showcase_Checklist.md) lists packet page ranges, rehearsal steps and the fallback for a failed demonstration. Course condition and access to the teams' saved projects still need confirmation.
+
 ## Current Week 3 attachment revision
 
 November 16: use the [original-program three-cone field](02_Student/Printouts/W03_Dance_Three_Cone_Field.pdf) when the demo must run the same Week 3 loop as the class. It keeps drive(90), turn(90) repeated three times at SPEED = 200 and one final D. Page 1 fits three centered cones and numbered homes on one landscape Letter sheet. Page 2 has movable markers and a rounded center pusher tip to release each cone on the turn. The starter locations are examples. Confirm and adjust on the actual floor without changing the program.
