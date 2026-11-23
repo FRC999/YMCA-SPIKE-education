@@ -2,6 +2,24 @@
   "version": 1,
   "copies": [
     {
+      "output": "01_Instructor/Class_Preparation/W04_cone_rematch_Setup_Checklist.pdf",
+      "sha256": "30c327c7e146848fc0704153c4e477b0145fbe537a84c6ee85411edbad613867",
+      "sources": {
+        "scripts/build_w04_w05_setup_checklists.py": "8c4ea418ac862bc27b193d9521695cb687dcd1ee1fc9349d06c39501fb5c8fb5",
+        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md": "7efdced9cdcc3b12d9beba661e133d8257c5ce573bce5a112b7d0880b1ce564c"
+      }
+    },
+    {
+      "output": "01_Instructor/Class_Preparation/W05_sensor_mission_Setup_Checklist.pdf",
+      "sha256": "3457aaea44e2a2017e40a1083e444489a9b0b6179bf5e4623143d342ac78364a",
+      "sources": {
+        "scripts/build_w04_w05_setup_checklists.py": "8c4ea418ac862bc27b193d9521695cb687dcd1ee1fc9349d06c39501fb5c8fb5",
+        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md": "70e0236f7e7086bb26d5b7cf131ece01ddac7e2a6c75abbfce793ac783cd820c"
+      }
+    },
+    {
       "output": "03_Presentations/W04_cone_rematch.pptx",
       "sha256": "8f90eff17ed0d3712343784062686dbc668dc875b5ecfa64c72bd89f17cc6cb1",
       "sources": {

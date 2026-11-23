@@ -12,6 +12,8 @@ Run `python scripts/build_w04_full_size_field.py` to export the full-size 60 × 
 
 Run `python scripts/build_w05_full_size_field.py` to export the Week 5 lane and separate movable strip. Verify the three 24 × 20 cm tiles, the 24 × 6 cm strip, and the blank center of the joined lane before recording its PDF hash.
 
+Run `python scripts/build_w04_w05_setup_checklists.py` with ReportLab to export the one-page setup checklists. Check the print counts and robot rehearsals against the current guides, then review the layout before recording the hashes.
+
 ## Week 3 cone pusher revision
 
 Run `python scripts/build_w03_dance_field.py` with ReportLab to regenerate the field for the original Week 3 program. Check the playfield and movable markers at actual size, and verify the PDF sequence still matches the original class program.
