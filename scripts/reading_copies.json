@@ -2,6 +2,22 @@
   "version": 1,
   "copies": [
     {
+      "output": "03_Presentations/W04_cone_rematch.pptx",
+      "sha256": "8f90eff17ed0d3712343784062686dbc668dc875b5ecfa64c72bd89f17cc6cb1",
+      "sources": {
+        "01_Instructor/Speaker_Notes/W04_cone_rematch_Speaker_Notes.docx": "e1736772158b62a9044c20cf3b1e72e194374e4380dba482cc1c15ff173fcdd9",
+        "02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf": "d4e933e5836e0f64f04b56db1a2b8c5ccd67d288db0940fe6b795b5b03eabe29",
+        "04_Python/W04_cone_rematch.py": "413c33029ff4a1a9b97b375ca7c65f0bb85eeb29b90547448c4016eccd4beff3"
+      }
+    },
+    {
+      "output": "03_Presentations/W04_cone_rematch.pdf",
+      "sha256": "35b4318b857e623ecc1777bb351e7579e32e27ec30ac7116b3483855cd002506",
+      "sources": {
+        "03_Presentations/W04_cone_rematch.pptx": "8f90eff17ed0d3712343784062686dbc668dc875b5ecfa64c72bd89f17cc6cb1"
+      }
+    },
+    {
       "output": "02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf",
       "sha256": "beea90bed0ee24353acfb7877529904194e360d9020f9cd1929a61512d752f92",
       "sources": {
@@ -330,9 +346,9 @@
     },
     {
       "output": "03_Presentations/W05_marker.pdf",
-      "sha256": "4f2c9eceff9b2419a8348b93f90decb8bffe6b8bf616d46898fc865bd0649fd1",
+      "sha256": "9e28563ea445f749265a2b0f8a8f5e86ef0875ac3c4c4c3657afb1a80b4df8b7",
       "sources": {
-        "03_Presentations/W05_marker.pptx": "142c56c55a6483c5ece35a7c56fc6ee2d2fa4a173d64e43d81711f69dab6c147"
+        "03_Presentations/W05_marker.pptx": "f5cee62a968c602d86ef13fd291add1329e88d417c43b0cb211e1a4a753df27e"
       }
     },
     {
@@ -402,9 +418,11 @@
     },
     {
       "output": "03_Presentations/W05_marker.pptx",
-      "sha256": "142c56c55a6483c5ece35a7c56fc6ee2d2fa4a173d64e43d81711f69dab6c147",
+      "sha256": "f5cee62a968c602d86ef13fd291add1329e88d417c43b0cb211e1a4a753df27e",
       "sources": {
-        "01_Instructor/Speaker_Notes/W05_marker_Speaker_Notes.docx": "0bce4763fb323e8a5a85f40294e03fca46646b5351834e748453da60dc649be4"
+        "01_Instructor/Speaker_Notes/W05_marker_Speaker_Notes.docx": "37cfe220dbbd19876a985cf56624090daf32f7690bcc0a19fe747cd0a5524752",
+        "02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf": "beea90bed0ee24353acfb7877529904194e360d9020f9cd1929a61512d752f92",
+        "04_Python/W05_marker.py": "11272419ebd1cc8757201127d3a8bca59317971de83a3b1e74817f7aff349c5b"
       }
     },
     {

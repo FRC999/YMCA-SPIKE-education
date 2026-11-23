@@ -26,6 +26,7 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 - [x] Prepare the [Week 4 cone rematch](01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md) and [Week 5 sensor mission](01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md) with linked student printouts and tested source syntax.
 - [x] Prepared and checked the [full-size rematch field](02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf). Print and assemble nine Letter tiles per lane if using the printed field.
 - [x] Prepared and checked the [full-size Week 5 delivery lane](02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf). Each lane uses three Letter tiles and one separate dark strip page.
+- [x] Aligned the [Week 4 rematch slides](03_Presentations/W04_cone_rematch.pdf) and [Week 5 delivery strip slides](03_Presentations/W05_marker.pdf) with the tiled fields. The matching speaker notes cover setup, demonstration, rotations and retesting.
 - [ ] Mark two rematch fields. Fit the centered rounded tip and rehearse one cone, the diagonal second approach, and then the third cone on both actual bases. Record the usable field marks and starting values for each kit.
 - [ ] Rehearse the distance demo at 150 and 200 mm. Fit the downward sensors, verify light/dark separation and marker stops on both kits, and record a threshold for each kit to carry forward to Week 6.
 

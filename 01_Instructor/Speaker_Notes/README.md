@@ -1,6 +1,6 @@
 # Speaker notes for all eight classes
 
-For the current Week 4 and 5 classes, use the [cone rematch mentor guide](../Class_Preparation/W04_cone_rematch_Guide.md) and [distance demo and delivery strip mentor guide](../Class_Preparation/W05_sensor_mission_Guide.md). The parking notes below are a reference for Week 5's opening demo.
+For full-size field printing and rehearsal, use the [cone rematch mentor guide](../Class_Preparation/W04_cone_rematch_Guide.md) and [delivery strip mentor guide](../Class_Preparation/W05_sensor_mission_Guide.md). The notes below follow the updated slides and are embedded in Presenter View. The parking notes are a reference for Week 5's opening demo.
 
 For the post-session-1 plan and optional extensions, read [sessions 2–8](../Remaining_Sessions_Plan.md). The core sequence remains eight classes; the timed delivery lesson below is an alternative for Week 7.
 
@@ -11,14 +11,15 @@ Each class has a separate Word document for printing and a matching Markdown cop
 | 1 | Meet your robot | [Markdown](W01_signal_Speaker_Notes.md) | [Word](W01_signal_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W01_signal_with_speaker_notes.pptx) |
 | 2 | Delivery to a target | [Markdown](W02_delivery_Speaker_Notes.md) | [Word](W02_delivery_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W02_delivery.pptx) |
 | 3 | Robot dance studio | [Markdown](W03_dance_Speaker_Notes.md) | [Word](W03_dance_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W03_dance.pptx) |
-| 4 | Parking assistant | [Markdown](W04_parking_Speaker_Notes.md) | [Word](W04_parking_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W04_parking.pptx) |
-| 5 | The floor tells the robot | [Markdown](W05_marker_Speaker_Notes.md) | [Word](W05_marker_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W05_marker.pptx) |
+| 4 | Cone challenge rematch | [Markdown](W04_cone_rematch_Speaker_Notes.md) | [Word](W04_cone_rematch_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W04_cone_rematch.pptx) |
+| 5 | Stop at the delivery strip | [Markdown](W05_marker_Speaker_Notes.md) | [Word](W05_marker_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W05_marker.pptx) |
 | 6 | A rescue attachment | [Markdown](W06_rescue_Speaker_Notes.md) | [Word](W06_rescue_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W06_rescue.pptx) |
 | 7 | Community robot mission | [Markdown](W07_mission_Speaker_Notes.md) | [Word](W07_mission_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_mission.pptx) |
 | 8 | Robot showcase | [Markdown](W08_showcase_Speaker_Notes.md) | [Word](W08_showcase_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W08_showcase.pptx) |
 | 7 option | Timed delivery | [Markdown](W07_speed_trial_Speaker_Notes.md) | [Word](W07_speed_trial_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_speed_trial.pptx) |
+| Demo reference | Parking assistant | [Markdown](W04_parking_Speaker_Notes.md) | [Word](W04_parking_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W04_parking.pptx) |
 
-The timed delivery notes include preparation, all six slides and the Week 8 handoff. If using that option, substitute the saved speed program and delivery evidence for Week 8's sensor-specific example. Keep its assessment and four-minute team showcase slots. All nine note documents have their preparation and slide sections embedded in the corresponding PPTX; `scripts/check_lesson_materials.py` checks agreement.
+The timed delivery notes include preparation, all six slides and the Week 8 handoff. If using that option, substitute the saved speed program and delivery evidence for Week 8's sensor-specific example. Keep its assessment and four-minute team showcase slots. The preparation and slide sections are embedded in the corresponding PowerPoint decks. Run `scripts/check_lesson_materials.py` to check agreement.
 
 The confirmed plan is 12 children in grades 5–6, four teams of three, two kits and 4–6 student instructors plus an adult lead. Use two robot stations and two build tables. Weeks 1–7 use 12-minute turns and six-minute retests; Week 8 has its own assessment, rehearsal and showcase schedule.
 

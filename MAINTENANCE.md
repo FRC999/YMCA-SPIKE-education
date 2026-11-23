@@ -4,6 +4,8 @@ Updated November 22, 2026. This file tracks repository maintenance and reusable 
 
 ## Week 4 and 5 class sequence
 
+Use the six-slide `W04_cone_rematch` and `W05_marker` decks with their matching speaker-note DOCX sources. Re-export the slide PDFs, keep all six notes sections plus setup embedded in each PPTX, synchronize the Markdown companions, and verify the print sizes and field references against the two tiled field PDFs. The earlier `W04_parking` deck remains a reference for the Week 5 demonstration.
+
 The active lessons are the standalone cone rematch and sensor mission guides in `01_Instructor/Class_Preparation/`. The original parking lesson is retained as the source for the Week 5 opening demo. Regenerate both printouts with `python scripts/build_w04_w05_mission_prints.py` (ReportLab). The rematch field geometry reads the Week 4 Python starter route. Review all four pages before recording the PDF hashes.
 
 Run `python scripts/build_w04_full_size_field.py` to export the full-size 60 × 60 cm field from the same geometry. Review the assembly guide and all nine 20 cm squares, then verify the joins before recording its PDF hash.

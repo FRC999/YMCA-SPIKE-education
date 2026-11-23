@@ -11,7 +11,7 @@ from zipfile import ZipFile
 ROOT = Path(__file__).resolve().parents[1]
 W = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
 A = '{http://schemas.openxmlformats.org/drawingml/2006/main}'
-LESSONS = ['W01_signal', 'W02_delivery', 'W03_dance', 'W04_parking',
+LESSONS = ['W01_signal', 'W02_delivery', 'W03_dance', 'W04_cone_rematch', 'W04_parking',
            'W05_marker', 'W06_rescue', 'W07_mission', 'W08_showcase',
            'W07_speed_trial']
 
@@ -26,12 +26,21 @@ def check():
         files = [f'03_Presentations/{name}.{ext}' for ext in ('pptx', 'pdf')]
         files += [f'01_Instructor/Speaker_Notes/{name}_Speaker_Notes.{ext}'
                   for ext in ('docx', 'md')]
-        files += [f'02_Student/Printouts/{name}_Build_Card.{ext}'
-                  for ext in ('md', 'pdf')]
-        files += [f'01_Instructor/Class_Preparation/{name}_Checklist.{ext}'
-                  for ext in ('md', 'pdf')]
-        files += [f'02_Student/Printouts/{name}_Team_Sheet.pdf',
-                  f'04_Python/{name}.py']
+        files.append(f'04_Python/{name}.py')
+        if name == 'W04_cone_rematch':
+            files += ['02_Student/Printouts/W04_Cone_Rematch.pdf',
+                      '02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf',
+                      '01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md']
+        elif name == 'W05_marker':
+            files += ['02_Student/Printouts/W05_Sensor_Mission.pdf',
+                      '02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf',
+                      '01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md']
+        else:
+            files += [f'02_Student/Printouts/{name}_Build_Card.{ext}'
+                      for ext in ('md', 'pdf')]
+            files += [f'01_Instructor/Class_Preparation/{name}_Checklist.{ext}'
+                      for ext in ('md', 'pdf')]
+            files.append(f'02_Student/Printouts/{name}_Team_Sheet.pdf')
         missing = [f for f in files if not (ROOT/f).is_file()]
         if missing:
             errors.extend('Missing: '+f for f in missing)
@@ -74,7 +83,7 @@ def check():
         print(f'{name}: material set and {expected_count} note sections checked')
     if errors:
         raise SystemExit('\n'.join(errors))
-    print('All eight core lessons and optional timed delivery agree. Hardware rehearsal remains separate.')
+    print('Core and supplemental lesson sets agree. Hardware rehearsal remains separate.')
 
 
 if __name__ == '__main__':
