@@ -69,19 +69,9 @@ def team_sheet():
     pdf('02_Student/Printouts/W07_speed_trial_Team_Sheet.pdf',story)
 
 def checklist():
-    story=[p('Week 7 timed delivery preparation','Main'),p('Optional mission replacement / 12 children / four teams / two kits'),
-        p('Print','Head'),p('[ ] 5 speed team sheets + 4 speed build cards + 1 attendance sheet = 10 required sheets, single-sided. Replace the original Week 7 handouts. Reuse role cards and hub guides. This checklist and a lead note copy are optional.'),
-        p('Pack','Head'),p('[ ] Reusable kit: two charged assembled bases, four laptops/chargers, tested cables, pencils, four team trays, mounting proxies, rulers and floor-safe tape.'),
-        p('[ ] Two stopwatch devices plus a rotation timer; two mentor trays; six similar lightweight cubes; four equal build packs with eight rail strips, eight brace strips, four spare card panels, craft tape and four storage bags.'),
-        p('[ ] Two clear FLOOR lanes at least 150 cm long and 50 cm wide; 60 cm timed section and clear runout. Two measuring tapes and fixed chassis-reference markers. Confirm more room if rehearsal requires it.'),
-        p('Rehearse before class','Head'),p('[ ] Read the full W07_speed_trial_Checklist.md calibration procedure. Verify A left/B right, auxiliary motor unplugged, controls accessible and stop behavior on BOTH kits.'),
-        p('[ ] Calibrate TRAVEL_DEGREES (1–1440; supplied 0 refuses motion). Keep travel fixed after calibration. Approve 200 first, then 300 only after three successful loaded rehearsals. Optional 400 needs the same check. No higher classroom speeds.'),
-        p('[ ] Practice consistent stopwatch timing from first movement to chassis mark crossing. Judge cargo, lane and stopping validity through the end. Inspect a sample cradle and quick swap.'),
-        p('[ ] Download matching speed slides/notes/full program. Save separate team projects with the correct kit settings. Assign two robot and two build mentors. If lanes cannot be supervised independently, alternate runs and omit the speed stretch.'),
-        p('Record and close','Head'),p('Kit A travel ____ approved speeds ____ passed/date __________________'),p('Kit B travel ____ approved speeds ____ passed/date __________________'),
-        p('[ ] Save four programs, label four cradles, keep completed sheets private and record actual results in SESSION_PREP.md. Showcase only a setting tested 3/3; reload that speed project in Week 8.'),
-        p('If the speed setup is not reliable, use the original rehearsed Week 7 mission. Full rules, calibration and role timing are in the Markdown checklist and speaker notes.','Small')]
-    pdf('01_Instructor/Class_Preparation/W07_speed_trial_Checklist.pdf',story)
+    from build_w07_speed_prints import make_checklist
+    make_checklist()
+
 
 if __name__=='__main__':
     build_card();team_sheet();checklist()

@@ -38,6 +38,11 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 - [x] Updated the [Week 6 slides](03_Presentations/W06_rescue.pptx) and [speaker notes](01_Instructor/Speaker_Notes/W06_rescue_Speaker_Notes.md) with a setup diagram and the pre-class checks for the printed field.
 - [ ] On both kits, fit the plow, recheck the Week 5 threshold, verify a clear run to L with no strip or cube, and confirm a successful M stop with the cube. Mark each bay from a controlled trial and record the kit settings.
 
+## Week 7 timed delivery preparation
+
+- [x] Prepared the [full-size timed course](02_Student/Printouts/W07_Speed_Trial_Full_Size_Course.pdf) and [44-page class packet](02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf). The packet has two 50 × 160 cm courses, one mentor checklist, five team sheets, four build cards and attendance.
+- [ ] Verify the 60 cm timing distance and clear runout on both lanes. Calibrate each kit at 200, check three loaded runs for each approved speed and record each kit's settings.
+
 ## Current status and decisions
 
 - [x] November 9: reviewed student-instructor Google Slides edits read-only and incorporated useful changes into the GitHub deck and notes. Added detailed programming/cart tasks and the requested optional tabletop book-parking challenge. The deck now has 15 slides; opening still ends at minute 14.

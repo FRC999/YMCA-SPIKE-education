@@ -4,12 +4,17 @@ Optional replacement for the original Week 7 mission. Use for 12 children in fou
 
 ## Print
 
+- [ ] **Print one [44-page timed delivery packet](../../02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf)** on US Letter, single-sided, Actual Size (100%) with automatic page orientation. It includes the mentor checklist, assembly guide, two courses, five team sheets, four build cards and attendance.
+
+When printing individual files:
+
+- [ ] **Two sets of pages 2–17** from the [full-size course](../../02_Student/Printouts/W07_Speed_Trial_Full_Size_Course.pdf), landscape at Actual Size. Page 1 is the assembly guide. Each set has 16 tiles, paired left and right in rows A–H.
 - [ ] **5 copies** of [timed delivery team sheet](../../02_Student/Printouts/W07_speed_trial_Team_Sheet.pdf): four teams plus one spare.
 - [ ] **4 copies** of [cargo cradle build card](../../02_Student/Printouts/W07_speed_trial_Build_Card.pdf): one per team.
 - [ ] **1 copy** of [attendance](../../02_Student/Printouts/Attendance.pdf).
 - [ ] Optional: **1 copy** of [this packing checklist](W07_speed_trial_Checklist.pdf) and one lead speaker-note document.
 
-**10 required sheets**, single-sided, actual size. These replace the original Week 7 team sheets and build cards. Reuse role cards and hub guides. Keep completed sheets privately.
+The team cards and attendance take **10 sheets**, plus 32 for two printed courses. Add the checklist and assembly guide for the complete 44-page packet. Use role cards and hub guides from earlier sessions. Keep completed sheets privately.
 
 ## Pack
 
@@ -17,13 +22,13 @@ Optional replacement for the original Week 7 mission. Use for 12 children in fou
 - [ ] Two stopwatch-capable devices, separate from the visible rotation timer. No purchase is implied; use available devices. One mentor times all compared runs on each lane while children observe and record.
 - [ ] Two tested removable mentor trays and six similar lightweight cubes: two at the robots and four for hand tests.
 - [ ] Four mounting/footprint proxies traced from the real bases. Four equal packs of spare beams/pins or pre-cut card; eight card rail strips, eight brace strips, craft tape, and four labeled storage bags. Have four spare card panels for repairs. Do not take parts from the chassis.
-- [ ] Two measuring tapes and small removable chassis-reference markers. Prepare two floor lanes, each at least 150 cm long and 50 cm wide, with a 60 cm timed section and a clear runout. Rehearsal may require more space. Keep people and furniture outside the lanes and runouts.
+- [ ] Two measuring tapes and small removable chassis-reference markers. The two printed floor lanes are 50 × 160 cm, with 10 cm behind START, 60 cm from START to FINISH and 90 cm of printed runout. Leave clear floor at both ends and extend the runout if rehearsal requires more space.
 - [ ] Save [slides](../../03_Presentations/W07_speed_trial.pptx), [slide PDF](../../03_Presentations/W07_speed_trial.pdf), notes and the **complete** [program](../../04_Python/W07_speed_trial.py) offline. Four team saves must retain the correct kit's mentor settings.
 
 ## Rehearse and configure both kits before class
 
 1. Trace A left/B right; leave the auxiliary motor unplugged and secure any unused cables. Use the existing smoke test for a short forward check. This lesson needs no sensor. The timing mark goes on the chassis, never the removable tray.
-2. At each lane, mark the fixed start and the finish 60 cm away, measured along the travel direction. Start with the chassis mark aligned to the start line. Fit the loaded mentor tray. Keep at least 90 cm of clear floor beyond the finish; verify the full robot stops inside the available area.
+2. Check the 5 cm print ruler, trim the tiles and tape the paired seams from behind. Tape the course flat. Verify 60 cm from START to FINISH and a clear 90 cm runout. Fit the loaded mentor tray and start with the chassis mark aligned to START. Verify the full robot stops inside the available area.
 3. In the mentor section of the speed program, keep `APPROVED_SPEEDS = (200,)`. The supplied `TRAVEL_DEGREES = 0` deliberately blocks motion. Begin calibration with 180 wheel degrees, reset, then increase in small steps on the clear floor. Choose a value no greater than 1440 that crosses the finish and stops well within the runout. Do not infer centimeters from wheel degrees. Once calibrated, keep that value fixed for the comparison.
 4. Repeat three loaded runs at 200. Confirm straight travel, cargo retention, stopping, the app/hub stop controls and a quick attachment swap. Keep hands out until all motion stops. A finite motor command does not detect lane edges, and a stall may require the mentor to stop the program.
 5. Only then add 300 to `APPROVED_SPEEDS`, rehearse three loaded runs and check stopping space again. If it fails, remove it and teach at 200. Optionally rehearse 400 the same way; do not exceed 400 in this lesson. These are classroom limits, not claimed motor specifications. Save each kit's approved settings separately.

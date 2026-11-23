@@ -9,6 +9,7 @@ This repository is **public for reading**. Anyone can open or download these mat
 - **Session 4:** [28-page class print packet](02_Student/Printouts/W04_Class_Print_Packet.pdf) · [Cone rematch mentor guide](01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md) · [Individual field tiles](02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf) · [SPIKE Python project](04_Python/W04_cone_rematch.py).
 - **Session 5:** [16-page class print packet](02_Student/Printouts/W05_Class_Print_Packet.pdf) · [Distance demo and floor-marker setup](01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md) · [Individual lane tiles and strip](02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf).
 - **Session 6:** [22-page rescue print packet](02_Student/Printouts/W06_Class_Print_Packet.pdf) · [Full-size rescue field and bay tabs](02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf) · [Mentor checklist](01_Instructor/Class_Preparation/W06_rescue_Checklist.md).
+- **Session 7 timed delivery option:** [44-page class print packet](02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf) · [Full-size 50 × 160 cm timed course](02_Student/Printouts/W07_Speed_Trial_Full_Size_Course.pdf) · [Mentor checklist](01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md).
 
 - **Session 3:** [Printable paper cones](02_Student/Printouts/W03_Paper_Cone_Template.pdf) and [class checklist](01_Instructor/Class_Preparation/W03_dance_Checklist.md). Run the three-cone demo with the [original Week 3 program and matching playfield](02_Student/Printouts/W03_Dance_Three_Cone_Field.pdf). See the [centered pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png) for the base attachment and page 2 of the matching playfield for the round tip.
 
@@ -47,7 +48,7 @@ Open this page on GitHub to read the Markdown notes and PDF references. Before c
 |---|---|---|---|---|---|---|
 | 7 Timed delivery | [PDF](03_Presentations/W07_speed_trial.pdf) / [PPTX](03_Presentations/W07_speed_trial.pptx) | [Read](01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.md) | [PDF](02_Student/Printouts/W07_speed_trial_Team_Sheet.pdf) | [Read](02_Student/Printouts/W07_speed_trial_Build_Card.md) | [Checklist](01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md) | [Python](04_Python/W07_speed_trial.py) |
 
-Timed delivery combines a removable cargo cradle, approved speed settings and three-trial comparisons over 60 cm. Choose this set or the original Week 7 set before class. For the speed option, use its separate trial sheet in place of the workbook's mission page; reload the saved speed program for Week 8. Physical calibration and rehearsal are still required.
+Timed delivery combines a removable cargo cradle, approved speed settings and three-trial comparisons over 60 cm. Choose this set or the original Week 7 set before class. For timed delivery, the [class print packet](02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf) supplies both courses and the trial sheets. Reload the saved speed program for Week 8. Physical calibration and rehearsal are still required.
 
 ## Core references
 

@@ -2,6 +2,28 @@
   "version": 1,
   "copies": [
     {
+      "output": "02_Student/Printouts/W07_Speed_Trial_Full_Size_Course.pdf",
+      "sha256": "43593efe225eb9999f82ecec9e3a7bd862a80709d83fe66fd4310ef78de3c352",
+      "sources": {
+        "scripts/build_w07_speed_prints.py": "0ffc26fc2e6269f5292f0f88466d563b32de7c44bf5fa075bb6eb241231c96cf",
+        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "scripts/build_w05_full_size_field.py": "e41780801552eea0869069a82aa7280f121dea686a55d1a1c9ec192b8ec99995"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf",
+      "sha256": "f89f6c0276c61c461340d1334738052799edcfa343e8cd4acc8c7576a3e2a7e4",
+      "sources": {
+        "scripts/build_w07_speed_prints.py": "0ffc26fc2e6269f5292f0f88466d563b32de7c44bf5fa075bb6eb241231c96cf",
+        "scripts/build_w04_w05_print_packets.py": "a21e93417740d76f21daf000980de3ce4385d2f03075643b4698732bc8c19def",
+        "01_Instructor/Class_Preparation/W07_speed_trial_Checklist.pdf": "93a38cba456bb0d37e3f9ee27d5918f7320e2247e718fb32c3859cdf977affae",
+        "02_Student/Printouts/W07_Speed_Trial_Full_Size_Course.pdf": "43593efe225eb9999f82ecec9e3a7bd862a80709d83fe66fd4310ef78de3c352",
+        "02_Student/Printouts/W07_speed_trial_Team_Sheet.pdf": "9e6cfae61ecacb6855b642d196cc26b1013fcd21e11733f21e8cdbf6dbbbf77f",
+        "02_Student/Printouts/W07_speed_trial_Build_Card.pdf": "f818426a1dc3862f7c794013395b612f7da3e76d18be2367c5f89be24297cec0",
+        "02_Student/Printouts/Attendance.pdf": "dfe10f350f50bdeb05d82f212b51053e8d56fc9a738e866b2e4f348ba2189594"
+      }
+    },
+    {
       "output": "02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf",
       "sha256": "c57929340e0fd22070773d45c54a73419aff935a014cfd5b6cb6055cc07299d6",
       "sources": {
@@ -566,7 +588,7 @@
       "sha256": "f818426a1dc3862f7c794013395b612f7da3e76d18be2367c5f89be24297cec0",
       "sources": {
         "02_Student/Printouts/W07_speed_trial_Build_Card.md": "3d1de3b33be203d50501370332b64242aaee96dc5e0260bf879407b665c2c751",
-        "scripts/build_speed_handouts.py": "27ff47e35a14567a17c8d57a256d7b1f918afb0fb82ee1aa634995d54dc90437"
+        "scripts/build_speed_handouts.py": "14f837502ba78b3fcbc3de0ee7ac7c574c37a91209fde10f28457802e1ce345e"
       }
     },
     {
@@ -574,16 +596,18 @@
       "sha256": "9e6cfae61ecacb6855b642d196cc26b1013fcd21e11733f21e8cdbf6dbbbf77f",
       "sources": {
         "02_Student/Printouts/W07_speed_trial_Team_Sheet.md": "8af273a67c81cb8614ae428b9c672b89b3d13f90ea34b60e132def24bc09998f",
-        "scripts/build_speed_handouts.py": "27ff47e35a14567a17c8d57a256d7b1f918afb0fb82ee1aa634995d54dc90437"
+        "scripts/build_speed_handouts.py": "14f837502ba78b3fcbc3de0ee7ac7c574c37a91209fde10f28457802e1ce345e"
       }
     },
     {
       "output": "01_Instructor/Class_Preparation/W07_speed_trial_Checklist.pdf",
-      "sha256": "5490f751a6fc10707b2092f6fe15d4bac199fc671906b8057be23650ab574eda",
+      "sha256": "93a38cba456bb0d37e3f9ee27d5918f7320e2247e718fb32c3859cdf977affae",
       "sources": {
-        "01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md": "6ea866f0bde848685cf19639a29e8efa814d66f2bbbb5a7c88b84be49d7512a4",
+        "01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md": "743d64b95831fad80ab8748b94f8c853e5659e048566e0f451dcc7ee69745083",
         "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f",
-        "scripts/build_speed_handouts.py": "27ff47e35a14567a17c8d57a256d7b1f918afb0fb82ee1aa634995d54dc90437"
+        "scripts/build_w07_speed_prints.py": "0ffc26fc2e6269f5292f0f88466d563b32de7c44bf5fa075bb6eb241231c96cf",
+        "scripts/build_w04_w05_setup_checklists.py": "8c4ea418ac862bc27b193d9521695cb687dcd1ee1fc9349d06c39501fb5c8fb5",
+        "04_Python/W07_speed_trial.py": "79f3af3754ba30cd093241a89b2dbebd94852cba52135f8e7c52c66e992570a5"
       }
     },
     {

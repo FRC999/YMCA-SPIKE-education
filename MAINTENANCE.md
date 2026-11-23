@@ -22,6 +22,10 @@ Run `python scripts/build_w06_rescue_prints.py` with ReportLab and pypdf to buil
 
 The six-slide `W06_rescue` deck shows cube-start and bay-tab placement on slide 2. Keep the deck and embedded notes aligned with the current packet order, the standalone field and the existing marker code. Edit the notes DOCX first and synchronize its Markdown copy.
 
+## Week 7 timed delivery course and packet
+
+Run `python scripts/build_w07_speed_prints.py` to generate the full-size course, mentor checklist and 44-page packet. The 16 Letter tiles make a 50 × 160 cm course with a 60 cm timed section and 90 cm runout. Verify the tile joins and timing lines, then verify both course sets and the five team sheets in the packet before recording hashes.
+
 ## Week 3 cone pusher revision
 
 Run `python scripts/build_w03_dance_field.py` with ReportLab to regenerate the field for the original Week 3 program. Check the playfield and movable markers at actual size, and verify the PDF sequence still matches the original class program.
