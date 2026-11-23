@@ -2,6 +2,15 @@
   "version": 1,
   "copies": [
     {
+      "output": "02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf",
+      "sha256": "d4e933e5836e0f64f04b56db1a2b8c5ccd67d288db0940fe6b795b5b03eabe29",
+      "sources": {
+        "scripts/build_w04_full_size_field.py": "2b00d7607cfcd2e000d01367f0476a6c00bad17c5dae6802d3cc50f80d79ab68",
+        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "04_Python/W04_cone_rematch.py": "413c33029ff4a1a9b97b375ca7c65f0bb85eeb29b90547448c4016eccd4beff3"
+      }
+    },
+    {
       "output": "02_Student/Printouts/W04_Cone_Rematch.pdf",
       "sha256": "0a660be0191fe505002f40097ad8242cc15f44f4cbb27f319583b6b6e988891e",
       "sources": {

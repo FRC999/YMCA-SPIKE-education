@@ -6,6 +6,8 @@ Updated November 22, 2026. This file tracks repository maintenance and reusable 
 
 The active lessons are the standalone cone rematch and sensor mission guides in `01_Instructor/Class_Preparation/`. The original parking lesson is retained as the source for the Week 5 opening demo. Regenerate both printouts with `python scripts/build_w04_w05_mission_prints.py` (ReportLab). The rematch field geometry reads the Week 4 Python starter route. Review all four pages before recording the PDF hashes.
 
+Run `python scripts/build_w04_full_size_field.py` to export the full-size 60 × 60 cm field from the same geometry. Review the assembly guide and all nine 20 cm squares, then verify the joins before recording its PDF hash.
+
 ## Week 3 cone pusher revision
 
 Run `python scripts/build_w03_dance_field.py` with ReportLab to regenerate the field for the original Week 3 program. Check the playfield and movable markers at actual size, and verify the PDF sequence still matches the original class program.
