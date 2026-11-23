@@ -19,7 +19,7 @@ Each class has a separate Word document for printing and a matching Markdown cop
 | 7 option | Timed delivery | [Markdown](W07_speed_trial_Speaker_Notes.md) | [Word](W07_speed_trial_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_speed_trial.pptx) |
 | Demo reference | Parking assistant | [Markdown](W04_parking_Speaker_Notes.md) | [Word](W04_parking_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W04_parking.pptx) |
 
-The timed delivery notes include preparation, all six slides and the Week 8 handoff. If using that option, substitute the saved speed program and delivery evidence for Week 8's sensor-specific example. Keep its assessment and four-minute team showcase slots. The preparation and slide sections are embedded in the corresponding PowerPoint decks. Run `scripts/check_lesson_materials.py` to check agreement.
+The timed delivery notes include the print packet page ranges, both-kit calibration, a stopwatch demonstration and the Week 8 handoff. Use the saved timed delivery project and trial record for the showcase. The preparation and slide sections are embedded in the corresponding PowerPoint decks. Run `scripts/check_lesson_materials.py` to check agreement.
 
 The confirmed plan is 12 children in grades 5–6, four teams of three, two kits and 4–6 student instructors plus an adult lead. Use two robot stations and two build tables. Weeks 1–7 use 12-minute turns and six-minute retests; Week 8 has its own assessment, rehearsal and showcase schedule.
 

@@ -41,6 +41,7 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 ## Week 7 timed delivery preparation
 
 - [x] Prepared the [full-size timed course](02_Student/Printouts/W07_Speed_Trial_Full_Size_Course.pdf) and [44-page class packet](02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf). The packet has two 50 × 160 cm courses, one mentor checklist, five team sheets, four build cards and attendance.
+- [x] Updated the [timed delivery slides](03_Presentations/W07_speed_trial.pptx) and [speaker notes](01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.md) to show the printed course, per-kit calibration and the stopwatch start and finish cues.
 - [ ] Verify the 60 cm timing distance and clear runout on both lanes. Calibrate each kit at 200, check three loaded runs for each approved speed and record each kit's settings.
 
 ## Current status and decisions

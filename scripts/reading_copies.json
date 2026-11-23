@@ -570,17 +570,19 @@
     },
     {
       "output": "03_Presentations/W07_speed_trial.pptx",
-      "sha256": "658b3ef0331bafa225fca3bfa37717323acf7ba81be0a1fb1781d3794c3bdb9f",
+      "sha256": "21b91c1abe39674889455c2176c090b4578da4e35f2bac117aa13eb32baa0ae4",
       "sources": {
-        "01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.docx": "6f9a15beebbed1e9799bf260ce1b8ebac50a37f5e12862277e7b1a7840b2ed53",
+        "01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.docx": "ecdc1efcc436e1cf62ca5c7184f5005b4f338031560bb9855117d37585ce0dd5",
+        "02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf": "f89f6c0276c61c461340d1334738052799edcfa343e8cd4acc8c7576a3e2a7e4",
+        "02_Student/Printouts/W07_Speed_Trial_Full_Size_Course.pdf": "43593efe225eb9999f82ecec9e3a7bd862a80709d83fe66fd4310ef78de3c352",
         "04_Python/W07_speed_trial.py": "79f3af3754ba30cd093241a89b2dbebd94852cba52135f8e7c52c66e992570a5"
       }
     },
     {
       "output": "03_Presentations/W07_speed_trial.pdf",
-      "sha256": "98f35be4e5ff093369e71ae1c27ec7f9dd9eaa1b2f57ad7fc9763d320a3bf1f5",
+      "sha256": "b632fd751faf3793d8b5d3ff81052e1d5f9b6c7fd48a66d4319db9503ae019c5",
       "sources": {
-        "03_Presentations/W07_speed_trial.pptx": "658b3ef0331bafa225fca3bfa37717323acf7ba81be0a1fb1781d3794c3bdb9f"
+        "03_Presentations/W07_speed_trial.pptx": "21b91c1abe39674889455c2176c090b4578da4e35f2bac117aa13eb32baa0ae4"
       }
     },
     {

@@ -19,7 +19,7 @@ Open a PDF to read the slides directly on GitHub. Download the PPTX for an edita
 | Week 7 option Timed delivery | [PDF](W07_speed_trial.pdf) | [PowerPoint](W07_speed_trial.pptx) |
 | Parking assistant reference for the Week 5 demo | [PDF](W04_parking.pdf) | [PowerPoint](W04_parking.pptx) |
 
-The timed delivery option has its own [detailed notes](../01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.md), embedded Presenter View notes, build card, trial sheet and program. Use the [remaining-sessions plan](../01_Instructor/Remaining_Sessions_Plan.md) to choose and rehearse the route. It is an alternative Week 7 lesson within the same eight-session course.
+For Week 7 timed delivery, use the [class print packet](../02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf) to assemble the courses. Slide 2 covers both-kit calibration and slide 3 shows the stopwatch cues. The [detailed notes](../01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.md) are also embedded in Presenter View.
 
 Week 6 slide 2 shows the cube start and the rescue bay before and after a trial. Print the [Week 6 class packet](../02_Student/Printouts/W06_Class_Print_Packet.pdf) to assemble and mark the fields.
 
