@@ -1,5 +1,7 @@
 # Speaker notes for all eight classes
 
+For the current Week 4 and 5 classes, use the [cone rematch mentor guide](../Class_Preparation/W04_cone_rematch_Guide.md) and [distance demo and delivery strip mentor guide](../Class_Preparation/W05_sensor_mission_Guide.md). The parking notes below are a reference for Week 5's opening demo.
+
 For the post-session-1 plan and optional extensions, read [sessions 2–8](../Remaining_Sessions_Plan.md). The core sequence remains eight classes; the timed delivery lesson below is an alternative for Week 7.
 
 Each class has a separate Word document for printing and a matching Markdown copy for reading on GitHub. Each contains a preparation page and notes for every slide (15 for Week 2, seven for Week 3, six for other lessons): timing, suggested words, actions, questions and expected answers, three-role team rotations, troubleshooting, evidence and cleanup. Leave activity slides visible while students work. Week 2 also has [printable PDF notes](W02_delivery_Speaker_Notes.pdf).

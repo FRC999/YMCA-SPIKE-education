@@ -15,8 +15,8 @@ Print worksheets single-sided at actual size on US Letter. PDF files open on Git
 | 1 | [Meet your robot](W01_signal_Checklist.md) | [PDF](W01_signal_Checklist.pdf) | A removable robot mascot |
 | 2 | [Delivery to a target](W02_delivery_Checklist.md) | [PDF](W02_delivery_Checklist.pdf) | A cargo tray that keeps its load |
 | 3 | [Robot dance studio](W03_dance_Checklist.md) | [PDF](W03_dance_Checklist.pdf) | A removable cone pusher |
-| 4 | [Parking assistant](W04_parking_Checklist.md) | [PDF](W04_parking_Checklist.pdf) | A garage with a dependable target wall |
-| 5 | [The floor tells the robot](W05_marker_Checklist.md) | [PDF](W05_marker_Checklist.pdf) | A road with a delivery marker |
+| 4 | [Cone challenge rematch](W04_cone_rematch_Guide.md) | [Field map, team card and markers](../../02_Student/Printouts/W04_Cone_Rematch.pdf) | A pusher that delivers and releases cones |
+| 5 | [Stop at the delivery strip](W05_sensor_mission_Guide.md) | [Team mission card](../../02_Student/Printouts/W05_Sensor_Mission.pdf) | A road across a dark strip with a delivery bay |
 | 6 | [A rescue attachment](W06_rescue_Checklist.md) | [PDF](W06_rescue_Checklist.pdf) | A rescue scoop or guide |
 | 7 | [Community robot mission](W07_mission_Checklist.md) | [PDF](W07_mission_Checklist.pdf) | A small community mission scene |
 | 8 | [Robot showcase](W08_showcase_Checklist.md) | [PDF](W08_showcase_Checklist.pdf) | A working exhibit for the showcase |

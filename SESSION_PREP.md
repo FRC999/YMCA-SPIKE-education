@@ -1,6 +1,6 @@
 # MechaRAMS / Cheshire YMCA — session preparation tracker
 
-Updated: November 16, 2026
+Updated: November 22, 2026
 
 Repository: [FRC999/YMCA-SPIKE-education](https://github.com/FRC999/YMCA-SPIKE-education) (public for reading as requested October 25). Initial upload completed October 25, 2026 using `atsekhan`. Updates can be committed in the GitHub editor; changes made in a local checkout require a commit and push.
 
@@ -10,6 +10,7 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 
 ## Week 3 cone pusher preparation
 
+- [x] November 22 report from Alex: students enjoyed experimenting with the Week 3 cone challenge and could not quite complete it. No individual team scores or hardware diagnosis were supplied.
 - [x] November 16: created the [three-cone field for the unchanged Week 3 program](02_Student/Printouts/W03_Dance_Three_Cone_Field.pdf) and checked print size and geometry against the class loop. Use this version for the shared-program demo.
 - [ ] Fit and test the centered round tip with the class program. Use a dry run and one cone per trial to confirm starts and homes, then run all three and check upright releases and clearance through later turns.
 - [x] November 16: prepared the [three-cone playfield](02_Student/Printouts/W03_Three_Cone_Demo_Playfield.pdf) with centered starts, matching homes, join marks, and the demo recipe. Prepared a separate [LEGO pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png). Checked the print layout and nominal movement sequence.
@@ -19,6 +20,12 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 - [ ] Pack six matching cones, four pusher build packs/proxies and two mentor pushers. Mark two actual front mounting points; check proxy spacing/height against both bases.
 - [ ] Rehearse the mounted pusher and upright cone through the full drive/turn loop on both kits at SPEED = 200. Check secure mounts and the swept floor area; rehearse a smaller positive turn if needed.
 - [ ] Rehearse quick swaps so every team tests its own attachment within the existing 38–50 minute retests. Record actual results in the [Week 3 checklist](01_Instructor/Class_Preparation/W03_dance_Checklist.md).
+
+## Week 4 and 5 preparation
+
+- [x] Prepare the [Week 4 cone rematch](01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md) and [Week 5 sensor mission](01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md) with linked student printouts and tested source syntax.
+- [ ] Mark two rematch fields. Fit the centered rounded tip and rehearse one cone, the diagonal second approach, and then the third cone on both actual bases. Record the usable field marks and starting values for each kit.
+- [ ] Rehearse the distance demo at 150 and 200 mm. Fit the downward sensors, verify light/dark separation and marker stops on both kits, and record a threshold for each kit to carry forward to Week 6.
 
 ## Current status and decisions
 

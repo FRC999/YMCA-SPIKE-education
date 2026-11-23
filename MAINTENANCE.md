@@ -1,6 +1,10 @@
 # Maintenance rules and backlog
 
-Updated November 16, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+Updated November 22, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+
+## Week 4 and 5 class sequence
+
+The active lessons are the standalone cone rematch and sensor mission guides in `01_Instructor/Class_Preparation/`. The original parking lesson is retained as the source for the Week 5 opening demo. Regenerate both printouts with `python scripts/build_w04_w05_mission_prints.py` (ReportLab). The rematch field geometry reads the Week 4 Python starter route. Review all four pages before recording the PDF hashes.
 
 ## Week 3 cone pusher revision
 

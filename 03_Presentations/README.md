@@ -1,5 +1,7 @@
 # Presentations for reading and teaching
 
+Display page 1 of the [cone rematch packet](../02_Student/Printouts/W04_Cone_Rematch.pdf) for Week 4. Use the [Week 5 mentor guide](../01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md) alongside slides 2–6 of the floor-marker deck.
+
 Open a PDF to read the slides directly on GitHub. Download the PPTX for an editable slideshow and Presenter View with speaker notes. PDF copies are static slides; read the separate Markdown notes alongside them.
 
 | Presentation | Read in browser | Editable file |

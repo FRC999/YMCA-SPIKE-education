@@ -2,6 +2,22 @@
   "version": 1,
   "copies": [
     {
+      "output": "02_Student/Printouts/W04_Cone_Rematch.pdf",
+      "sha256": "0a660be0191fe505002f40097ad8242cc15f44f4cbb27f319583b6b6e988891e",
+      "sources": {
+        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "04_Python/W04_cone_rematch.py": "413c33029ff4a1a9b97b375ca7c65f0bb85eeb29b90547448c4016eccd4beff3"
+      }
+    },
+    {
+      "output": "02_Student/Printouts/W05_Sensor_Mission.pdf",
+      "sha256": "a98af776d67f8c9f5481b3e08251f444aee4284bc6d103bed989ad707c041df6",
+      "sources": {
+        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "04_Python/W05_marker.py": "11272419ebd1cc8757201127d3a8bca59317971de83a3b1e74817f7aff349c5b"
+      }
+    },
+    {
       "output": "02_Student/Printouts/W03_Dance_Three_Cone_Field.pdf",
       "sha256": "ba32dbf589a6767f6d703fedc4f383424ea5f6bd0a9e7270aa5a76f0ede3e854",
       "sources": {

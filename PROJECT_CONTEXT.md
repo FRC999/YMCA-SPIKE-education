@@ -1,6 +1,10 @@
 # Project context for continuing this work
 
-Last reviewed: November 16, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
+Last reviewed: November 22, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
+
+## Week 4 rematch and Week 5 sensors
+
+Alex reported that the students enjoyed trying the Week 3 cone exercise and did not quite complete it. The approved Week 4 rematch starts with one cone and uses a 60 × 60 cm example layout for up to three, including the diagonal second approach. Students change one drive or turn value or one pusher feature per comparison. Week 5 opens with the distance-to-wall demonstration and gives all teams hands-on floor-marker calibration and testing. Use the [Week 4 mentor guide](01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md) and [Week 5 mentor guide](01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md). Both revisions require a physical rehearsal.
 
 ## Current Week 3 attachment revision
 
@@ -32,8 +36,8 @@ The curriculum was originally prepared as a proposal and Alex reported it accept
 - Confirmed October 25: 12 children in four teams of three, two teams per kit, 4–6 student instructors and an adult lead. Four laptops are available; bring two for robot control and two for build references. Dates and local assignments remain open.
 - Alex confirmed the first class is October 27, 2026 ("today"). The original proposal's October 21 start is superseded; later dates remain unconfirmed. Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and its four-page PDF; the linked 16-page class packet contains exact copy quantities.
 - Start with scaffolded real Python in SPIKE App 3. Students edit a small `student_recipe` in a complete supplied program. This is not drag-and-drop Python, desktop Python, Pybricks, or the older `from spike import PrimeHub` API. A mentor-tested Word Blocks fallback can preserve the learning goal.
-- Weeks: signals/sequence; delivery/calibration; dance/loops; distance-based parking; dark-marker sensing; passive rescue attachment/functions; chosen community mission; showcase/reflection.
-- After Week 1: keep Weeks 2–6 in order and offer readiness-based extensions. The [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) adds a complete optional Week 7 timed delivery challenge: fixed 60 cm course, removable cargo cradle, repeated stopwatch trials and controlled speed/design comparisons. It replaces the original Week 7 mission if selected and physically rehearsed. Week 8 uses the saved result within its existing schedule. Do not compress the course based only on a successful first class.
+- Weeks: signals and sequence; delivery and calibration; dance and loops; cone rematch; distance demonstration and dark-marker sensing; rescue attachment and functions; chosen community mission; showcase and reflection.
+- Offer extensions when teams are ready. The [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) includes an optional Week 7 timed delivery challenge with a fixed 60 cm course, removable cargo cradle, repeated stopwatch trials and controlled speed/design comparisons. Choose it in place of the community mission if physically rehearsed. Week 8 uses the saved result.
 - Keep both official practice driving bases assembled. Use the same base throughout the course; students build removable attachments or course models every week.
 
 ## Hardware and programming decisions
