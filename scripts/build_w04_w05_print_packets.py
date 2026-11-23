@@ -83,8 +83,9 @@ def packet_instructions(index):
     return PdfReader(stream).pages[0]
 
 
-def build_packet(week, filename, title):
-    plan = print_plan(week)
+def build_packet(week, filename, title, *, plan=None):
+    if plan is None:
+        plan = print_plan(week)
     index = list(indexed_sections(plan))
     writer = PdfWriter()
     writer.add_metadata({'/Title': title, '/Author': 'MechaRAMS / Cheshire YMCA'})

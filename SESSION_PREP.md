@@ -32,6 +32,11 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 - [ ] Mark two rematch fields. Fit the centered rounded tip and rehearse one cone, the diagonal second approach, and then the third cone on both actual bases. Record the usable field marks and starting values for each kit.
 - [ ] Rehearse the distance demo at 150 and 200 mm. Fit the downward sensors, verify light/dark separation and marker stops on both kits, and record a threshold for each kit to carry forward to Week 6.
 
+## Week 6 rescue preparation
+
+- [x] Prepared the [full-size rescue field](02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf) and [22-page print packet](02_Student/Printouts/W06_Class_Print_Packet.pdf). The Week 5 lane and strip are reused. The rescue tabs locate the cube start and bay.
+- [ ] On both kits, fit the plow, recheck the Week 5 threshold, verify a clear run to L with no strip or cube, and confirm a successful M stop with the cube. Mark each bay from a controlled trial and record the kit settings.
+
 ## Current status and decisions
 
 - [x] November 9: reviewed student-instructor Google Slides edits read-only and incorporated useful changes into the GitHub deck and notes. Added detailed programming/cart tasks and the requested optional tabletop book-parking challenge. The deck now has 15 slides; opening still ends at minute 14.

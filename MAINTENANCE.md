@@ -16,6 +16,10 @@ Run `python scripts/build_w04_w05_setup_checklists.py` with ReportLab to export 
 
 Run `python scripts/build_w04_w05_print_packets.py` with ReportLab and pypdf to assemble the 28-page Week 4 and 16-page Week 5 class packets. Each begins with the mentor checklist and one assembly guide, followed by two sets of full-size field sheets, five team sheets and attendance. Week 4 ends with two cone-template pages. Check page order and dimensions against the source PDFs before recording the hashes.
 
+## Week 6 rescue field and print packet
+
+Run `python scripts/build_w06_rescue_prints.py` with ReportLab and pypdf to build the field, the one-page checklist and the 22-page packet. The field includes the unchanged Week 5 lane tiles and dark strip. Check the six-page field set, the movable start and bay tabs, the one-page checklist and the packet's two complete fields before recording the hashes.
+
 ## Week 3 cone pusher revision
 
 Run `python scripts/build_w03_dance_field.py` with ReportLab to regenerate the field for the original Week 3 program. Check the playfield and movable markers at actual size, and verify the PDF sequence still matches the original class program.
