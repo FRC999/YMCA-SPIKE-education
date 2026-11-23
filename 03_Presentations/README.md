@@ -16,7 +16,6 @@ Open a PDF to read the slides directly on GitHub. Download the PPTX for an edita
 | Week 6 Rescue the supply cube | [PDF](W06_rescue.pdf) | [PowerPoint](W06_rescue.pptx) |
 | Week 7 Timed delivery | [PDF](W07_speed_trial.pdf) | [PowerPoint](W07_speed_trial.pptx) |
 | Week 8 Robot showcase | [PDF](W08_showcase.pdf) | [PowerPoint](W08_showcase.pptx) |
-| Week 7 alternate Community robot mission | [PDF](W07_mission.pdf) | [PowerPoint](W07_mission.pptx) |
 
 For Week 7 timed delivery, use the [class print packet](../02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf) to assemble the courses. Slide 2 covers both-kit calibration and slide 3 shows the stopwatch cues. The [detailed notes](../01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.md) are also embedded in Presenter View.
 
@@ -24,4 +23,4 @@ Week 6 slide 2 shows the cube start and the rescue bay before and after a trial.
 
 Week 8 slide 2 shows how to reuse the Week 7 courses and saved projects. Slide 3 gives the stopwatch cues. Slide 4 gives the four-minute demo schedule. Use the [Week 8 packet](../02_Student/Printouts/W08_Class_Print_Packet.pdf) and [speaker notes](../01_Instructor/Speaker_Notes/W08_showcase_Speaker_Notes.md).
 
-Week 2 has 15 slides: brief recap, motor illustration, wheel degrees, rolling/circumference and both conversion directions; code/prediction is slide 9. Slides 11–12 detail programming and the cart build. Slide 14 is an optional combined book-parking challenge inside the existing retest time. Week 3 has seven slides: slide 5 gives the build and actual mounting steps, and slide 6 tests the attached pusher during the dance moves and turns. Other weekly decks have six slides. Both Week 1 PPTX filenames contain the same updated deck. [Speaker notes](../01_Instructor/Speaker_Notes/README.md) and [print-and-bring checklists](../01_Instructor/Class_Preparation/README.md).
+Week 2 has 15 slides: brief recap, motor illustration, wheel degrees, rolling/circumference and both conversion directions; code/prediction is slide 9. Slides 11–12 detail programming and the cart build. Slide 14 is an optional combined book-parking challenge inside the existing retest time. Week 3 has seven slides: slide 5 gives the build and actual mounting steps, and slide 6 tests the attached pusher during the dance moves and turns. Other weekly decks have six slides. [Speaker notes](../01_Instructor/Speaker_Notes/README.md) and [print-and-bring checklists](../01_Instructor/Class_Preparation/README.md).

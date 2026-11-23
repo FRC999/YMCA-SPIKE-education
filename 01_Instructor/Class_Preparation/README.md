@@ -6,7 +6,7 @@ For Session 6, print one [22-page rescue packet](../../02_Student/Printouts/W06_
 
 For Session 2, use the [complete teaching-file and packing checklist](W02_delivery_Checklist.md). Print one [14-page class packet](../../02_Student/Printouts/W02_Class_Print_Packet.pdf), single-sided, plus the optional [two-page checklist](W02_delivery_Checklist.pdf). Reuse role cards and hub guides.
 
-For Week 7 timed delivery, print one [44-page class packet](../../02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf). It has the [mentor checklist](W07_speed_trial_Checklist.md), two full-size courses, five team sheets, four build cards and attendance. Calibrate both kits on the actual floor before class. Use the [community mission checklist](W07_mission_Checklist.md) if teaching the rehearsed alternate lesson.
+For Week 7 timed delivery, print one [44-page class packet](../../02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf). It has the [mentor checklist](W07_speed_trial_Checklist.md), two full-size courses, five team sheets, four build cards and attendance. Calibrate both kits on the actual floor before class.
 
 For the Week 8 timed showcase, print one [58-page class packet](../../02_Student/Printouts/W08_Class_Print_Packet.pdf). Reuse the assembled Week 7 courses if available and skip pages 3–34. Run each team's saved and rehearsed project on its Week 7 kit.
 

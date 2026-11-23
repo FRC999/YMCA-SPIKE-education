@@ -10,5 +10,3 @@ Print four cards for the current week, one per team. Teams build and hand-test a
 - Week 6: [A rescue scoop or guide](Printouts/W06_rescue_Build_Card.md) · [Print PDF](Printouts/W06_rescue_Build_Card.pdf)
 - Week 7: [A removable cargo cradle](Printouts/W07_speed_trial_Build_Card.md) · [Print PDF](Printouts/W07_speed_trial_Build_Card.pdf)
 - Week 8: [A working exhibit for the showcase](Printouts/W08_showcase_Build_Card.md) · [Print PDF](Printouts/W08_showcase_Build_Card.pdf)
-
-For the Week 7 alternate lesson, use the [community mission scene card](Printouts/W07_mission_Build_Card.md).

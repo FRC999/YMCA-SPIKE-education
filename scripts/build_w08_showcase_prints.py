@@ -59,8 +59,8 @@ def checklist(canvas):
         'Start the stopwatch at first movement after the ready pause. Stop when that same mark '
         'crosses FINISH. Watch until the robot fully stops and confirm it stayed in the lane.',
     ])
-    y = item(canvas, y, 'If a setup fails, use a rehearsed backup on its matching course or have the team show '
-             'its Week 7 trial evidence. Use the marker fallback on a separately rehearsed marker lane.')
+    y = item(canvas, y, 'If a setup fails, retest the team\'s previously verified timed setup on its lane. '
+             'If a live run fails or cannot start, show the saved program, cradle and trial evidence.')
     y = section(canvas, '3  Stage the showcase', y - 2)
     y = item(canvas, y, 'Set out two stopwatches, saved cradles, cubes, repair kits and signs. Give each child a final '
              'check before coaching. Allow six minutes per team to rehearse and four minutes to present.')

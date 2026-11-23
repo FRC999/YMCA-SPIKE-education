@@ -1,4 +1,4 @@
-# MechaRAMS / Cheshire YMCA | optional Week 7 | SPIKE App 3 Python
+# MechaRAMS / Cheshire YMCA | Week 7 timed delivery | SPIKE App 3 Python
 # Paste this ENTIRE file into one SPIKE Prime Python project.
 # One supervised run per start. Stopwatch timing is separate from this program.
 from hub import port, light_matrix

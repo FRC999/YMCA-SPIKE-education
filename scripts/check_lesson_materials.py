@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 W = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
 A = '{http://schemas.openxmlformats.org/drawingml/2006/main}'
 LESSONS = ['W01_signal', 'W02_delivery', 'W03_dance', 'W04_cone_rematch',
-           'W05_marker', 'W06_rescue', 'W07_speed_trial', 'W08_showcase', 'W07_mission']
+           'W05_marker', 'W06_rescue', 'W07_speed_trial', 'W08_showcase']
 
 
 def norm(text):
@@ -25,7 +25,8 @@ def check():
         files = [f'03_Presentations/{name}.{ext}' for ext in ('pptx', 'pdf')]
         files += [f'01_Instructor/Speaker_Notes/{name}_Speaker_Notes.{ext}'
                   for ext in ('docx', 'md')]
-        files.append(f'04_Python/{name}.py')
+        if name != 'W08_showcase':
+            files.append(f'04_Python/{name}.py')
         if name == 'W04_cone_rematch':
             files += ['02_Student/Printouts/W04_Cone_Rematch.pdf',
                       '02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf',
@@ -51,7 +52,9 @@ def check():
         if missing:
             errors.extend('Missing: '+f for f in missing)
             continue
-        ast.parse((ROOT/f'04_Python/{name}.py').read_text(encoding='utf-8-sig'))
+        for file in files:
+            if file.endswith('.py'):
+                ast.parse((ROOT/file).read_text(encoding='utf-8-sig'))
         with ZipFile(ROOT/f'01_Instructor/Speaker_Notes/{name}_Speaker_Notes.docx') as z:
             body = ET.fromstring(z.read('word/document.xml'))
             paragraphs = [''.join((t.text or '') if t.tag == W+'t' else
@@ -89,7 +92,7 @@ def check():
         print(f'{name}: material set and {expected_count} note sections checked')
     if errors:
         raise SystemExit('\n'.join(errors))
-    print('Core and supplemental lesson sets agree. Hardware rehearsal remains separate.')
+    print('All eight lesson sets agree. Hardware rehearsal remains separate.')
 
 
 if __name__ == '__main__':

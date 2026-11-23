@@ -2,7 +2,7 @@
 
 Alex reported that the October 27 first session went very well, the children stayed engaged, the group seemed more advanced than expected, and the activities fitted the hour. Keep the eight-session sequence and successful rotation schedule. Offer more reasoning and code ownership as teams become ready; do not make longer programs the measure of progress.
 
-After Week 3, teach the cone rematch in Week 4, combine the distance demonstration and floor-marker mission in Week 5, then use the measured threshold in the Week 6 rescue mission. Teach timed delivery in Week 7 and showcase the saved projects in Week 8. The community mission is an alternate lesson if the timed course cannot be rehearsed.
+After Week 3, teach the cone rematch in Week 4, combine the distance demonstration and floor-marker activity in Week 5, then use the measured threshold in the Week 6 rescue. Teach timed delivery in Week 7 and showcase the saved projects in Week 8.
 
 ## The remaining sequence
 
@@ -55,4 +55,4 @@ Use the [Week 8 print packet](../02_Student/Printouts/W08_Class_Print_Packet.pdf
 
 ## What is prepared and what still needs rehearsal
 
-The repository has complete sets for sessions 2–8 and the alternate Week 7 mission. Check embedded-note agreement with `python scripts/check_lesson_materials.py`. Keep actual dates, sensor results, speed approvals and room fit open until confirmed on site.
+The repository has complete sets for sessions 2–8. Check embedded-note agreement with `python scripts/check_lesson_materials.py`. Keep actual dates, sensor results, speed approvals and room fit open until confirmed on site.

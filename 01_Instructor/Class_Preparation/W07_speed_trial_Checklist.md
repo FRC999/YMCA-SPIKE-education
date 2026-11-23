@@ -1,6 +1,6 @@
 # Week 7 timed delivery print and bring checklist
 
-Optional replacement for the original Week 7 mission. Use for 12 children in four teams of three, with two robot stations and two build tables. Follow the [remaining-sessions plan](../Remaining_Sessions_Plan.md) and [detailed teaching notes](../Speaker_Notes/W07_speed_trial_Speaker_Notes.md).
+Timed delivery for 12 children in four teams of three, with two robot stations and two build tables. Follow the [remaining-sessions plan](../Remaining_Sessions_Plan.md) and [detailed teaching notes](../Speaker_Notes/W07_speed_trial_Speaker_Notes.md).
 
 ## Print
 
@@ -34,7 +34,7 @@ The team cards and attendance take **10 sheets**, plus 32 for two printed course
 5. Only then add 300 to `APPROVED_SPEEDS`, rehearse three loaded runs and check stopping space again. If it fails, remove it and teach at 200. Optionally rehearse 400 the same way; do not exceed 400 in this lesson. These are classroom limits, not claimed motor specifications. Save each kit's approved settings separately.
 6. Practice stopwatch timing: start on first physical movement after the ready signal/pause; stop when the same chassis mark crosses the finish. Check validity through the final stop. Record seconds to one decimal place; do not treat the display's extra digits as accuracy. `D` means the move ended, not a successful or timed crossing.
 7. Build a sample cradle from one team pack, hand-test it, then confirm mounting and clearance. It may not touch the floor, wheels or cables or obscure controls. Student designs get the same inspection before a powered test.
-8. Assign two robot mentors and two build mentors. If two lanes cannot be supervised independently, run them alternately; drop the extra speed block to protect the hour. If course setup or movement cannot be made reliable, use the original rehearsed [Week 7 mission](W07_mission_Checklist.md).
+8. Assign two robot mentors and two build mentors. Alternate runs if the lanes cannot be supervised independently. If only one kit passes rehearsal, share its lane and skip the higher-speed block. If neither passes, hand-test the cradles, walk through the timing cues and record the runs as untested.
 
 ## Record the rehearsal
 

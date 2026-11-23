@@ -8,7 +8,7 @@ Each class has a separate Word document for printing and a matching Markdown cop
 
 | Class | Topic | Read on GitHub | Print or edit | Matching slides |
 |---|---|---|---|---|
-| 1 | Meet your robot | [Markdown](W01_signal_Speaker_Notes.md) | [Word](W01_signal_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W01_signal_with_speaker_notes.pptx) |
+| 1 | Meet your robot | [Markdown](W01_signal_Speaker_Notes.md) | [Word](W01_signal_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W01_signal.pptx) |
 | 2 | Delivery to a target | [Markdown](W02_delivery_Speaker_Notes.md) | [Word](W02_delivery_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W02_delivery.pptx) |
 | 3 | Robot dance studio | [Markdown](W03_dance_Speaker_Notes.md) | [Word](W03_dance_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W03_dance.pptx) |
 | 4 | Cone challenge rematch | [Markdown](W04_cone_rematch_Speaker_Notes.md) | [Word](W04_cone_rematch_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W04_cone_rematch.pptx) |
@@ -16,7 +16,6 @@ Each class has a separate Word document for printing and a matching Markdown cop
 | 6 | Rescue the supply cube | [Markdown](W06_rescue_Speaker_Notes.md) | [Word](W06_rescue_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W06_rescue.pptx) |
 | 7 | Timed delivery | [Markdown](W07_speed_trial_Speaker_Notes.md) | [Word](W07_speed_trial_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_speed_trial.pptx) |
 | 8 | Robot showcase | [Markdown](W08_showcase_Speaker_Notes.md) | [Word](W08_showcase_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W08_showcase.pptx) |
-| 7 alternate | Community robot mission | [Markdown](W07_mission_Speaker_Notes.md) | [Word](W07_mission_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_mission.pptx) |
 
 The timed delivery notes include the print packet page ranges, both-kit calibration, a stopwatch demonstration and the Week 8 handoff. Use the saved timed delivery project and trial record for the showcase. The preparation and slide sections are embedded in the corresponding PowerPoint decks. Run `scripts/check_lesson_materials.py` to check agreement.
 

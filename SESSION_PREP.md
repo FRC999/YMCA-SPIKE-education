@@ -13,8 +13,7 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 - [x] November 22 report from Alex: students enjoyed experimenting with the Week 3 cone challenge and could not quite complete it. No individual team scores or hardware diagnosis were supplied.
 - [x] November 16: created the [three-cone field for the unchanged Week 3 program](02_Student/Printouts/W03_Dance_Three_Cone_Field.pdf) and checked print size and geometry against the class loop. Use this version for the shared-program demo.
 - [ ] Fit and test the centered round tip with the class program. Use a dry run and one cone per trial to confirm starts and homes, then run all three and check upright releases and clearance through later turns.
-- [x] November 16: prepared the [three-cone playfield](02_Student/Printouts/W03_Three_Cone_Demo_Playfield.pdf) with centered starts, matching homes, join marks, and the demo recipe. Prepared a separate [LEGO pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png). Checked the print layout and nominal movement sequence.
-- [ ] Print playfield pages 2-5 at actual size, trim and join. Fit the centered pusher, measure wheel circumference and axle-to-beam distance, and rehearse the demo recipe on the actual floor. Confirm the robot delivers all three cones upright and clears them when reversing and turning.
+- [x] Prepared the [LEGO pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png). Use it with the field and tip drawing for the shared-program demo.
 - [x] November 16: prepared the [one-page cone template](02_Student/Printouts/W03_Paper_Cone_Template.pdf) with four 5 cm tall cones and tape tabs. Print one US Letter sheet at actual size for the demo or two sheets for the six class cones plus two spares.
 - [x] November 11: revised materials so teams attach their own pushers and test them during the dance moves AND turns. The earlier separate straight-push recipe is superseded.
 - [ ] Pack six matching cones, four pusher build packs/proxies and two mentor pushers. Mark two actual front mounting points; check proxy spacing/height against both bases.
@@ -59,9 +58,9 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 - [ ] Measure both actual wheel circumferences and rehearse the revised 180/360/40 cm sequence with a fixed chassis reference, SPEED = 200 and unchanged mentor tray/cube. Record results; the practice report does not establish that all revised checks passed.
 
 - [x] First session held October 27. Alex reported that the curriculum and tasks went very well, children stayed engaged, the group seemed more advanced than expected, and timing fitted the hour. Children asked how fast the robot could run. This report does not complete the separate inventory, sensor or speed-rehearsal records below.
-- [x] Added the [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) and a complete optional Week 7 timed delivery lesson. Keep sessions 2–6 in order and add stretches only after core work; retain the original Week 7 mission as an alternative.
+- [x] Selected timed delivery for Week 7 and aligned the [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md), class packet and showcase with the saved timed programs.
 - [ ] Rehearse Week 2 delivery and cargo-tray build on both kits using its existing checklist; record actual results and any kit issues from the first session.
-- [ ] Before the speed option: check room/lane fit, calibrate each kit's travel, rehearse loaded 200/300 settings, test stopwatch timing and record approved settings using its [checklist](01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md). Do not infer approval from offline tests.
+- [ ] Before timed delivery, check room/lane fit, calibrate each kit's travel, rehearse loaded speeds, test stopwatch timing and record approved settings using the [Week 7 checklist](01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md).
 
 - [x] October 27 opening revised at Alex's request: prior experience was already asked about. No opening concept test, ability rating or repeated survey. Use names, mentor introductions, the stop signal and robot demonstrations; notice support needs during the activities. The print packet now has 16 sheets.
 
@@ -81,7 +80,7 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 
 The confirmed plan is four teams of three sharing two robots. Two additional tables provide hands-on builds. Bring four laptops: two for robot control and two for build references. Use [Grouping and roles](01_Instructor/Grouping_and_Roles.md) and the [weekly print-and-bring checklists](01_Instructor/Class_Preparation/README.md). October 27 is the confirmed first session; later dates remain to be agreed.
 
-Week 1 teaching materials: [detailed slide-by-slide notes and assembly preparation](01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.md) and [presentation with embedded notes](03_Presentations/W01_signal_with_speaker_notes.pptx). Preassemble both SPIKE driving bases before students arrive. The first-session demonstration slot uses about three minutes for R3PTAR and two minutes for the SPIKE starter; the standalone EV3 rehearsal script below remains a five-minute maximum.
+Week 1 teaching materials include [detailed slide-by-slide notes and assembly preparation](01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.md) and the [presentation with embedded notes](03_Presentations/W01_signal.pptx). Preassemble both SPIKE driving bases before students arrive. The first-session demonstration slot uses about three minutes for R3PTAR and two minutes for the SPIKE starter; the standalone EV3 rehearsal script below remains a five-minute maximum.
 
 ## Student trainer preparation session
 

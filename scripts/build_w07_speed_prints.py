@@ -153,8 +153,8 @@ def checklist_page(canvas):
         text(canvas, CHECK_LEFT, y, f'Kit {kit}', 10, TEAL, True)
         text(canvas, CHECK_LEFT+46, y, 'Travel degrees __________  Approved speeds __________  Initials ________', 10)
         y -= 15
-    y = item(canvas, y, 'If two lanes cannot be supervised independently, alternate runs. '
-             'Use the rehearsed original mission if the timed course is unreliable.')
+    y = item(canvas, y, 'Alternate runs if staffing is limited. If one kit passes, share its lane at 200. '
+             'If neither passes, hand-test cradles and walk through the timing cues.')
     finish(canvas, y-3, 'W07_speed_trial.pptx')
 
 

@@ -72,7 +72,7 @@ The other two laptops only show build/reference PDFs and need a working PDF view
 
 - Both robot laptops: complete Week 1 source, smoke test, saved starter project and [hub guide](../../06_References/SPIKE_Hub_Color_Guide.pdf).
 - Both reference laptops: [build card](../../02_Student/Printouts/W01_signal_Build_Card.pdf), hub guide and [base assembly reference](../../06_References/LEGO_Practice_Driving_Base.pdf).
-- Presentation/lead laptop: [slide PDF](../../03_Presentations/W01_signal.pdf) or [PPTX with notes](../../03_Presentations/W01_signal_with_speaker_notes.pptx), [speaker notes DOCX](../Speaker_Notes/W01_signal_Speaker_Notes.docx), and this guide. Copy backups to a USB drive.
+- Presentation/lead laptop: [slide PDF](../../03_Presentations/W01_signal.pdf) or [PPTX with notes](../../03_Presentations/W01_signal.pptx), [speaker notes DOCX](../Speaker_Notes/W01_signal_Speaker_Notes.docx), and this guide. Copy backups to a USB drive.
 
 The snake already has its program. Keep the working **LEGO MINDSTORMS EV3 Home Edition** installation on the computer used yesterday if bringing it for troubleshooting; do not install it on student laptops. Test that R3PTAR starts directly from its brick after power-off. It then needs no laptop to perform. The SPIKE app does not program EV3.
 

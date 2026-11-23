@@ -115,10 +115,10 @@ speed = 200
 await sprint(speed)
 ```
 
-Choose an approved speed and keep the kit's calibrated travel fixed. Compare the same tray at different speeds, or compare two trays at the same speed. The [community mission starter](W07_mission.py) is available for the alternate lesson.
+Choose an approved speed and keep the kit's calibrated travel fixed. Compare the same tray at different speeds, or compare two trays at the same speed.
 
 ### Week 8: Robot showcase
 
-Open each team's saved Week 7 project on the same kit and course. Ask one student to point to a choice in their actual code. Time a timed-delivery demo from first movement to the chassis mark crossing FINISH. [W08_showcase.py](W08_showcase.py) supplies the marker fallback for a separately rehearsed marker lane.
+Open each team's saved Week 7 timed delivery project on the same kit and course. Ask one student to point to a choice in their actual code. Time the demo from first movement to the chassis mark crossing FINISH. If the robot cannot run, use the saved code, cradle and trial record.
 
 Sources: official SPIKE App Python help, LEGO Cart Control, and the Tufts CEEO SPIKE 3 documentation archive. See the research source list for links. The short programs and helper layer are original teaching materials.

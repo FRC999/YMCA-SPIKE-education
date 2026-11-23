@@ -18,7 +18,7 @@ The [showcase deck](03_Presentations/W08_showcase.pptx) teaches the four-minute 
 
 November 16: use the [original-program three-cone field](02_Student/Printouts/W03_Dance_Three_Cone_Field.pdf) when the demo must run the same Week 3 loop as the class. It keeps drive(90), turn(90) repeated three times at SPEED = 200 and one final D. Page 1 fits three centered cones and numbered homes on one landscape Letter sheet. Page 2 has movable markers and a rounded center pusher tip to release each cone on the turn. The starter locations are examples. Confirm and adjust on the actual floor without changing the program.
 
-November 16: the separate three-cone demo uses a low centered beam and three cycle moves: drive straight to a numbered home, reverse to leave the cone, then pivot right. The [playfield PDF](02_Student/Printouts/W03_Three_Cone_Demo_Playfield.pdf) has a setup guide and four full-size tiles. Use the printed program in a demo copy and calibrate on the actual robot. See the [pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png) for the mount, crossbar and floor clearance.
+Use the [pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png) for the common mount, crossbar and floor clearance. Use the original-program field and its rounded-tip drawing to rehearse the demo.
 
 November 16: the [paper cone template](02_Student/Printouts/W03_Paper_Cone_Template.pdf) fits two demo sets on one US Letter page, each with one working cone and one spare. Each robot uses the same cone for all three repeats. Two copies cover the four team build packs and two robot lanes, with two cones left over.
 
@@ -45,7 +45,7 @@ The curriculum was originally prepared as a proposal and Alex reported it accept
 - Alex confirmed the first class is October 27, 2026 ("today"). The original proposal's October 21 start is superseded; later dates remain unconfirmed. Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and its four-page PDF; the linked 16-page class packet contains exact copy quantities.
 - Start with scaffolded real Python in SPIKE App 3. Students edit a small `student_recipe` in a complete supplied program. This is not drag-and-drop Python, desktop Python, Pybricks, or the older `from spike import PrimeHub` API. A mentor-tested Word Blocks fallback can preserve the learning goal.
 - Weeks: signals and sequence; delivery and calibration; dance and loops; cone rematch; distance demonstration and dark-marker sensing; rescue attachment and functions; timed delivery; showcase and reflection.
-- Offer extensions when teams are ready. Week 7 uses a fixed 60 cm timed section, removable cradle and repeated trials. The community mission remains a rehearsed alternate. Use the [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) and save each team's tested result for Week 8.
+- Offer extensions when teams are ready. Week 7 uses a fixed 60 cm timed section, removable cradle and repeated trials. Use the [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) and save each team's tested timed delivery project for Week 8. If a live demo cannot run, teams can present the saved program, cradle and recorded trials.
 - Keep both official practice driving bases assembled. Use the same base throughout the course; students build removable attachments or course models every week.
 
 ## Hardware and programming decisions
@@ -70,7 +70,7 @@ October 27 correction from Alex: children already answered prior-experience ques
 
 Both SPIKE bases should be assembled and tested before children arrive. The official build PDF is in `06_References/LEGO_Practice_Driving_Base.pdf` (37 pages, steps 1–34).
 
-Use `03_Presentations/W01_signal_with_speaker_notes.pptx` as the current Week 1 deck and `01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.md` as its browser-readable companion. Both Week 1 PPTX filenames now contain the same revised six-slide deck with detailed notes. Read the PDF directly on GitHub.
+Use `03_Presentations/W01_signal.pptx` as the Week 1 deck with embedded notes and `01_Instructor/Speaker_Notes/W01_signal_Speaker_Notes.md` as its browser-readable companion. Read the slide PDF directly on GitHub.
 
 The hour is 0–5 welcome and introductions; 5–10 demonstration (about three minutes EV3 and two SPIKE); 10–14 combined code/prediction; 14–26 first robot/build rotation; 26–38 switch; 38–44 T1/T3 retest; 44–50 T2/T4 retest; 50–54 reflection; 54–60 save/reset. Rotate three jobs every four minutes in the initial turns and every two in retests. There is no opening quiz, ability rating or repeated prior-experience survey. Mentors notice support needs during coached activities. Week 8 has its own showcase schedule.
 

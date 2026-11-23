@@ -183,7 +183,7 @@ endobj
 27 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/FRC999/YMCA-SPIKE-education/blob/main/03_Presentations/W01_signal_with_speaker_notes.pptx)
+/S /URI /Type /Action /URI (https://github.com/FRC999/YMCA-SPIKE-education/blob/main/03_Presentations/W01_signal.pptx)
 >> /Border [ 0 0 0 ] /Rect [ 231.3 263.5 305.22 275.5 ] /Subtype /Link /Type /Annot
 >>
 endobj
@@ -221,7 +221,7 @@ endobj
 endobj
 32 0 obj
 <<
-/Author (MechaRAMS / Cheshire YMCA) /CreationDate (D:20261027161713-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261027161713-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (MechaRAMS / Cheshire YMCA) /CreationDate (D:20261122231515-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261122231515-05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (First session readiness) /Trapped /False
 >>
 endobj
@@ -288,20 +288,20 @@ xref
 0000005222 00000 n 
 0000005462 00000 n 
 0000005693 00000 n 
-0000005943 00000 n 
-0000006200 00000 n 
-0000006471 00000 n 
-0000006667 00000 n 
-0000006737 00000 n 
-0000007040 00000 n 
-0000007122 00000 n 
-0000009210 00000 n 
-0000011378 00000 n 
-0000014126 00000 n 
+0000005924 00000 n 
+0000006181 00000 n 
+0000006452 00000 n 
+0000006648 00000 n 
+0000006718 00000 n 
+0000007021 00000 n 
+0000007103 00000 n 
+0000009191 00000 n 
+0000011359 00000 n 
+0000014107 00000 n 
 trailer
 <<
 /ID 
-[<dcba4a88eb10a8fb050b43bc94cbe5cc><dcba4a88eb10a8fb050b43bc94cbe5cc>]
+[<65f1b6b6443291b766939d8aab815271><65f1b6b6443291b766939d8aab815271>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 32 0 R
@@ -309,5 +309,5 @@ trailer
 /Size 38
 >>
 startxref
-17213
+17194
 %%EOF

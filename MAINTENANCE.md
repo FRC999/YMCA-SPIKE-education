@@ -34,13 +34,13 @@ Run `python scripts/build_w08_showcase_prints.py` with ReportLab and pypdf. It g
 
 ## Workbook and daily printouts
 
-Keep the current Week 4–8 lessons in the workbook, instructor guide, proposal and weekly indexes. The student workbook's page 8 is the rescue team sheet and page 11 is the final concept check. Re-extract those pages after an edit and rebuild the Weeks 6 and 8 class packets. Keep the Week 5 marker question and the corresponding instructor key in agreement. The alternate Week 7 community mission's standalone sheet is a retained reference separate from the current workbook.
+Keep the current Week 4–8 lessons in the workbook, instructor guide, proposal and weekly indexes. The student workbook's page 8 is the rescue team sheet and page 11 is the final concept check. Re-extract those pages after an edit and rebuild the Weeks 6 and 8 class packets. Keep the Week 5 marker question and the corresponding instructor key in agreement.
 
 ## Week 3 cone pusher revision
 
 Run `python scripts/build_w03_dance_field.py` with ReportLab to regenerate the field for the original Week 3 program. Check the playfield and movable markers at actual size, and verify the PDF sequence still matches the original class program.
 
-Run `python scripts/build_w03_demo_playfield.py` with ReportLab and Pillow to produce the three-cone demo playfield and the separate pusher picture. Check the five US Letter pages, the four trimmed seams, the nominal demo sequence against the Week 3 helpers, and the assembly picture before recording both hashes.
+Run `python scripts/build_w03_pusher_picture.py` with ReportLab and Pillow to regenerate the pusher assembly picture. Review the mounting details before recording its hash.
 
 Generate the four-cone US Letter pattern with python scripts/build_cone_template.py (ReportLab). Review the page before recording its hash.
 
@@ -82,7 +82,7 @@ The [Document sync workflow](.github/workflows/document-sync.yml) runs tests and
 
 ## PDF and other reading copies
 
-The optional Week 7 speed set adds one DOCX/Markdown notes pair, a six-slide PPTX/PDF with embedded notes, a Python program, and three one-page print PDFs with Markdown sources. Run `python scripts/build_speed_handouts.py` to typeset the build card, trial sheet and compact packing checklist; the full calibration procedure stays in the Markdown checklist and notes. Review all three pages before recording their hashes. Export the speed deck using the existing deck workflow. The tracked material checker verifies all eight core sets plus this optional set and compares embedded notes with their Word source; CI runs it. Keep the original Week 7 materials available.
+Week 7 timed delivery has matching DOCX/Markdown notes, a six-slide PowerPoint with embedded notes, a slide PDF, a Python program and a class packet. Run `python scripts/build_speed_handouts.py` to typeset the build card, trial sheet and checklist. The full calibration procedure is in the Markdown checklist and notes. The material checker verifies all eight lesson sets and compares the embedded notes with their Word sources.
 
 The October 27 first-session readiness guide is authored in `01_Instructor/Class_Preparation/W01_Readiness_Guide.md`. Run `python scripts/build_w01_readiness.py` (reportlab/pypdf required) to typeset its four-page PDF and assemble `02_Student/Printouts/W01_Class_Print_Packet.pdf` from the five original handouts at the recorded quantities. The packet has 16 pages and is printed once, single-sided. Review the four guide pages and all six unique packet pages, verify the packet sequence, then record both outputs in the export manifest. These two PDFs supplement the original 43 exports below.
 
@@ -148,7 +148,7 @@ Pass multiple output paths when several reviewed copies changed. Do not record h
 ### Implemented
 
 - [x] Recorded Alex's successful first-session report and preserved the one-hour sequence. Added a remaining-sessions plan with mentor practice and optional stretches.
-- [x] Added optional Week 7 timed delivery with complete slides/notes, cradle build, trial record, calibration checklist and bounded program; Week 8 handoff included. Physical speed rehearsal remains open in SESSION_PREP.md.
+- [x] Published the Week 7 timed delivery slides and notes, cradle build, trial record, calibration checklist and program. The Week 8 handoff uses saved timed delivery projects. Physical speed rehearsal remains open in SESSION_PREP.md.
 - [x] Added a portable check for complete lesson sets and embedded-note agreement, plus offline tests for the speed program's configuration guards and stopping behavior.
 
 - [x] Reconcile all eight classes with 12 learners, three rotating jobs, weekly hands-on builds, four laptops and 4–6 student instructors.
