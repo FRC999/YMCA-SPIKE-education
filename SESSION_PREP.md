@@ -35,6 +35,7 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 ## Week 6 rescue preparation
 
 - [x] Prepared the [full-size rescue field](02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf) and [22-page print packet](02_Student/Printouts/W06_Class_Print_Packet.pdf). The Week 5 lane and strip are reused. The rescue tabs locate the cube start and bay.
+- [x] Updated the [Week 6 slides](03_Presentations/W06_rescue.pptx) and [speaker notes](01_Instructor/Speaker_Notes/W06_rescue_Speaker_Notes.md) with a setup diagram and the pre-class checks for the printed field.
 - [ ] On both kits, fit the plow, recheck the Week 5 threshold, verify a clear run to L with no strip or cube, and confirm a successful M stop with the cube. Mark each bay from a controlled trial and record the kit settings.
 
 ## Current status and decisions

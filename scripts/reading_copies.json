@@ -422,9 +422,9 @@
     },
     {
       "output": "03_Presentations/W06_rescue.pdf",
-      "sha256": "e383d2ff14c4e6cd4ae66501263d9167b6912086cc4f3c8b0d77357802547517",
+      "sha256": "bb793e71978f096bfd3dd111f340fb3f705fd207f3c956274f442c1f0d05e550",
       "sources": {
-        "03_Presentations/W06_rescue.pptx": "ad62a2a646cdaca9a24c905a2e1bc2e099bd3c459b9e3cf0b5e049e229de38dd"
+        "03_Presentations/W06_rescue.pptx": "21830b3809916304e313068a85830b728ec79461be6694fbc9eee7ce69b3eba3"
       }
     },
     {
@@ -496,9 +496,12 @@
     },
     {
       "output": "03_Presentations/W06_rescue.pptx",
-      "sha256": "ad62a2a646cdaca9a24c905a2e1bc2e099bd3c459b9e3cf0b5e049e229de38dd",
+      "sha256": "21830b3809916304e313068a85830b728ec79461be6694fbc9eee7ce69b3eba3",
       "sources": {
-        "01_Instructor/Speaker_Notes/W06_rescue_Speaker_Notes.docx": "458a39b250c96c0c2196178f9e93ba9c31e28db2cea4f0dfb5f96c24a20d38b7"
+        "01_Instructor/Speaker_Notes/W06_rescue_Speaker_Notes.docx": "30f2dabfee14603da2f8194ca6cf4174bc9e4409c60bc0e796c7036227f71450",
+        "02_Student/Printouts/W06_Class_Print_Packet.pdf": "11d7a9f2f0f93165cf88320a7ea137e5a5af9c6d037c5f8db4e94932c6d948e6",
+        "02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf": "c57929340e0fd22070773d45c54a73419aff935a014cfd5b6cb6055cc07299d6",
+        "04_Python/W06_rescue.py": "41331de40bd6e0becfe6f73aaa613c2338819a112cea2a92dfa214e0f9da6417"
       }
     },
     {

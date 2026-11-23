@@ -20,6 +20,8 @@ Run `python scripts/build_w04_w05_print_packets.py` with ReportLab and pypdf to 
 
 Run `python scripts/build_w06_rescue_prints.py` with ReportLab and pypdf to build the field, the one-page checklist and the 22-page packet. The field includes the unchanged Week 5 lane tiles and dark strip. Check the six-page field set, the movable start and bay tabs, the one-page checklist and the packet's two complete fields before recording the hashes.
 
+The six-slide `W06_rescue` deck shows cube-start and bay-tab placement on slide 2. Keep the deck and embedded notes aligned with the current packet order, the standalone field and the existing marker code. Edit the notes DOCX first and synchronize its Markdown copy.
+
 ## Week 3 cone pusher revision
 
 Run `python scripts/build_w03_dance_field.py` with ReportLab to regenerate the field for the original Week 3 program. Check the playfield and movable markers at actual size, and verify the PDF sequence still matches the original class program.

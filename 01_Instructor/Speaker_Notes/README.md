@@ -13,7 +13,7 @@ Each class has a separate Word document for printing and a matching Markdown cop
 | 3 | Robot dance studio | [Markdown](W03_dance_Speaker_Notes.md) | [Word](W03_dance_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W03_dance.pptx) |
 | 4 | Cone challenge rematch | [Markdown](W04_cone_rematch_Speaker_Notes.md) | [Word](W04_cone_rematch_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W04_cone_rematch.pptx) |
 | 5 | Stop at the delivery strip | [Markdown](W05_marker_Speaker_Notes.md) | [Word](W05_marker_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W05_marker.pptx) |
-| 6 | A rescue attachment | [Markdown](W06_rescue_Speaker_Notes.md) | [Word](W06_rescue_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W06_rescue.pptx) |
+| 6 | Rescue the supply cube | [Markdown](W06_rescue_Speaker_Notes.md) | [Word](W06_rescue_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W06_rescue.pptx) |
 | 7 | Community robot mission | [Markdown](W07_mission_Speaker_Notes.md) | [Word](W07_mission_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_mission.pptx) |
 | 8 | Robot showcase | [Markdown](W08_showcase_Speaker_Notes.md) | [Word](W08_showcase_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W08_showcase.pptx) |
 | 7 option | Timed delivery | [Markdown](W07_speed_trial_Speaker_Notes.md) | [Word](W07_speed_trial_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_speed_trial.pptx) |
