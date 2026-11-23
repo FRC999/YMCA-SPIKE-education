@@ -2,6 +2,15 @@
   "version": 1,
   "copies": [
     {
+      "output": "02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf",
+      "sha256": "beea90bed0ee24353acfb7877529904194e360d9020f9cd1929a61512d752f92",
+      "sources": {
+        "scripts/build_w05_full_size_field.py": "e41780801552eea0869069a82aa7280f121dea686a55d1a1c9ec192b8ec99995",
+        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "04_Python/W05_marker.py": "11272419ebd1cc8757201127d3a8bca59317971de83a3b1e74817f7aff349c5b"
+      }
+    },
+    {
       "output": "02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf",
       "sha256": "d4e933e5836e0f64f04b56db1a2b8c5ccd67d288db0940fe6b795b5b03eabe29",
       "sources": {
