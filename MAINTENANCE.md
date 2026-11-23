@@ -14,6 +14,8 @@ Run `python scripts/build_w05_full_size_field.py` to export the Week 5 lane and 
 
 Run `python scripts/build_w04_w05_setup_checklists.py` with ReportLab to export the one-page setup checklists. Check the print counts and robot rehearsals against the current guides, then review the layout before recording the hashes.
 
+Run `python scripts/build_w04_w05_print_packets.py` with ReportLab and pypdf to assemble the 28-page Week 4 and 16-page Week 5 class packets. Each begins with the mentor checklist and one assembly guide, followed by two sets of full-size field sheets, five team sheets and attendance. Week 4 ends with two cone-template pages. Check page order and dimensions against the source PDFs before recording the hashes.
+
 ## Week 3 cone pusher revision
 
 Run `python scripts/build_w03_dance_field.py` with ReportLab to regenerate the field for the original Week 3 program. Check the playfield and movable markers at actual size, and verify the PDF sequence still matches the original class program.

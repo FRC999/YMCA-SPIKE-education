@@ -28,6 +28,7 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 - [x] Prepared and checked the [full-size Week 5 delivery lane](02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf). Each lane uses three Letter tiles and one separate dark strip page.
 - [x] Aligned the [Week 4 rematch slides](03_Presentations/W04_cone_rematch.pdf) and [Week 5 delivery strip slides](03_Presentations/W05_marker.pdf) with the tiled fields. The matching speaker notes cover setup, demonstration, rotations and retesting.
 - [x] Prepared one-page setup checklists for the [Week 4 rematch](01_Instructor/Class_Preparation/W04_cone_rematch_Setup_Checklist.pdf) and [Week 5 sensor lane](01_Instructor/Class_Preparation/W05_sensor_mission_Setup_Checklist.pdf), with print quantities and separate checks for each robot.
+- [x] Assembled one-print packets for the [Week 4 rematch](02_Student/Printouts/W04_Class_Print_Packet.pdf) and [Week 5 sensor lane](02_Student/Printouts/W05_Class_Print_Packet.pdf). Each includes two full-size fields, setup and assembly instructions, five team sheets and attendance. Week 4 includes two cone-template pages.
 - [ ] Mark two rematch fields. Fit the centered rounded tip and rehearse one cone, the diagonal second approach, and then the third cone on both actual bases. Record the usable field marks and starting values for each kit.
 - [ ] Rehearse the distance demo at 150 and 200 mm. Fit the downward sensors, verify light/dark separation and marker stops on both kits, and record a threshold for each kit to carry forward to Week 6.
 

@@ -6,8 +6,8 @@ This repository is **public for reading**. Anyone can open or download these mat
 
 ## Prepare and practice
 
-- **Session 4:** [One-page mentor setup checklist](01_Instructor/Class_Preparation/W04_cone_rematch_Setup_Checklist.pdf) · [Cone rematch mentor guide](01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md) · [Full-size 60 × 60 cm field, nine Letter tiles](02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf) · [Field map and team card](02_Student/Printouts/W04_Cone_Rematch.pdf) · [SPIKE Python project](04_Python/W04_cone_rematch.py).
-- **Session 5:** [One-page mentor setup checklist](01_Instructor/Class_Preparation/W05_sensor_mission_Setup_Checklist.pdf) · [Distance demo and floor-marker setup](01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md) · [Full-size 24 × 60 cm lane and movable strip](02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf) · [Team mission card](02_Student/Printouts/W05_Sensor_Mission.pdf).
+- **Session 4:** [28-page class print packet](02_Student/Printouts/W04_Class_Print_Packet.pdf) · [Cone rematch mentor guide](01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md) · [Individual field tiles](02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf) · [SPIKE Python project](04_Python/W04_cone_rematch.py).
+- **Session 5:** [16-page class print packet](02_Student/Printouts/W05_Class_Print_Packet.pdf) · [Distance demo and floor-marker setup](01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md) · [Individual lane tiles and strip](02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf).
 
 - **Session 3:** [Printable paper cones](02_Student/Printouts/W03_Paper_Cone_Template.pdf) and [class checklist](01_Instructor/Class_Preparation/W03_dance_Checklist.md). Run the three-cone demo with the [original Week 3 program and matching playfield](02_Student/Printouts/W03_Dance_Three_Cone_Field.pdf). See the [centered pusher assembly picture](02_Student/Printouts/W03_Centered_LEGO_Pusher.png) for the base attachment and page 2 of the matching playfield for the round tip.
 
