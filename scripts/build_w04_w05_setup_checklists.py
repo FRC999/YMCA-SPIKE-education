@@ -132,7 +132,7 @@ def week5(canvas):
     y = item(canvas, y, 'Cut out the 24 x 6 cm strip. Set its near edge at 25 cm on B and tape only its '
              'ends. Keep the center blank and leave clear floor beyond C. Use 20 cm for the retest.')
     y = item(canvas, y, 'Wall demo on one kit: sensor C faces a broad wall from about 30 cm. Run '
-             'W04_parking.py at 150 and 200 mm. Confirm 200 stops farther away. Reload the marker project.')
+             'W05_distance_demo.py at 150 and 200 mm. Confirm 200 stops farther away. Reload the marker project.')
     y = section(canvas, '3  Rehearse on both robots', y - 1)
     y = checks(canvas, y - 1, [
         'Load W05_marker.py. Verify A left, B right, hub pairing, forward motion and Stop.',

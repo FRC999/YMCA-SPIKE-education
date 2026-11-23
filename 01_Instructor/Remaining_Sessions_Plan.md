@@ -2,7 +2,7 @@
 
 Alex reported that the October 27 first session went very well, the children stayed engaged, the group seemed more advanced than expected, and the activities fitted the hour. Keep the eight-session sequence and successful rotation schedule. Offer more reasoning and code ownership as teams become ready; do not make longer programs the measure of progress.
 
-After Week 3, teach the cone rematch in Week 4, combine the distance demonstration and floor-marker mission in Week 5, then use the measured threshold in the Week 6 rescue mission. Choose the original community mission or timed delivery for Week 7. Use Week 8 to demonstrate the team's tested result.
+After Week 3, teach the cone rematch in Week 4, combine the distance demonstration and floor-marker mission in Week 5, then use the measured threshold in the Week 6 rescue mission. Teach timed delivery in Week 7 and showcase the saved projects in Week 8. The community mission is an alternate lesson if the timed course cannot be rehearsed.
 
 ## The remaining sequence
 
@@ -15,7 +15,7 @@ Each linked notes document supplies the teaching script, questions, expected rea
 | [4 Cone rematch](Speaker_Notes/W04_cone_rematch_Speaker_Notes.md) | Diagnose a miss and tune one drive or turn value in the Week 3 loop | Test a low centered pusher and get one cone home | Add the diagonal second approach, then the third cone |
 | [5 Delivery strip](Speaker_Notes/W05_marker_Speaker_Notes.md) | Watch a distance demo, then measure reflection and choose a threshold to stop at a marker | Build and test a flat lane with a dark strip and side bay | Move the strip and predict where the robot will stop |
 | [6 Rescue](Speaker_Notes/W06_rescue_Speaker_Notes.md) | Call `deliver()` and distinguish sensor success from payload success | Passive scoop/guide; compare a flat edge with side guides | Sketch the function's sequence, then explain what each action contributes. Compare three trials per design if time permits. |
-| [7 Timed delivery option](Speaker_Notes/W07_speed_trial_Speaker_Notes.md) | Pass a speed into `sprint(speed)`; compare repeated runs over a fixed distance | Removable cargo cradle; compare its delivery reliability with a mentor tray | Compare 200 and a rehearsed 300 wheel degrees/s. Try 400 only if already approved and time remains. Optional average speed is distance/time. |
+| [7 Timed delivery](Speaker_Notes/W07_speed_trial_Speaker_Notes.md) | Pass a speed into `sprint(speed)`; compare repeated runs over a fixed distance | Removable cargo cradle; compare its delivery reliability with a mentor tray | Compare 200 and a rehearsed 300 wheel degrees/s. Try 400 only if already approved and time remains. Optional average speed is distance/time. |
 | [8 Showcase](Speaker_Notes/W08_showcase_Speaker_Notes.md) | Reopen the saved Week 7 project; each child explains one choice and one result | Repair the exhibit and add a sign showing the job and evidence | Explain a limitation and a next experiment. For timed delivery, show successful trials and mean time; do not introduce a new speed on showcase day. |
 
 ## Use readiness to choose the stretch
@@ -41,7 +41,7 @@ Week 8 keeps its separate schedule: 0–7 individual final check; 7–12 briefin
 
 ## Timed delivery materials and rules
 
-Use the [speed checklist](Class_Preparation/W07_speed_trial_Checklist.md), [slides](../03_Presentations/W07_speed_trial.pptx), [slide PDF](../03_Presentations/W07_speed_trial.pdf), [speaker notes](Speaker_Notes/W07_speed_trial_Speaker_Notes.md), [build card](../02_Student/Printouts/W07_speed_trial_Build_Card.md), [trial sheet](../02_Student/Printouts/W07_speed_trial_Team_Sheet.md) and [full program](../04_Python/W07_speed_trial.py). Use these in place of the original Week 7 student materials. The workbook's original mission page is for the original route.
+Use the [class print packet](../02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf), [speed checklist](Class_Preparation/W07_speed_trial_Checklist.md), [slides](../03_Presentations/W07_speed_trial.pptx), [speaker notes](Speaker_Notes/W07_speed_trial_Speaker_Notes.md) and [full program](../04_Python/W07_speed_trial.py). The workbook introduces the timed task. The packet has the full trial sheet for comparing speed and cradle sets.
 
 This is the fastest **reliable delivery within the classroom rules**, not a test of the motor's maximum possible speed. Keep the chassis, motors and wheels assembled. Children improve a removable cradle and select an approved speed. The cargo is one lightweight cube. Do not add gearing or extra motors during this hour.
 
@@ -51,8 +51,8 @@ Start with the same mentor tray for each team's first robot turn. Record three r
 
 Keep failed attempts visible. A setting is ready for the showcase only after three successful trials out of three. Compare mean time only for a complete successful set at one unchanged setting; close stopwatch times are a tie worth retesting. Favor within-team improvement on the same kit. Different batteries, motors, floors and human timing make cross-kit hundredths-of-a-second rankings unjustified.
 
-For Week 8, reload the actual saved speed project rather than the marker fallback. Use the speed lesson's lane, stop check and cargo setup. Each team presents its user/job, one code choice, one build change and its actual results within the existing four minutes. The showcase build table repairs the saved cradle and adds a results sign. If the run fails, use the trial sheet to explain what happened. The original Week 8 sensor example applies only to teams demonstrating a sensor mission.
+Use the [Week 8 print packet](../02_Student/Printouts/W08_Class_Print_Packet.pdf) and [showcase deck](../03_Presentations/W08_showcase.pptx). Reuse the Week 7 lanes and open each tested, saved project on the same kit. Each four-minute slot gives 45 seconds to explain, 75 seconds to run and report, one minute to answer a question and one minute to reset. If the run fails, use the trial sheet to explain what happened and name one next test.
 
 ## What is prepared and what still needs rehearsal
 
-The repository has complete material sets for sessions 2–8, plus the optional speed set. Their presence and embedded-note agreement can be checked with `python scripts/check_lesson_materials.py`. Document and PDF synchronization use the existing checkers. These checks do not establish physical readiness. Keep actual dates, later sensor results, speed approvals and room fit open until confirmed.
+The repository has complete sets for sessions 2–8 and the alternate Week 7 mission. Check embedded-note agreement with `python scripts/check_lesson_materials.py`. Keep actual dates, sensor results, speed approvals and room fit open until confirmed on site.

@@ -35,7 +35,7 @@ Keep the DOCX and generated Markdown versions in sync using the repository scrip
 
 ## What the new chat should learn
 
-- The curriculum is accepted; Alex reported a successful first session on October 27. The current phase is preparing sessions 2–8 using the remaining-sessions plan, including an optional Week 7 timed delivery challenge.
+- The curriculum is accepted. Alex reported a successful first session on October 27. The remaining-sessions plan includes the Week 4 cone rematch, Week 5 delivery strip, Week 6 rescue, Week 7 timed delivery and Week 8 showcase with saved projects.
 - The two teaching SPIKE bases should be assembled before the first class. They use the existing complete SPIKE App 3 Python starters.
 - The selected separate EV3 demonstration is autonomous R3PTAR, with movement and a sensor-triggered strike/retreat sequence.
 - The two-hour trainer session starts with assembly and testing and includes individual teaching practice.

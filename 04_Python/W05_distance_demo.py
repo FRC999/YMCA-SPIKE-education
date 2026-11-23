@@ -1,4 +1,4 @@
-# MechaRAMS YMCA pilot | SPIKE App 3 Python
+# MechaRAMS YMCA | Week 5 distance-to-wall demonstration | SPIKE App 3 Python
 # Original teaching scaffold, October 2026. Bench-test on both actual kits.
 # Paste this ENTIRE file into one SPIKE Prime Python project.
 # This is not desktop Python, SPIKE Legacy, or Pybricks.

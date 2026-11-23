@@ -4,9 +4,9 @@ Updated November 22, 2026. This file tracks repository maintenance and reusable 
 
 ## Week 4 and 5 class sequence
 
-Use the six-slide `W04_cone_rematch` and `W05_marker` decks with their matching speaker-note DOCX sources. Re-export the slide PDFs, keep all six notes sections plus setup embedded in each PPTX, synchronize the Markdown companions, and verify the print sizes and field references against the two tiled field PDFs. The earlier `W04_parking` deck remains a reference for the Week 5 demonstration.
+Use the six-slide `W04_cone_rematch` and `W05_marker` decks with their matching speaker-note DOCX sources. Re-export the slide PDFs, keep all six notes sections plus setup embedded in each PPTX, synchronize the Markdown companions, and verify the print sizes and field references against the two tiled field PDFs. Use `W05_distance_demo.py` for the Week 5 wall demonstration.
 
-The active lessons are the standalone cone rematch and sensor mission guides in `01_Instructor/Class_Preparation/`. The original parking lesson is retained as the source for the Week 5 opening demo. Regenerate both printouts with `python scripts/build_w04_w05_mission_prints.py` (ReportLab). The rematch field geometry reads the Week 4 Python starter route. Review all four pages before recording the PDF hashes.
+The active lessons are the cone rematch and sensor mission guides in `01_Instructor/Class_Preparation/`. Regenerate both printouts with `python scripts/build_w04_w05_mission_prints.py` (ReportLab). The rematch field geometry reads the Week 4 Python starter route. Review all four pages before recording the PDF hashes.
 
 Run `python scripts/build_w04_full_size_field.py` to export the full-size 60 × 60 cm field from the same geometry. Review the assembly guide and all nine 20 cm squares, then verify the joins before recording its PDF hash.
 
@@ -30,7 +30,11 @@ The six-slide `W07_speed_trial` deck teaches course setup and calibration on sli
 
 ## Week 8 timed showcase packet
 
-Run `python scripts/build_w08_showcase_prints.py` with ReportLab and pypdf. It generates the one-page Week 8 checklist, one-page timed showcase team sheet and 58-page packet. Verify both sets of unchanged Week 7 tiles, the five team sheets, four build cards, 14 final checks and attendance. Keep the original workbook team sheet available for sensor missions.
+Run `python scripts/build_w08_showcase_prints.py` with ReportLab and pypdf. It generates the one-page Week 8 checklist, one-page timed showcase team sheet and 58-page packet. Verify both Week 7 tile sets, five team sheets, four build cards, 14 final checks and attendance. Week 8 slide 4 and the speaker notes carry the four-minute schedule.
+
+## Workbook and daily printouts
+
+Keep the current Week 4–8 lessons in the workbook, instructor guide, proposal and weekly indexes. The student workbook's page 8 is the rescue team sheet and page 11 is the final concept check. Re-extract those pages after an edit and rebuild the Weeks 6 and 8 class packets. Keep the Week 5 marker question and the corresponding instructor key in agreement. The alternate Week 7 community mission's standalone sheet is a retained reference separate from the current workbook.
 
 ## Week 3 cone pusher revision
 

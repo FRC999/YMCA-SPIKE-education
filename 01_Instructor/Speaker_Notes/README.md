@@ -1,8 +1,8 @@
 # Speaker notes for all eight classes
 
-For full-size field printing and rehearsal, use the [cone rematch mentor guide](../Class_Preparation/W04_cone_rematch_Guide.md) and [delivery strip mentor guide](../Class_Preparation/W05_sensor_mission_Guide.md). The notes below follow the updated slides and are embedded in Presenter View. The parking notes are a reference for Week 5's opening demo.
+For full-size field printing and rehearsal, use the [cone rematch mentor guide](../Class_Preparation/W04_cone_rematch_Guide.md) and [delivery strip mentor guide](../Class_Preparation/W05_sensor_mission_Guide.md). The notes below follow the updated slides and are embedded in Presenter View.
 
-For the post-session-1 plan and optional extensions, read [sessions 2–8](../Remaining_Sessions_Plan.md). The core sequence remains eight classes; the timed delivery lesson below is an alternative for Week 7.
+For the current sequence and extensions, read the [plan for sessions 2–8](../Remaining_Sessions_Plan.md).
 
 Each class has a separate Word document for printing and a matching Markdown copy for reading on GitHub. Each contains a preparation page and notes for every slide (15 for Week 2, seven for Week 3, six for other lessons): timing, suggested words, actions, questions and expected answers, three-role team rotations, troubleshooting, evidence and cleanup. Leave activity slides visible while students work. Week 2 also has [printable PDF notes](W02_delivery_Speaker_Notes.pdf).
 
@@ -14,10 +14,9 @@ Each class has a separate Word document for printing and a matching Markdown cop
 | 4 | Cone challenge rematch | [Markdown](W04_cone_rematch_Speaker_Notes.md) | [Word](W04_cone_rematch_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W04_cone_rematch.pptx) |
 | 5 | Stop at the delivery strip | [Markdown](W05_marker_Speaker_Notes.md) | [Word](W05_marker_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W05_marker.pptx) |
 | 6 | Rescue the supply cube | [Markdown](W06_rescue_Speaker_Notes.md) | [Word](W06_rescue_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W06_rescue.pptx) |
-| 7 | Community robot mission | [Markdown](W07_mission_Speaker_Notes.md) | [Word](W07_mission_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_mission.pptx) |
+| 7 | Timed delivery | [Markdown](W07_speed_trial_Speaker_Notes.md) | [Word](W07_speed_trial_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_speed_trial.pptx) |
 | 8 | Robot showcase | [Markdown](W08_showcase_Speaker_Notes.md) | [Word](W08_showcase_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W08_showcase.pptx) |
-| 7 option | Timed delivery | [Markdown](W07_speed_trial_Speaker_Notes.md) | [Word](W07_speed_trial_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_speed_trial.pptx) |
-| Demo reference | Parking assistant | [Markdown](W04_parking_Speaker_Notes.md) | [Word](W04_parking_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W04_parking.pptx) |
+| 7 alternate | Community robot mission | [Markdown](W07_mission_Speaker_Notes.md) | [Word](W07_mission_Speaker_Notes.docx) | [PowerPoint](../../03_Presentations/W07_mission.pptx) |
 
 The timed delivery notes include the print packet page ranges, both-kit calibration, a stopwatch demonstration and the Week 8 handoff. Use the saved timed delivery project and trial record for the showcase. The preparation and slide sections are embedded in the corresponding PowerPoint decks. Run `scripts/check_lesson_materials.py` to check agreement.
 

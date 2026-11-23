@@ -6,9 +6,13 @@ Last reviewed: November 22, 2026. This is a curated handoff of the project’s d
 
 Alex reported that the students enjoyed trying the Week 3 cone exercise and did not quite complete it. The approved Week 4 rematch starts with one cone and uses a 60 × 60 cm example layout for up to three, including the diagonal second approach. Students change one drive or turn value or one pusher feature per comparison. Week 5 opens with the distance-to-wall demonstration and gives all teams hands-on floor-marker calibration and testing. Use the [Week 4 mentor guide](01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md) and [Week 5 mentor guide](01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md). Both revisions require a physical rehearsal.
 
+Week 4 has one lesson package, the cone rematch. The short wall demonstration is part of Week 5 and uses [W05_distance_demo.py](04_Python/W05_distance_demo.py). Use the Week 5 packet and mission card for team work.
+
 ## Week 8 timed showcase
 
 The [showcase packet](02_Student/Printouts/W08_Class_Print_Packet.pdf) includes two copies of the full-size Week 7 course. Reuse the assembled courses when available. Open each team's saved Week 7 project with its tested robot, tray and settings. The [mentor checklist](01_Instructor/Class_Preparation/W08_showcase_Checklist.md) lists packet page ranges, rehearsal steps and the fallback for a failed demonstration. Course condition and access to the teams' saved projects still need confirmation.
+
+The [showcase deck](03_Presentations/W08_showcase.pptx) teaches the four-minute slot and the stopwatch cues. The workbook, instructor guide and program overview follow the same Week 4–8 sequence. The Week 8 concept check uses the Week 5 floor-marker rule.
 
 ## Current Week 3 attachment revision
 
@@ -40,8 +44,8 @@ The curriculum was originally prepared as a proposal and Alex reported it accept
 - Confirmed October 25: 12 children in four teams of three, two teams per kit, 4–6 student instructors and an adult lead. Four laptops are available; bring two for robot control and two for build references. Dates and local assignments remain open.
 - Alex confirmed the first class is October 27, 2026 ("today"). The original proposal's October 21 start is superseded; later dates remain unconfirmed. Use the [complete readiness guide](01_Instructor/Class_Preparation/W01_Readiness_Guide.md) and its four-page PDF; the linked 16-page class packet contains exact copy quantities.
 - Start with scaffolded real Python in SPIKE App 3. Students edit a small `student_recipe` in a complete supplied program. This is not drag-and-drop Python, desktop Python, Pybricks, or the older `from spike import PrimeHub` API. A mentor-tested Word Blocks fallback can preserve the learning goal.
-- Weeks: signals and sequence; delivery and calibration; dance and loops; cone rematch; distance demonstration and dark-marker sensing; rescue attachment and functions; chosen community mission; showcase and reflection.
-- Offer extensions when teams are ready. The [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) includes an optional Week 7 timed delivery challenge with a fixed 60 cm course, removable cargo cradle, repeated stopwatch trials and controlled speed/design comparisons. Choose it in place of the community mission if physically rehearsed. Week 8 uses the saved result.
+- Weeks: signals and sequence; delivery and calibration; dance and loops; cone rematch; distance demonstration and dark-marker sensing; rescue attachment and functions; timed delivery; showcase and reflection.
+- Offer extensions when teams are ready. Week 7 uses a fixed 60 cm timed section, removable cradle and repeated trials. The community mission remains a rehearsed alternate. Use the [remaining-sessions plan](01_Instructor/Remaining_Sessions_Plan.md) and save each team's tested result for Week 8.
 - Keep both official practice driving bases assembled. Use the same base throughout the course; students build removable attachments or course models every week.
 
 ## Hardware and programming decisions
@@ -104,7 +108,7 @@ Alex explicitly requested GitHub sync after all project changes, Markdown copies
 
 1. Prepare and rehearse Week 2 delivery and its cargo-tray build on both kits. Use the existing checklist and notes, with optional stretches from the remaining-sessions plan.
 2. Record actual kit issues or acceptance results as reported. First-session success does not establish later sensor calibration, full inventory or unreported EV3 behavior.
-3. Rehearse the later sensor lessons in advance. For the optional Week 7 speed lesson, confirm floor space and calibrate each kit's fixed travel and approved speeds. Its shipped program refuses motion until the mentor configures travel.
+3. Rehearse the later sensor lessons in advance. For Week 7 timed delivery, confirm floor space and calibrate each kit's fixed travel and approved speeds. Its shipped program refuses motion until the mentor configures travel.
 4. Confirm later class dates and mentor assignments locally. Enrollment, age group, available mentors and four laptops are settled. Preserve the successful hour and three-role rotations.
 
 Do not repeat settled design questions or redesign the course merely because this is a new chat. If the user gives a different immediate task, follow it and preserve these decisions unless explicitly changed.

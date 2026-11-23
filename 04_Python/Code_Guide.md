@@ -27,7 +27,7 @@ Support code limits drive to 0–1080 wheel degrees, pivots to -360–360 wheel 
 
 ## Offline checks and local rehearsal
 
-The optional [Week 7 timed delivery program](W07_speed_trial.py) uses a separate `sprint(speed)` helper. Its mentor-calibrated travel accepts 1–1440 wheel degrees; the supplied zero blocks movement until configured. Approved speeds are selected from 200, 300 and 400 wheel degrees/s after physical rehearsal. One start makes one finite move. There is no automatic repeated run, finish-line sensing or built-in crossing timer. Use the [speed checklist](../01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md) for calibration and stopwatch timing. The original programs and their limits above are unchanged. For a speed showcase, reopen the saved team speed project rather than the marker fallback in W08_showcase.py.
+The [Week 7 timed delivery program](W07_speed_trial.py) uses `sprint(speed)`. Its mentor-calibrated travel accepts 1–1440 wheel degrees. The supplied zero blocks movement until configured. Approve speeds from 200, 300 and 400 wheel degrees/s after physical rehearsal. Each start makes one finite move. Use the [speed checklist](../01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md) for calibration and manual stopwatch timing. Reopen each team's saved project in Week 8.
 
 The package checks Python syntax, loop counts, sensor threshold boundaries, invalid distance readings, movement limits, and stopping on a simulated sensor exception with mock modules. These checks do not emulate motors, sensor noise, battery state, firmware, mounting, geometry, or real floor behavior. Complete the hardware acceptance record in the instructor guide.
 
@@ -70,18 +70,20 @@ Attach the team's pusher to the stopped robot and put the cone inside its guide.
 
 Record complete drive-and-turn repeats before a tip, escape or loose mount (0–3). Stop for a failure and reset only once stopped. Keep SPEED = 200. Mentors rehearse the swept area and may approve a smaller positive turn on both kits; a wheel turn value is not a heading angle. Preserve turns. Compare one build change with the same cone, start, surface, speed and approved recipe. A hand test alone does not complete the task: each team must fit and test its attachment on the robot.
 
-### Week 4: Parking assistant
+### Week 4: Cone challenge rematch
 
 ```python
-stop_mm = 150
-gap = distance_sensor.distance(port.C)
-if 0 <= gap <= stop_mm:
-    await signal("P")
+for forward_deg, right_deg in route:
+    await drive(forward_deg)
+    await turn(right_deg)
+await signal("D")
 ```
 
-At a 150 mm threshold, classify 220, 150, 90, and -1. Which readings mean near? Which means check the sensor?
+In [W04_cone_rematch.py](W04_cone_rematch.py), each route row supplies the forward move and the following turn in wheel degrees. Start with Cone 1. Which number changes how far the pusher reaches? Which earlier turn changes the heading toward Cone 2?
 
-### Week 5: The floor tells the robot
+### Week 5: Stop at the delivery strip
+
+For the short wall demonstration, use [W05_distance_demo.py](W05_distance_demo.py). Compare 150 and 200 mm from the same start. The floor-marker activity uses [W05_marker.py](W05_marker.py) and a separate reflection threshold.
 
 ```python
 threshold = 40
@@ -92,7 +94,7 @@ if reading < threshold:
 
 If dark reads 12 and light reads 76, is 44 a useful threshold? What happens if the threshold is below both readings?
 
-### Week 6: A rescue attachment
+### Week 6: Rescue the supply cube
 
 ```python
 async def deliver():
@@ -104,29 +106,19 @@ async def deliver():
 await deliver()
 ```
 
-Why might two short side guides keep a cube in front better than one flat beam? How could too much contact slow the robot?
+Reuse the measured Week 5 threshold and recheck it with the guide attached. The marker result tells you what the sensor found. Observe separately whether the whole cube base reached the rescue bay.
 
-### Week 7: Community robot mission
+### Week 7: Timed delivery
 
 ```python
-mission = "marker"
-if mission == "marker":
-    result = await seek_marker(threshold)
-else:
-    result = await park(stop_mm)
-print(result)
+speed = 200
+await sprint(speed)
 ```
 
-Which part of your mission is most likely to fail? What small test could answer that before you run everything?
+Choose an approved speed and keep the kit's calibrated travel fixed. Compare the same tray at different speeds, or compare two trays at the same speed. The [community mission starter](W07_mission.py) is available for the alternate lesson.
 
 ### Week 8: Robot showcase
 
-```python
-await signal("Y")
-result = await seek_marker(threshold)
-print("Our result:", result)
-```
-
-Before the demo, predict the stop reason. What will you explain if the robot stops for a limit instead of detecting its target?
+Open each team's saved Week 7 project on the same kit and course. Ask one student to point to a choice in their actual code. Time a timed-delivery demo from first movement to the chassis mark crossing FINISH. [W08_showcase.py](W08_showcase.py) supplies the marker fallback for a separately rehearsed marker lane.
 
 Sources: official SPIKE App Python help, LEGO Cart Control, and the Tufts CEEO SPIKE 3 documentation archive. See the research source list for links. The short programs and helper layer are original teaching materials.

@@ -47,6 +47,7 @@ This Markdown file is the preparation record. Follow the [browser editing and cl
 ## Week 8 showcase preparation
 
 - [x] Prepared the [58-page timed showcase packet](02_Student/Printouts/W08_Class_Print_Packet.pdf) with a mentor checklist, two Week 7 courses, five timed showcase team sheets, four build cards, 14 individual checks and attendance. Reuse the assembled courses if ready.
+- [x] Updated the [showcase slides](03_Presentations/W08_showcase.pptx), [notes](01_Instructor/Speaker_Notes/W08_showcase_Speaker_Notes.md), workbook, instructor guide and weekly materials indexes. The final concept check and answer key use the floor-marker decision.
 - [ ] Confirm access to each team's saved Week 7 project and trial evidence. Rehearse its selected configuration on the assigned kit and actual lane. Verify the stopwatch cues, cargo retention and stopping in the runout.
 
 ## Current status and decisions

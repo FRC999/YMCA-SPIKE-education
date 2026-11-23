@@ -11,9 +11,8 @@ from zipfile import ZipFile
 ROOT = Path(__file__).resolve().parents[1]
 W = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
 A = '{http://schemas.openxmlformats.org/drawingml/2006/main}'
-LESSONS = ['W01_signal', 'W02_delivery', 'W03_dance', 'W04_cone_rematch', 'W04_parking',
-           'W05_marker', 'W06_rescue', 'W07_mission', 'W08_showcase',
-           'W07_speed_trial']
+LESSONS = ['W01_signal', 'W02_delivery', 'W03_dance', 'W04_cone_rematch',
+           'W05_marker', 'W06_rescue', 'W07_speed_trial', 'W08_showcase', 'W07_mission']
 
 
 def norm(text):
@@ -30,17 +29,24 @@ def check():
         if name == 'W04_cone_rematch':
             files += ['02_Student/Printouts/W04_Cone_Rematch.pdf',
                       '02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf',
+                      '02_Student/Printouts/W04_Class_Print_Packet.pdf',
                       '01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md']
         elif name == 'W05_marker':
             files += ['02_Student/Printouts/W05_Sensor_Mission.pdf',
                       '02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf',
+                      '02_Student/Printouts/W05_Class_Print_Packet.pdf',
+                      '04_Python/W05_distance_demo.py',
                       '01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md']
         else:
             files += [f'02_Student/Printouts/{name}_Build_Card.{ext}'
                       for ext in ('md', 'pdf')]
             files += [f'01_Instructor/Class_Preparation/{name}_Checklist.{ext}'
                       for ext in ('md', 'pdf')]
-            files.append(f'02_Student/Printouts/{name}_Team_Sheet.pdf')
+            if name == 'W08_showcase':
+                files += ['02_Student/Printouts/W08_showcase_Timed_Team_Sheet.pdf',
+                          '02_Student/Printouts/W08_Class_Print_Packet.pdf']
+            else:
+                files.append(f'02_Student/Printouts/{name}_Team_Sheet.pdf')
         missing = [f for f in files if not (ROOT/f).is_file()]
         if missing:
             errors.extend('Missing: '+f for f in missing)
