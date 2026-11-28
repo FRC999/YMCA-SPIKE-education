@@ -94,6 +94,8 @@ if reading < threshold:
 
 If dark reads 12 and light reads 76, is 44 a useful threshold? What happens if the threshold is below both readings?
 
+Use the same marker program for the baseline and the loaded tipping-tray trial. It stops the drive at the strip. For the core delivery, tip the tray by hand after a full stop. For the stretch, a side lever and ramp tip the tray as the robot reaches the bay.
+
 ### Week 6: Rescue the supply cube
 
 ```python

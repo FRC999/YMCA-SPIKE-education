@@ -47,9 +47,8 @@ def instructions(canvas):
          'Cut the two long sides on their dashed lines. Butt the cut edges together, '
          'match the paired ticks and tape the seams from behind. Tape the lane flat.'),
         ('3  Place the strip and start the robot',
-         'Cut out the strip and put its near edge at the 25 cm marks on B. Secure only '
-         'the ends with low-tack tape so teams can move it to 20 cm for a retest. Center the '
-         'downward sensor between the START marks on A and face toward C.'),
+         'Cut out the strip and tape its ends at the 25 cm marks on B for both baseline and cargo runs. '
+         'Center the sensor between the START marks on A and face C. Mark the bay after a loaded mentor trial.'),
         ('4  Check detection and runout',
          'Measure reflection on the white lane, at the seams and on the dark strip. Use '
          'matte black tape or card if printed black gives weak contrast. Remove the strip '
@@ -134,7 +133,7 @@ def field_tile(canvas, tile):
         lane_sign(canvas, START, 'SENSOR START', 'Center sensor between marks')
     elif tile == 1:
         lane_sign(canvas, START + FIRST_MARK - TILE_LENGTH, '25 CM', 'First strip position')
-        lane_sign(canvas, START + RETEST_MARK - TILE_LENGTH, '20 CM', 'Retest position')
+        lane_sign(canvas, START + RETEST_MARK - TILE_LENGTH, '20 CM', 'Alternate position')
     else:
         text(canvas, LEFT + 1.15 * cm, BOTTOM + 18 * cm, 'RUNOUT', 10, TEAL, True)
         text(canvas, LEFT + 1.15 * cm, BOTTOM + 17.3 * cm, 'Keep end clear', 8, MUTED)

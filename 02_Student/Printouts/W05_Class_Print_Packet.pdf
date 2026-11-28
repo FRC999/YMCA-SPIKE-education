@@ -119,7 +119,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Length 6349
+/Length 6382
 >>
 stream
 q
@@ -177,127 +177,130 @@ BT 1 0 0 1 55 538 Tm (ticks, tape from behind, and tape the lanes flat.) Tj T* E
 n 36 519 9 9 re S
 .078431 .160784 .223529 rg
 BT /F1 10.1 Tf 12.12 TL ET
-BT 1 0 0 1 55 520 Tm (Cut out the 24 x 6 cm strip. Set its near edge at 25 cm on B and tape only its ends. Keep the center blank and leave) Tj T* ET
-.078431 .160784 .223529 rg
-BT /F1 10.1 Tf 12.12 TL ET
-BT 1 0 0 1 55 507 Tm (clear floor beyond C. Use 20 cm for the retest.) Tj T* ET
+BT 1 0 0 1 55 520 Tm (Tape the 24 x 6 cm strip ends at 25 cm on B. Keep the center path and runout clear.) Tj T* ET
 .078431 .160784 .223529 RG
 .8 w
-n 36 488 9 9 re S
+n 36 501 9 9 re S
 .078431 .160784 .223529 rg
 BT /F1 10.1 Tf 12.12 TL ET
-BT 1 0 0 1 55 489 Tm (Wall demo on one kit: sensor C faces a broad wall from about 30 cm. Run W05_distance_demo.py at 150 and 200) Tj T* ET
+BT 1 0 0 1 55 502 Tm (Pack four tipping-tray builds with proxies, two mentor trays and six lightweight cubes.) Tj T* ET
+.078431 .160784 .223529 RG
+.8 w
+n 36 483 9 9 re S
 .078431 .160784 .223529 rg
 BT /F1 10.1 Tf 12.12 TL ET
-BT 1 0 0 1 55 476 Tm (mm. Confirm 200 stops farther away. Reload the marker project.) Tj T* ET
+BT 1 0 0 1 55 484 Tm (Wall demo on one kit: sensor C faces a broad wall from about 30 cm. Run W05_distance_demo.py at 150 and 200) Tj T* ET
+.078431 .160784 .223529 rg
+BT /F1 10.1 Tf 12.12 TL ET
+BT 1 0 0 1 55 471 Tm (mm. Confirm 200 stops farther away. Reload the marker project.) Tj T* ET
 .082353 .4 .372549 rg
 BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 36 457 Tm (3  Rehearse on both robots) Tj T* ET
+BT 1 0 0 1 36 452 Tm (3  Rehearse on both robots) Tj T* ET
 .917647 .956863 .945098 rg
-n 36 431 540 20 re f*
+n 36 426 540 20 re f*
 .082353 .4 .372549 rg
 BT /F2 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 44 437 Tm (Check after a pass on the actual floor) Tj T* ET
+BT 1 0 0 1 44 432 Tm (Check after a pass on the actual floor) Tj T* ET
 .082353 .4 .372549 rg
 BT /F2 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 495.9183 437 Tm (Kit A) Tj T* ET
+BT 1 0 0 1 495.9183 432 Tm (Kit A) Tj T* ET
 .082353 .4 .372549 rg
 BT /F2 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 541.9182 437 Tm (Kit B) Tj T* ET
+BT 1 0 0 1 541.9182 432 Tm (Kit B) Tj T* ET
 .078431 .160784 .223529 RG
 .8 w
-n 502.5 414 9 9 re S
+n 502.5 409 9 9 re S
 .078431 .160784 .223529 RG
 .8 w
-n 548.5 414 9 9 re S
+n 548.5 409 9 9 re S
 .078431 .160784 .223529 rg
 BT /F1 9.8 Tf 11.76 TL ET
-BT 1 0 0 1 44 415 Tm (Load W05_marker.py. Verify A left, B right, hub pairing, forward motion and Stop.) Tj T* ET
+BT 1 0 0 1 44 410 Tm (Load W05_marker.py. Verify A left, B right, hub pairing, forward motion and Stop.) Tj T* ET
 .772549 .819608 .843137 RG
 .45 w
-n 36 408 m 576 408 l S
+n 36 403 m 576 403 l S
 .078431 .160784 .223529 RG
 .8 w
-n 502.5 397 9 9 re S
+n 502.5 392 9 9 re S
 .078431 .160784 .223529 RG
 .8 w
-n 548.5 397 9 9 re S
+n 548.5 392 9 9 re S
 .078431 .160784 .223529 rg
 BT /F1 9.8 Tf 11.76 TL ET
-BT 1 0 0 1 44 398 Tm (Center sensor D between START marks facing C. Adjust its height from about 1-2 cm.) Tj T* ET
+BT 1 0 0 1 44 393 Tm (Center sensor D between START marks facing C. Adjust its height from about 1-2 cm.) Tj T* ET
 .772549 .819608 .843137 RG
 .45 w
-n 36 391 m 576 391 l S
+n 36 386 m 576 386 l S
 .078431 .160784 .223529 RG
 .8 w
-n 502.5 380 9 9 re S
+n 502.5 375 9 9 re S
 .078431 .160784 .223529 RG
 .8 w
-n 548.5 380 9 9 re S
+n 548.5 375 9 9 re S
 .078431 .160784 .223529 rg
 BT /F1 9.8 Tf 11.76 TL ET
-BT 1 0 0 1 44 381 Tm (Read white and dark twice each, and check seams. Choose a whole-number threshold above both) Tj T* ET
+BT 1 0 0 1 44 376 Tm (Read white and dark twice each, and check seams. Choose a whole-number threshold above both) Tj T* ET
 .078431 .160784 .223529 rg
 BT /F1 9.8 Tf 11.76 TL ET
-BT 1 0 0 1 44 369 Tm (dark readings and below both light readings.) Tj T* ET
+BT 1 0 0 1 44 364 Tm (dark readings and below both light readings.) Tj T* ET
 .772549 .819608 .843137 RG
 .45 w
-n 36 362 m 576 362 l S
+n 36 357 m 576 357 l S
 .078431 .160784 .223529 RG
 .8 w
-n 502.5 351 9 9 re S
+n 502.5 346 9 9 re S
 .078431 .160784 .223529 RG
 .8 w
-n 548.5 351 9 9 re S
+n 548.5 346 9 9 re S
 .078431 .160784 .223529 rg
 BT /F1 9.8 Tf 11.76 TL ET
-BT 1 0 0 1 44 352 Tm (With the strip at 25 cm, the robot shows M with its sensor over the strip. Try the 20 cm retest.) Tj T* ET
-.772549 .819608 .843137 RG
-.45 w
-n 36 345 m 576 345 l S
-.078431 .160784 .223529 RG
-.8 w
-n 502.5 334 9 9 re S
-.078431 .160784 .223529 RG
-.8 w
-n 548.5 334 9 9 re S
+BT 1 0 0 1 44 347 Tm (Fit a sample tray and run loaded at 25 cm. Verify M over the strip. Tip after the full stop and mark the) Tj T* ET
 .078431 .160784 .223529 rg
 BT /F1 9.8 Tf 11.76 TL ET
-BT 1 0 0 1 44 335 Tm (Remove the strip. Run the full routine through L and confirm there is room for the whole robot to stop.) Tj T* ET
+BT 1 0 0 1 44 335 Tm (bay.) Tj T* ET
 .772549 .819608 .843137 RG
 .45 w
 n 36 328 m 576 328 l S
+.078431 .160784 .223529 RG
+.8 w
+n 502.5 317 9 9 re S
+.078431 .160784 .223529 RG
+.8 w
+n 548.5 317 9 9 re S
+.078431 .160784 .223529 rg
+BT /F1 9.8 Tf 11.76 TL ET
+BT 1 0 0 1 44 318 Tm (Remove the strip. Run the full routine through L and confirm there is room for the whole robot to stop.) Tj T* ET
+.772549 .819608 .843137 RG
+.45 w
+n 36 311 m 576 311 l S
 .082353 .4 .372549 rg
 BT /F2 10 Tf 12 TL ET
-BT 1 0 0 1 36 314 Tm (Saved threshold) Tj T* ET
+BT 1 0 0 1 36 297 Tm (Saved threshold) Tj T* ET
 .078431 .160784 .223529 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 135 314 Tm (Kit A _________________  Kit B _________________) Tj T* ET
+BT 1 0 0 1 135 297 Tm (Kit A _________________  Kit B _________________) Tj T* ET
 .078431 .160784 .223529 RG
 .8 w
-n 36 297 9 9 re S
+n 36 280 9 9 re S
 .078431 .160784 .223529 rg
 BT /F1 10.1 Tf 12.12 TL ET
-BT 1 0 0 1 55 298 Tm (If readings overlap or a seam triggers M, flatten the lane, adjust sensor height or use matte black card. Remeasure) Tj T* ET
-.078431 .160784 .223529 rg
-BT /F1 10.1 Tf 12.12 TL ET
-BT 1 0 0 1 55 285 Tm (and retest.) Tj T* ET
+BT 1 0 0 1 55 281 Tm (Rehearse the stretch ramp by hand before any powered try. Verify it touches only the lever.) Tj T* ET
 .078431 .160784 .223529 RG
 .8 w
-n 36 263 9 9 re S
+n 36 259 9 9 re S
 .078431 .160784 .223529 rg
 BT /F1 10.1 Tf 12.12 TL ET
-BT 1 0 0 1 55 264 Tm (Open W05_marker.pptx in Presenter View. Set two robot stations and two build tables. Assign mentors and confirm) Tj T* ET
+BT 1 0 0 1 55 260 Tm (Open W05_marker.pptx in Presenter View. Set two robot stations and two build tables. Assign mentors and confirm) Tj T* ET
 .078431 .160784 .223529 rg
 BT /F1 10.1 Tf 12.12 TL ET
-BT 1 0 0 1 55 251 Tm (where to stop and reset.) Tj T* ET
+BT 1 0 0 1 55 247 Tm (where to stop and reset.) Tj T* ET
 .082353 .4 .372549 rg
 BT /F2 10 Tf 12 TL ET
-BT 1 0 0 1 36 228 Tm (Notes for the teaching team) Tj T* ET
+BT 1 0 0 1 36 224 Tm (Notes for the teaching team) Tj T* ET
 .772549 .819608 .843137 RG
 .6 w
-n 36 211 m 576 211 l S
-n 36 190 m 576 190 l S
+n 36 207 m 576 207 l S
+n 36 186 m 576 186 l S
 .772549 .819608 .843137 RG
 1 w
 n 36 45 m 576 45 l S
@@ -474,10 +477,10 @@ endobj
 20 0 obj
 <<
 /Filter [ /ASCII85Decode /FlateDecode ]
-/Length 1481
+/Length 1457
 >>
 stream
-Gatm;gMZ%0&:O:SbY*M1O_@2Krb*6gZYe+p[aUt3N(dHWA^R17oql*RR?<XlQd&tY+b='!1=)@EB8.W3+oVfI/9_)X-%,VnJ<7!?K8>-sQBs:0Ne/sO;%`m^"ApM0\,`uUn^A*XIQ.c,raB%IrOu,98VW`$i5_nOoO9p)?S11\9J:"9Mbip^r-^FCj7Qccfl)uM"Nu:&q4Y^Lni.6nLm5V>+;%qOK$'T[UF8Z?7u[jF]lp:Ci%#6e?(90oh4;%3R6@X2Y#hNWZA=4U0g#M,7/W"LkQ)8a&KGEtaO_"q1dkSL:2@@B^npa247K,u/aUtfK)uq.(J%]p=uA?#-'38\#.Z/1&;fJl!9V%T"<9o@@DkSE433TQ>7HM"'-e]5S:!c#3),gG!9drkpg<lMWhD<MlL.9!T_'T?-GKa#V^Df(Wssq1cP*MlC4ejhYql;X2q*jVX0tuS:!?!BrW(Nc\7<$6L&kQRqo#.tVDJfW3pLb.\RI6`^pNI+<pu;P89q&e(>)Re9IjCdq0#(bG)'85-V8bW]#]k!7KWL&;4[4p9E5fZl**Ge5JjsFafufeGRNWLK2uOe)Bgh?AN#g/>O@JT2dM-:[aH["Vq\YE0ilDtFGm^M\k@O[:toU2XUiXf06t`WN4\7ORt`=b%_gu=JZQpOhJP0Q\21E57RhUrauK<]2^JWYTmH9:QZ0?J@I<E!@,<YIhRC'Obpn8*4Wq9Ff!Y'93CriRMQl#S<VBj@4&h_LjZ86g]sW=A-tVisEe<]7n-H_J(#rM3ZuV\,HiHX>UWuc)fLZ&N>op6$D,]?^'55E%NlG.6XQ-imj`Y%k]rfolXTd$/-l)G-qcP.Z.LsQPI?!V#.n4mAHM"jf\GoK=fOJu%%OK\#M[u@Zc!i])0*eB046f,?0oN^,PZoIi*Qh;)lWRg-IIgZOpn]p*8so%n@((h":F$tAPu]J>_<H*u6[#lpT-[H$B+KuXdmfSgICFN=gXPN";s5"_@b]GGFT^*QEi*-*ralUd3XN(AFH@F]:=.$bD5"<G[TBc]>dMJBer%ok<_;$tY7GbM,#_IrS[[`a]6HPY)>AbXh\`#gm%Hm5RDuU6=*p87T%aU_Q8Ors]!cGH4%n`M(WI\(h?/\5olg@gCE]u?c6+Nu1f)MZ7@]#jk9/AX*;V?*-#%t;)&a6J&;LD<#::P,iTW9j\YR:K+[XtjT3,blI8Qg?T;ilkC)VhXN+:YLV`J7do2!uU:lU3/<?dPFp["kSOm;l,pHNOjAI\O7\+a';)&%fCJ,Li\0b0TB.&3lcLdkqQ(*i,`f?hITo<mSsg,DLc2r8Q&4G+JBEfJ;`J'K[]la>`3SWaaVb><tg4$0_9d4'\]87tIC+s%Bd$lf[39<gu$JBAPdbG*j'B6o#S]\[-P1I8j6Ti%98>XXk]=bI[0X.!+">c!c7M:[f4j3qZ:hVrr\M7i&]:AS:O;`kMDYWH5P]Da(L@H01")#X]S%)5O~>
+Gatm;9lo&I&A@C2m%lLT-:%q,q^?1.3j%4a,e9He+VGDb;5=DHU:@tP]-(o?M;pE+N]e9mV"!6TICiU%M"$K&cftKa>Jo3f3H,#b/b"E>YeGk2HGZCC`+]Xi^uAUp8I8ufnP9N@rPK3t_S`n-_nL*pBo\Z&i5_>+r+`g5hQ5Webc_e_X*;_jr-^Aniq6Z:`G^k;"RCPFrG'-kM^7H#GXgS@$%s+]TV<RY3+gk8W,_'!DiO0)\4/cd>5_cqq`!(DI>"_'D1.6hb(T?f_]rPW`6UE(*t_?amc07oGTMu86c=+WP_-L^>V#!%!N0.5i?7k%,_uRe5j#IlAZ+0,JUGh0'tha7,Z8jkYl&(LiB6?1,:O![5b8JC>$/J.(`n%Dknc0KZHP,e!/!rXs!r;V/QhtTqM'*28q6-B`0\9&llmTC\O064RhY]/[6^MEgh:o2S*ihAg/ddCL`)8J+.tPH*>kr@+bSOR:BJrm9(U-"iut<a<uqcJd+8*9WhVB`.G*#7_4-=u]M[59hbGW@k0tmP;3J[=?0"I!,632[;4ZreQiSZ>o5TC0IY;cTag"#4E'7/J#>/#+."oNXV;='>2ThSUl@oY0[S\oZe*JYtbc@OTAPnfCE9YY2[!fD&ejnjC9"t%9[!CTYlAd:::2]"J"0'C$Y2:[50sA]N(`D-m8o=&f:0/,4L?cj06c.s$_Ue@7Oa2l7oA6E8G;Y$G"!G,a[]OX]3Cj8X`E;W3X?p%'*D2r'Ba0Df^ZjRa;2X9]E^Cl'n-&,If$9Gh*k`eG%1RKtUs<A+jc@=ufLW%kXo>ep1qOfWg0$<hj^>$tl?jiN*p>/;\8_C]4^G4_=AD#W/ZCgEE'q<iT%_84OB^F.@KFQ=l3+T`c,c-%QV^f;Nb'0$%p^l?d,/U"<95r+9<k5^R*]j5i9:5eUSL%]B/aS[#0<LN_f7sgo(oWCp];a6rBiqulHIc&L4a)jf&%!u)d@b4(S3NgZ3J!r,9:rpl2bp\o7r%+P'a/(%QgV3%$p2*^]1YRNG=\7G$*Umg6P.(W-e^(CH&QJ\OaU(&o&M)e"9h9Z0nu9i2j3IXr/;*'"M$pP/G;hqb"Bekm6jfq8CkQJVSu&rUD,8--rnC#?I^)OeEf=,`Qc-6*ANnoPsLpZP:G51oc@F%R>GMp?F0"IUQDQbCX^TiLXI+Tc)A3nMjLeGZ;!t@NnB_cTlX8W@m)aN^GZF;cSB:$J[F6SKl\Hh=#jK?-4(>VtU^*jgc`MHi39;pr&PFcBFd(-=WEqnQUUH>?jN/Q_1FGT<3NQ>(5Ef-7a+-OJK(Bjn-m<of'QE]WcIGTkHIO:_(Mjp,tP0BZLGa$Pnks"7T\<%5Z>78!JPH'BJ=FIDjEaVq:t40pihZqS^af9J7bUcWM<!L@D59WsPrWqiS\[Vn:(4Zi8hHqkE(=)7E:-0>g*3%ge")L3!VJ$-a0NOhp*C]>(aU~>
 endstream
 endobj
 21 0 obj
@@ -586,10 +589,10 @@ endobj
 32 0 obj
 <<
 /Filter [ /ASCII85Decode /FlateDecode ]
-/Length 729
+/Length 735
 >>
 stream
-Gau1+:N+]I&B4,;'QXDQ:3UmTn'Okb(,[B]ETs1V"9erdD+PrAobfj]H6#n:"=R1-]Y(n&rp?ipPe<rCs0MheX5W]@J2Gb_J.*?p-W&@4pS)Yu1e-'3b)*_qjb$tC,hH9%C<]dL=FVpV*"B04;&K!],1D##M)4@4[.:&"_5l=j\cN8;:qrQ#E$cC_Cc7oOUW_7cItRSloCr!)&+A`>'Hq>?.dEJPoC>7+JX[P,e(\n,L67]<h:+-,#NKiE=cK*n?W:uMcEA"9Ep13F-3=C/:'LHX;X@h@;4rO``?Y/.<dotB%_W4p_5c+g\#:N+4M[]]&u,bj#Mr2pGYnXT?NsXbjBVp,8SFT]75.7U_uLb`'h9K/'I622la;L7)P`9Y0CsJNj^opM*?Eaa-In:1^N.VGKO%\I>?_qMB,'I1%$@dS#+eM%&TX<_3R*(&5^tT+]7.WmEkU/CB"MA5_t2>h\QqB^jobVlSi.0`H-5(l/VBDc3d@([n)8!HG$usbocN++2Z8=)rUsR]*T_JBbVbmG$bJJ.r)&VA$Unjm-toYICU@me$_=*H&CEJt"HSnO:9q9K?d^^eie:'H;/-7%2-Cg-p7D30bfi#e9XD%KCjsONI)gTjm1?q;0J0ALVobsJa*c5iBtQOpB)cNeB(XLA^tWQ.?=s@TAHo\:47p,_;^M0]g0oc>>L"^4IXc@a2tnY9kY9kgDm(1+]5G/<Bt5%;T7:6fb5~>
+Gau1+:N+]I&B4,;'QXDQ:3UmTn'Okb(:BuUimL35!C9";8Qq9JI!s"0]O$@-+T[Ib3%lq'Sq"@f![TL7h`i[m:22aP,p3Zi(Ee>7l:\)@id9(_NZ'-X@-,=4T^ooQ!Kq6$!4?F>,HSTpD2sA'`[D8-(m/Mkn]2U?2HooS0AtB/<F(-/A#S9k<cB6!jiu'2\f@9ULADk=DjnGujupAPIoD$-6*$r";GYI0eKs#,5^e&f:<"uN18DH"Y2@(*S=WelW5`Hb>a:M2l(B#BYH<Y3JYH(/5,As?R%+oTi(($T+4//K&_NdY_)YWiRe7G=,_e<Q)_Wq7TQoD^["0#nOS`UNeO&+nOHG4)R99ZF'LE5DO\g$SP!_NU'Y.P>(Xa.;'RH1n.k`hK\aA=b*]0j^[/Q>3eg#"K)VWo^kUN>UG@cS`*B3Iu6AprS"Nb?^6im.R$/Y=g:1pX##1f9olkuCef!EWfBpfM01O.VAAE>7qQa@0-k3Lr:[_ITqXkST<nC2r<VqL\Ub5(1>[J[O[4H/^tZ"s'F(OQ`/pk+6L(6I+iC!]n5enE_T(-kHt+eitr#pCt6SRcs-^8,>SkmNp?U=9J(CU,p?m618tR@.uTR:^#ug&.)&q%!.HfHPQSD-C'/As7pe:\p_sdWg,sc0jg]bikh`J[a,%]Zp`2ap`<S[dS@N#>=LP[/CJ?\"$IHr9e$tDsg?Rd$qUXhHnt.G271WdW-uT564fbEV'~>
 endstream
 endobj
 33 0 obj
@@ -722,10 +725,10 @@ endobj
 45 0 obj
 <<
 /Filter [ /ASCII85Decode /FlateDecode ]
-/Length 729
+/Length 735
 >>
 stream
-Gau1+:N+]I&B4,;'QXDQ:3UmTn'Okb(,[B]ETs1V"9erdD+PrAobfj]H6#n:"=R1-]Y(n&rp?ipPe<rCs0MheX5W]@J2Gb_J.*?p-W&@4pS)Yu1e-'3b)*_qjb$tC,hH9%C<]dL=FVpV*"B04;&K!],1D##M)4@4[.:&"_5l=j\cN8;:qrQ#E$cC_Cc7oOUW_7cItRSloCr!)&+A`>'Hq>?.dEJPoC>7+JX[P,e(\n,L67]<h:+-,#NKiE=cK*n?W:uMcEA"9Ep13F-3=C/:'LHX;X@h@;4rO``?Y/.<dotB%_W4p_5c+g\#:N+4M[]]&u,bj#Mr2pGYnXT?NsXbjBVp,8SFT]75.7U_uLb`'h9K/'I622la;L7)P`9Y0CsJNj^opM*?Eaa-In:1^N.VGKO%\I>?_qMB,'I1%$@dS#+eM%&TX<_3R*(&5^tT+]7.WmEkU/CB"MA5_t2>h\QqB^jobVlSi.0`H-5(l/VBDc3d@([n)8!HG$usbocN++2Z8=)rUsR]*T_JBbVbmG$bJJ.r)&VA$Unjm-toYICU@me$_=*H&CEJt"HSnO:9q9K?d^^eie:'H;/-7%2-Cg-p7D30bfi#e9XD%KCjsONI)gTjm1?q;0J0ALVobsJa*c5iBtQOpB)cNeB(XLA^tWQ.?=s@TAHo\:47p,_;^M0]g0oc>>L"^4IXc@a2tnY9kY9kgDm(1+]5G/<Bt5%;T7:6fb5~>
+Gau1+:N+]I&B4,;'QXDQ:3UmTn'Okb(:BuUimL35!C9";8Qq9JI!s"0]O$@-+T[Ib3%lq'Sq"@f![TL7h`i[m:22aP,p3Zi(Ee>7l:\)@id9(_NZ'-X@-,=4T^ooQ!Kq6$!4?F>,HSTpD2sA'`[D8-(m/Mkn]2U?2HooS0AtB/<F(-/A#S9k<cB6!jiu'2\f@9ULADk=DjnGujupAPIoD$-6*$r";GYI0eKs#,5^e&f:<"uN18DH"Y2@(*S=WelW5`Hb>a:M2l(B#BYH<Y3JYH(/5,As?R%+oTi(($T+4//K&_NdY_)YWiRe7G=,_e<Q)_Wq7TQoD^["0#nOS`UNeO&+nOHG4)R99ZF'LE5DO\g$SP!_NU'Y.P>(Xa.;'RH1n.k`hK\aA=b*]0j^[/Q>3eg#"K)VWo^kUN>UG@cS`*B3Iu6AprS"Nb?^6im.R$/Y=g:1pX##1f9olkuCef!EWfBpfM01O.VAAE>7qQa@0-k3Lr:[_ITqXkST<nC2r<VqL\Ub5(1>[J[O[4H/^tZ"s'F(OQ`/pk+6L(6I+iC!]n5enE_T(-kHt+eitr#pCt6SRcs-^8,>SkmNp?U=9J(CU,p?m618tR@.uTR:^#ug&.)&q%!.HfHPQSD-C'/As7pe:\p_sdWg,sc0jg]bikh`J[a,%]Zp`2ap`<S[dS@N#>=LP[/CJ?\"$IHr9e$tDsg?Rd$qUXhHnt.G271WdW-uT564fbEV'~>
 endstream
 endobj
 46 0 obj
@@ -810,10 +813,10 @@ endobj
 53 0 obj
 <<
 /Filter [ /ASCII85Decode /FlateDecode ]
-/Length 1387
+/Length 2037
 >>
 stream
-Gatm;gMZ%0&:N/3b[Yk%d$gc5:CGe?D1]cE@1+LWWLtQk;Bq#&-,n-dGD;>&Vn'BS#E_N@`,fP9>\"$Pr+#Gf2ZQ'TnG+"*`Za(:$iC"1)jk905=r?j"lOtc@NG_&R&t#ik)e;d-[mi-N6?%m=%!V[@p&mu/`sC?l#O@;_.T-@bu[uub;jrWbbfXakC!7ZKHD?6)mYM702;Sb^h46^i,aS7Vk@KcW4;l6Qn5V3X'Y6[p<]-5$<:/Ob1oA9Rqd/)`RB@B"<A^X`58:*`=WKq_5rF/kKfkk.CWuYOq%?^j9#BT^"3/PdOBA+K'=X6N@)^iZ/Dka`FH.H>.]2&5m(Q^X;Y-CX+;<'g#rT"U*-aP)2^RVFTM%V1::rK)'Z^6)"+UDnl?pZVFE$"C0UC>Zn-UGjGqgc<Is^3F6fV&R2at)<jYW0SMm^9I0m22@/XHTCPi(kUE/QI]C/0oT^.h6o`8N7oKW(`)*Me/kV_Ftb&8H,Pr,ekeKajR`DI2!T8$2UTjVRG:==gR>;+nGU_@FS0V2CI7SEN.7>X/R`IjEP;'Pd[&jbrJ'ulr\S#jOkEI9T:(sn<8SJ)8H[3q,WUW!"OHqq3-E_eZFg)2.%i@3bBo$+krgO+B=Kecl+m$YA<a=\G_1n-*R.T*,9H.'A3^ffZP,!;Snf6ZY3LXb?\Z1iDAW^<dAW^A$Cnq?:Ii[h+Iek7]i*&RjS"@\AAPOVBhU8L=??/r<#HHeaWH\;pW28"ru(^9@63IAFQa*o"94G#Du0o7:q<-m`8_A?]'6kAgZ;)*S==q(9Q8cO:t$Gs`!c*<`f=kHX-e/FeYonC'.\t`S`FfDrMf>T&*5Tj=Q(.r`PC8#0E!a6P2@o(`YGhcBQTnq13<3#@?`N$NC@<USZ%aA0#f<r=kJA\%%%F:[t<P.X'F&TL'gPZjoceW[])t+'r_n>B!:t7q`>2g"^_$+Xn>9fVYROEZDJk2DT?chDL.$DKgq1tX^9CIRmfg/V_3^J6<VaTHb'`]c7(?5Ok;2n;%:2mdL;@5/(_`s)0Wk>67_/)FEp6[Cu14&-$EbJlkFRu.sJQJZ3I@*3W]j)(bhpDYql("h9_#,s*aj&9-U6Qk@EC^)kYQbeQhnd0b)ebIP]9<dEWY-Ra+jYnK^93p)^M$sD.'RO%<Mo)]h9`3uNTjb5H@Iooa\eg(mo8i=bSMudK(29g/GC@^K-%8HH*C8]65PGAcGI5Ym1r&ZA[&(dU+5)-&*T$7QSaU1Urg1VBpMrNf:.sl,Dj$.@nPL'IN39>p&<-g7LaB/>TRMLB%[\!1Ck3R$rt=qB]WO-Q2NZ]oX[s*fDRKM(E<JmN,a3.EC,=Ws7tOth";T[;[8T5k0jJbY#h[ihg^:3FSYT_*dI\df]cNP~>
+Gatm<?ZXs[%"Hm,^uLaH<0<pS4nY=%>B4T3?/iKQDR\BJ&m_Q7-(cI7o=#eAd[&@l8\3QrfcW]p+RfI=83hiXK"oJT_"e[Ns!g9)R*J!r:r2ce>Y]o*b%7*]J.l@]a[?ljI0t5,KRt"1@I=rl[.*t4.:gLX?,BArQPW_egW@\\]S;?FbIah@gIq>5k$ir&O-c4%+ScnPT4*'.jCPlZ"b\'G$:9U/je:$\,,r*P;4/V:RHNni<hNm"=0&q."I67b=4;"pkk+RFS1Km93M)5+U,`(2ZZn,5/L'tOE@?kT9FJrDVa`>uT*HG<\8>mGY^^aC4*1*(F&A_FlB&>k\G[ujYR)6)5"f;j8`hE/GE4fg:I*("hsj6pM[uo<<%s\gJCt\R3;<M-4Dbku,^j?6=;Y/KlXh8(XLe,_m429]D>;5cCRY@Y3Voa_C2;Kg+hT`9e,q<&CeFWUW$X)L(V9)$5(lL-6!m[t3aLM>'s`$QG:,NT)&&(XY?.d5)q\C6Cct9_oScc!?gjOoAX`+Q$7'oZihuHifQaX"LBS41;IIaN@mbKRbfUf:4YraDXmRZ<Od2c>HH,gU`]u[/(\SV=fL+I'/Y6gU=6?;*9JRD(1NMaQ'(s;/ZjiQ1!H?@eKud/W6!,CHSg(`RPse&9U7+>=:b%$-OCSr%(9'9P7@Nh0_F(:R9_2At5pDs1LnaCCN_6,-fWun2Yt"XqOq8gR&EeKe*5r/1Z.lAh@OJrHYnOb0,(7,<AZuI&B28Zs,6gQ-,^/G=6?f!polH+IGtFj"49CZ.9\DZF_A`r>U/:XN[H7KNWsfu5nS4ljaDm0?Gmq>1rg#)<#ohs;j5VO`7m<Ye[k_>Xd`QYG]B;M/]Y8`f*JY]u7Yukqm)[<l.R6I\.E[YUdmOo?pMqT,feCF**]9[N1:NaNdP+DD![T1R:hU._5"Ek/KMWhoh6].P&A/OU+Y%[$%N)#!8+N,Ip,&<\11Yj+o<[AY^C_em&>fM)OJ%FcJn5e0)iaJ[?q$joi2qh8*N#jCB3]_-R.uU<#V%-d#c_jCd3UtOk4d<DrrbG.Arl_8lC-u.$g@Co3p;?bDtE.H5`?<A@XnmI@R)5SMuf2S,8b^A1#T!h=(`bD7ofaQn&R6!;E+sA7#XtSX(#W$!QTbd-kMd"#p3;IXe"=pO+eDm-R)%0X#)mDL2ie6.:*c"MXiEUK;1Q?q%UG[E!fE$W&,C06)Ek.6$X;/b+nia62H#^*TQiQc%:-J?D$D86P;tVIDTr"=n5NOHq+1+>dF5@k@-`B*h1!Xl"SC5Y9H),$7A[jim#Frof)BH,P:LE;G$,V,[8SU4j\oNWtVhfSZ0Ei`gj>l:m$rdCNS\'/_d_)X(R0i`k#e]QR7AMC<@7#U,2bBV#kj1o`eIS$`J1AKdt"JS^TC\bh.+!*npJ>@b<mSiHF%I;ZGD$EMU0>W8!d**rD)>r*[&PGp(7>*[a7QF7rg!/9`1X:u@#?k<j\[45Ck!:Rld^i!.QJn)<#mjTW_^j..:&lejgIgTJ-n4kY`&/tAS+:O#t[XDUm+$hJ\s(X?,&[iS;IA4E&1lN[">HkaH<Kk\m@BUt,M%'Ap,R@CC^h=>]ASVQkseL=9:$P++i1bKOJJ\>3RcA_U/OB)79nKUu!a6lXMUW"p33ZhesX.)%0O8rO)pFtg5WI21k-6fR2VJZt)gG]YZo5YT+bkIC:M1?$oKpZm2!c6<qQj]o=SbQ]e'*2>PY3EV=3]!!.d`Yf]SM!Ue6bCjH)lt!:^cNiE7-;E_\4FJ#H<li6mh)A"eBM1OrS%j!P:LBW\T+KaU'kCeN<RUhWgF;Y]j+u\j9:2oT3tlYnp1T#$=3Q;"n5*Ei/tM;D95927fU&-TMX.q7'g41ISs,"*d#2FK[Ldpd;&oS_9apFpC/fBqo!J!r(Es8adk`n4mHMQ[2j]-N=Rc>oLl4*.<nh*go&tOT\K<a46sSfkbV)D9sn-Ref:Kq-(=OVIX/rf.]*'d.O8>(_,.AJ=Ej3>iAF:^-T?!cI<To6iHMf!gqGpJ%taf]:c8_6~>
 endstream
 endobj
 54 0 obj
@@ -1480,76 +1483,76 @@ xref
 0000001590 00000 n 
 0000001698 00000 n 
 0000001811 00000 n 
-0000008213 00000 n 
-0000009682 00000 n 
-0000009731 00000 n 
-0000009826 00000 n 
-0000009884 00000 n 
-0000010076 00000 n 
-0000011650 00000 n 
-0000011694 00000 n 
-0000011802 00000 n 
-0000011915 00000 n 
-0000011965 00000 n 
-0000012076 00000 n 
-0000012268 00000 n 
-0000012999 00000 n 
-0000013043 00000 n 
-0000013151 00000 n 
-0000013264 00000 n 
-0000013456 00000 n 
-0000014277 00000 n 
-0000014469 00000 n 
-0000015138 00000 n 
-0000015330 00000 n 
-0000016228 00000 n 
-0000016278 00000 n 
-0000016396 00000 n 
-0000016588 00000 n 
-0000017319 00000 n 
-0000017363 00000 n 
-0000017471 00000 n 
-0000017584 00000 n 
-0000017776 00000 n 
-0000018597 00000 n 
-0000018789 00000 n 
-0000019458 00000 n 
-0000019650 00000 n 
-0000020548 00000 n 
-0000020598 00000 n 
-0000020716 00000 n 
-0000020908 00000 n 
-0000022388 00000 n 
-0000022432 00000 n 
-0000022540 00000 n 
-0000022653 00000 n 
-0000022845 00000 n 
-0000023037 00000 n 
-0000023229 00000 n 
-0000023421 00000 n 
-0000023471 00000 n 
-0000023600 00000 n 
-0000023718 00000 n 
-0000023777 00000 n 
-0000023843 00000 n 
-0000024291 00000 n 
-0000024489 00000 n 
-0000056409 00000 n 
-0000057015 00000 n 
-0000057247 00000 n 
-0000057445 00000 n 
-0000072037 00000 n 
-0000072415 00000 n 
-0000072740 00000 n 
-0000072943 00000 n 
-0000088767 00000 n 
-0000089244 00000 n 
-0000089565 00000 n 
-0000089768 00000 n 
-0000108589 00000 n 
-0000109054 00000 n 
-0000111315 00000 n 
-0000111365 00000 n 
+0000008246 00000 n 
+0000009715 00000 n 
+0000009764 00000 n 
+0000009859 00000 n 
+0000009917 00000 n 
+0000010109 00000 n 
+0000011659 00000 n 
+0000011703 00000 n 
+0000011811 00000 n 
+0000011924 00000 n 
+0000011974 00000 n 
+0000012085 00000 n 
+0000012277 00000 n 
+0000013008 00000 n 
+0000013052 00000 n 
+0000013160 00000 n 
+0000013273 00000 n 
+0000013465 00000 n 
+0000014292 00000 n 
+0000014484 00000 n 
+0000015153 00000 n 
+0000015345 00000 n 
+0000016243 00000 n 
+0000016293 00000 n 
+0000016411 00000 n 
+0000016603 00000 n 
+0000017334 00000 n 
+0000017378 00000 n 
+0000017486 00000 n 
+0000017599 00000 n 
+0000017791 00000 n 
+0000018618 00000 n 
+0000018810 00000 n 
+0000019479 00000 n 
+0000019671 00000 n 
+0000020569 00000 n 
+0000020619 00000 n 
+0000020737 00000 n 
+0000020929 00000 n 
+0000023059 00000 n 
+0000023103 00000 n 
+0000023211 00000 n 
+0000023324 00000 n 
+0000023516 00000 n 
+0000023708 00000 n 
+0000023900 00000 n 
+0000024092 00000 n 
+0000024142 00000 n 
+0000024271 00000 n 
+0000024389 00000 n 
+0000024448 00000 n 
+0000024514 00000 n 
+0000024962 00000 n 
+0000025160 00000 n 
+0000057080 00000 n 
+0000057686 00000 n 
+0000057918 00000 n 
+0000058116 00000 n 
+0000072708 00000 n 
+0000073086 00000 n 
+0000073411 00000 n 
+0000073614 00000 n 
+0000089438 00000 n 
+0000089915 00000 n 
+0000090236 00000 n 
+0000090439 00000 n 
+0000109260 00000 n 
+0000109725 00000 n 
+0000111986 00000 n 
+0000112036 00000 n 
 trailer
 <<
 /Size 85
@@ -1557,5 +1560,5 @@ trailer
 /Info 1 0 R
 >>
 startxref
-111454
+112125
 %%EOF

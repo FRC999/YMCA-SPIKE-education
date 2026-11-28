@@ -19,6 +19,8 @@ Open a PDF to read the slides directly on GitHub. Download the PPTX for an edita
 
 For Week 7 timed delivery, use the [class print packet](../02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf) to assemble the courses. Slide 2 covers both-kit calibration and slide 3 shows the stopwatch cues. The [detailed notes](../01_Instructor/Speaker_Notes/W07_speed_trial_Speaker_Notes.md) are also embedded in Presenter View.
 
+Week 5 slides 4–5 show the station swap, tipping tray and optional automatic unload. The [Week 5 class packet](../02_Student/Printouts/W05_Class_Print_Packet.pdf) includes the illustrated build and trial card.
+
 Week 6 slide 2 shows the cube start and the rescue bay before and after a trial. Print the [Week 6 class packet](../02_Student/Printouts/W06_Class_Print_Packet.pdf) to assemble and mark the fields.
 
 Week 8 slide 2 shows how to reuse the Week 7 courses and saved projects. Slide 3 gives the stopwatch cues. Slide 4 gives the four-minute demo schedule. Use the [Week 8 packet](../02_Student/Printouts/W08_Class_Print_Packet.pdf) and [speaker notes](../01_Instructor/Speaker_Notes/W08_showcase_Speaker_Notes.md).

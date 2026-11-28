@@ -212,36 +212,49 @@ def floor_markers(canvas):
 
 
 def sensor_card(canvas):
-    heading(canvas, 5, 'Stop at the delivery strip', 'Team __________________   Robot ________')
-    text(canvas, 36, 646, '1  Build a delivery lane', 14, TEAL, True)
-    para(canvas, 36, 626, 'Make a flat light road. Tape a wide dark strip across the sensor path '
-         'and build a delivery bay beside the road. Slide the proxy through to check clearance.')
-    area(canvas, 36, 490, 540, 91)
-    text(canvas, 50, 555, 'START at sensor', 10, bold=True)
-    text(canvas, 263, 555, 'About 25 cm to strip', 10, centered=True)
-    stroke(canvas, MUTED, 1.4)
-    canvas.line(84, 528, 504, 528)
-    canvas.lines([(82, 520, 82, 536), (260, 528, 251, 533), (260, 528, 251, 523)])
-    canvas.setFillColor(HexColor(INK))
-    canvas.rect(373, 512, 31, 35, stroke=0, fill=1)
-    text(canvas, 388, 497, '6 cm wide', 9, centered=True)
-    text(canvas, 465, 555, 'Clear runout', 10, MUTED)
-    text(canvas, 36, 458, '2  Read the floor and choose a threshold', 14, TEAL, True)
-    para(canvas, 36, 437, 'Measure each surface twice with the wheels still. Choose a number above '
-         'both dark readings and below both light readings. Enter it in the marker program.')
-    text(canvas, 36, 388, 'Dark ______ and ______      Light ______ and ______      Threshold ______', 11, bold=True)
-    text(canvas, 36, 347, '3  Send the robot to the bay', 14, TEAL, True)
-    para(canvas, 36, 326, 'Predict where it will stop. Run from the marked start. A delivery counts when '
-         'the sensor is over the strip and the hub shows M. L means the robot reached its move limit.')
-    for y, prompt in (
-        (264, 'First run / Where was the sensor when the robot stopped?'),
-        (194, 'Retest / What changed and what did you see?'),
-    ):
-        text(canvas, 36, y, prompt, 11, bold=True)
-        stroke(canvas, LINE)
-        canvas.line(36, y - 30, 576, y - 30)
-    text(canvas, 36, 119, 'If the strip moves, where will the robot stop now?', 11, bold=True)
-    text(canvas, 36, 81, 'Take turns as driver, navigator and observer.', 10, MUTED)
+    heading(canvas, 5, 'Build a tipping delivery tray', 'Team __________________   Robot ________')
+    text(canvas, 36, 649, 'Build and test by hand', 14, TEAL, True)
+    para(canvas, 36, 629, 'On the mounting proxy, hinge the front of a small tray. Let it project past the '
+         'chassis. Add side rails, a rear support and a lift tab. Leave the front open.', size=11)
+    para(canvas, 36, 587, 'Move the proxy with the tray level. Keep the cube aboard. Lift the tab and '
+         'see if the cube slides into a paper bay. Improve one thing.', size=11)
+
+    area(canvas, 36, 445, 540, 110)
+    for origin, title, tipped in ((53, 'Carry level', False), (316, 'Lift the back after stopping', True)):
+        text(canvas, origin, 535, title, 11, TEAL, True)
+        area(canvas, origin + 33, 466, 108, 17)
+        stroke(canvas, INK, 2.4)
+        hinge = origin + 151
+        rear = 513 if tipped else 485
+        canvas.line(origin + 15, rear, hinge, 485)
+        canvas.line(origin + 15, rear, origin + 15, rear + 8)
+        circle(canvas, hinge, 485, 3, TEAL, fill=PALE)
+        cube_x, cube_y = (origin + 186, 464) if tipped else (origin + 77, 486)
+        canvas.setFillColor(HexColor(ORANGE))
+        canvas.rect(cube_x, cube_y, 15, 15, fill=1, stroke=0)
+        text(canvas, hinge + 8, 494, 'front hinge', 8.5, MUTED)
+        if tipped:
+            stroke(canvas, MUTED, 1.2)
+            canvas.line(cube_x - 8, 461, cube_x + 29, 461)
+            text(canvas, cube_x + 8, 451, 'bay', 8, MUTED, centered=True)
+
+    text(canvas, 36, 422, 'Calibrate on the prepared lane', 14, TEAL, True)
+    para(canvas, 36, 402, 'Read the floor and strip twice. Pick a threshold above both dark readings and below '
+         'both light readings. Run the 25 cm baseline.', size=11)
+    text(canvas, 36, 361, 'Dark ____ and ____   Light ____ and ____   Threshold ____   Baseline M or L ____', 10.5)
+
+    text(canvas, 36, 332, 'Retest with your tray', 14, TEAL, True)
+    para(canvas, 36, 312, 'Ask a mentor to fit the tray. Load the cube and run at 25 cm. When M shows and the '
+         'robot fully stops, lift the tab. Check where the cube lands.', size=11)
+    text(canvas, 36, 264, 'Sensor over strip with M? ____     Cube stayed aboard and landed in bay? ____', 10.5)
+    text(canvas, 36, 237, 'One thing we changed or noticed ______________________________________________', 10.5)
+
+    text(canvas, 36, 199, 'Stretch challenge  Automatic unload', 14, TEAL, True)
+    para(canvas, 36, 179, 'After a successful manual delivery, add a side lever. Try a shallow ramp beside the '
+         'strip to lift it. Hand-test with the loaded proxy, then ask a mentor to approve a run. Keep the ramp '
+         'clear of the wheels and sensor.', size=11)
+    text(canvas, 36, 115, 'Automatic release result ____________________________________________________', 10.5)
+    text(canvas, 36, 82, 'Rotate jobs. Keep hands clear while the robot moves.', 10, MUTED)
     footer(canvas, 'WEEK 5 / TEAM MISSION CARD')
 
 
@@ -257,4 +270,4 @@ def make_pdf(name, title, pages):
 if __name__ == '__main__':
     make_pdf('W04_Cone_Rematch.pdf', 'Week 4 Cone Challenge Rematch',
              (field_map, rematch_card, floor_markers))
-    make_pdf('W05_Sensor_Mission.pdf', 'Week 5 Stop at the Delivery Strip', (sensor_card,))
+    make_pdf('W05_Sensor_Mission.pdf', 'Week 5 Tipping Delivery Tray', (sensor_card,))

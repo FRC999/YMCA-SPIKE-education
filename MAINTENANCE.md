@@ -1,6 +1,6 @@
 # Maintenance rules and backlog
 
-Updated November 22, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
+Updated November 28, 2026. This file tracks repository maintenance and reusable update rules. Equipment results, session delivery, kit shortages, and personal-part loans belong in [SESSION_PREP.md](SESSION_PREP.md); do not maintain competing copies of those checklists here.
 
 ## Week 4 and 5 class sequence
 
@@ -15,6 +15,8 @@ Run `python scripts/build_w05_full_size_field.py` to export the Week 5 lane and 
 Run `python scripts/build_w04_w05_setup_checklists.py` with ReportLab to export the one-page setup checklists. Check the print counts and robot rehearsals against the current guides, then review the layout before recording the hashes.
 
 Run `python scripts/build_w04_w05_print_packets.py` with ReportLab and pypdf to assemble the 28-page Week 4 and 16-page Week 5 class packets. Each begins with the mentor checklist and one assembly guide, followed by two sets of full-size field sheets, five team sheets and attendance. Week 4 ends with two cone-template pages. Check page order and dimensions against the source PDFs before recording the hashes.
+
+Week 5 uses the preassembled fields for both groups. Keep the tipping tray and optional side-ramp trigger aligned across the workbook, mentor guide, slides, notes, mission card and setup checklist. The reusable dark strip still belongs to the sensor program and carries forward into Week 6.
 
 ## Week 6 rescue field and print packet
 

@@ -129,8 +129,8 @@ def week5(canvas):
     y = section(canvas, '2  Set up the lanes and wall demo', y - 1)
     y = item(canvas, y, 'Check the 5 cm ruler. Use a straightedge between the side marks to trim the '
              'ends. Join A-B-C by matching paired ticks, tape from behind, and tape the lanes flat.')
-    y = item(canvas, y, 'Cut out the 24 x 6 cm strip. Set its near edge at 25 cm on B and tape only its '
-             'ends. Keep the center blank and leave clear floor beyond C. Use 20 cm for the retest.')
+    y = item(canvas, y, 'Tape the 24 x 6 cm strip ends at 25 cm on B. Keep the center path and runout clear.')
+    y = item(canvas, y, 'Pack four tipping-tray builds with proxies, two mentor trays and six lightweight cubes.')
     y = item(canvas, y, 'Wall demo on one kit: sensor C faces a broad wall from about 30 cm. Run '
              'W05_distance_demo.py at 150 and 200 mm. Confirm 200 stops farther away. Reload the marker project.')
     y = section(canvas, '3  Rehearse on both robots', y - 1)
@@ -138,14 +138,13 @@ def week5(canvas):
         'Load W05_marker.py. Verify A left, B right, hub pairing, forward motion and Stop.',
         'Center sensor D between START marks facing C. Adjust its height from about 1-2 cm.',
         'Read white and dark twice each, and check seams. Choose a whole-number threshold above both dark readings and below both light readings.',
-        'With the strip at 25 cm, the robot shows M with its sensor over the strip. Try the 20 cm retest.',
+        'Fit a sample tray and run loaded at 25 cm. Verify M over the strip. Tip after the full stop and mark the bay.',
         'Remove the strip. Run the full routine through L and confirm there is room for the whole robot to stop.',
     ])
     text(canvas, LEFT, y, 'Saved threshold', 10, TEAL, True)
     text(canvas, LEFT+99, y, 'Kit A _________________  Kit B _________________', 10)
     y -= 16
-    y = item(canvas, y, 'If readings overlap or a seam triggers M, flatten the lane, adjust sensor height '
-             'or use matte black card. Remeasure and retest.')
+    y = item(canvas, y, 'Rehearse the stretch ramp by hand before any powered try. Verify it touches only the lever.')
     finish(canvas, y - 3, 'W05_marker.pptx')
 
 

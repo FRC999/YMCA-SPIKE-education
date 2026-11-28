@@ -1,12 +1,14 @@
 # Project context for continuing this work
 
-Last reviewed: November 22, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
+Last reviewed: November 28, 2026. This is a curated handoff of the project’s decisions and known state, not a full chat transcript. Read the current [preparation tracker](SESSION_PREP.md) for subsequent results and corrections.
 
 ## Week 4 rematch and Week 5 sensors
 
 Alex reported that the students enjoyed trying the Week 3 cone exercise and did not quite complete it. The approved Week 4 rematch starts with one cone and uses a 60 × 60 cm example layout for up to three, including the diagonal second approach. Students change one drive or turn value or one pusher feature per comparison. Week 5 opens with the distance-to-wall demonstration and gives all teams hands-on floor-marker calibration and testing. Use the [Week 4 mentor guide](01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md) and [Week 5 mentor guide](01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md). Both revisions require a physical rehearsal.
 
 Week 4 has one lesson package, the cone rematch. The short wall demonstration is part of Week 5 and uses [W05_distance_demo.py](04_Python/W05_distance_demo.py). Use the Week 5 packet and mission card for team work.
+
+Week 5 build teams make a removable tipping tray and test it on the robot after the station swap. The strip tells the robot when to stop. The core delivery tips the cube by hand after a full stop. Fast teams can add a side lever and a shallow ramp beside the strip for automatic unloading, with a hand test and mentor approval before a powered attempt.
 
 ## Week 8 timed showcase
 

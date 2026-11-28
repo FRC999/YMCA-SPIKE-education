@@ -20,7 +20,7 @@
       "sha256": "1c3e046a288dafbd1e8fe70aea336666641119fb68983706d094e3d6a379b2c2",
       "sources": {
         "scripts/build_w08_showcase_prints.py": "4e1df81a0379b4c448faa54617355b7240bcf824d1fdedebf7df8a73ef011660",
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00"
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf"
       }
     },
     {
@@ -28,8 +28,8 @@
       "sha256": "43593efe225eb9999f82ecec9e3a7bd862a80709d83fe66fd4310ef78de3c352",
       "sources": {
         "scripts/build_w07_speed_prints.py": "61c97fed59d2110fe056e9f4f72b6ca6feea3c32a1a8def2f3376b037800ef20",
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
-        "scripts/build_w05_full_size_field.py": "e41780801552eea0869069a82aa7280f121dea686a55d1a1c9ec192b8ec99995"
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf",
+        "scripts/build_w05_full_size_field.py": "00914a85e2c97da405e1437d679b93cbc5a9cb0c92074a7293e846238f87f233"
       }
     },
     {
@@ -47,22 +47,22 @@
     },
     {
       "output": "02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf",
-      "sha256": "c57929340e0fd22070773d45c54a73419aff935a014cfd5b6cb6055cc07299d6",
+      "sha256": "47176358420f310c8d90869615f12987753c464ab9de469ac80677248ed623e8",
       "sources": {
         "scripts/build_w06_rescue_prints.py": "fa6d26f3daa1891091ce4e0fd2c4dfcba7858625b6f82e2e4ccd5da1827e069a",
-        "02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf": "beea90bed0ee24353acfb7877529904194e360d9020f9cd1929a61512d752f92",
-        "scripts/build_w05_full_size_field.py": "e41780801552eea0869069a82aa7280f121dea686a55d1a1c9ec192b8ec99995",
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00"
+        "02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf": "8dce62e3b60eab9cabc7c4848b0af7ecebf36f6679bf4e77d548a6af6a8270f3",
+        "scripts/build_w05_full_size_field.py": "00914a85e2c97da405e1437d679b93cbc5a9cb0c92074a7293e846238f87f233",
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf"
       }
     },
     {
       "output": "02_Student/Printouts/W06_Class_Print_Packet.pdf",
-      "sha256": "f100d0015aa18c7e238609d3b8aba7b9d40fccebb5337a418bc22fc0a4209ebf",
+      "sha256": "c48e0cbb05ee81528a6a449b92c0179ec2f18e112cc969be9cedd75564785940",
       "sources": {
         "scripts/build_w06_rescue_prints.py": "fa6d26f3daa1891091ce4e0fd2c4dfcba7858625b6f82e2e4ccd5da1827e069a",
         "scripts/build_w04_w05_print_packets.py": "a21e93417740d76f21daf000980de3ce4385d2f03075643b4698732bc8c19def",
         "01_Instructor/Class_Preparation/W06_rescue_Checklist.pdf": "e9bb358a7401870ddaa9214672ebf8b00cd052e2ba91774e62c8d0680f9fcdda",
-        "02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf": "c57929340e0fd22070773d45c54a73419aff935a014cfd5b6cb6055cc07299d6",
+        "02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf": "47176358420f310c8d90869615f12987753c464ab9de469ac80677248ed623e8",
         "02_Student/Printouts/W06_rescue_Team_Sheet.pdf": "feef91211b44a4f48e7e5f3aa579675aa8ec7707d2a725bc14207bc91b65e30b",
         "02_Student/Printouts/W06_rescue_Build_Card.pdf": "fe0230ccd796540777bfccc24932d547da8afa3da3bf87be94f5958dd5ef7c46",
         "02_Student/Printouts/Attendance.pdf": "dfe10f350f50bdeb05d82f212b51053e8d56fc9a738e866b2e4f348ba2189594"
@@ -73,7 +73,7 @@
       "sha256": "5bef3ec660d1eed8bc6d5a2749a256f32c9df3d760916b34c36972743da45244",
       "sources": {
         "scripts/build_w04_w05_print_packets.py": "a21e93417740d76f21daf000980de3ce4385d2f03075643b4698732bc8c19def",
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf",
         "01_Instructor/Class_Preparation/W04_cone_rematch_Setup_Checklist.pdf": "30c327c7e146848fc0704153c4e477b0145fbe537a84c6ee85411edbad613867",
         "02_Student/Printouts/W04_Cone_Rematch_Full_Size_Field.pdf": "d4e933e5836e0f64f04b56db1a2b8c5ccd67d288db0940fe6b795b5b03eabe29",
         "02_Student/Printouts/W04_Cone_Rematch.pdf": "0a660be0191fe505002f40097ad8242cc15f44f4cbb27f319583b6b6e988891e",
@@ -83,13 +83,13 @@
     },
     {
       "output": "02_Student/Printouts/W05_Class_Print_Packet.pdf",
-      "sha256": "d862805c325491166eec31d26f94110fd2b337432586c364db37c00f9d8bd1af",
+      "sha256": "42dbbab74e147c56f4dfccc7168f1fee851e893e43c67ffeffdae382145a2f01",
       "sources": {
         "scripts/build_w04_w05_print_packets.py": "a21e93417740d76f21daf000980de3ce4385d2f03075643b4698732bc8c19def",
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
-        "01_Instructor/Class_Preparation/W05_sensor_mission_Setup_Checklist.pdf": "2113ca921f142069f1a12cb3bd1af9bc3720709337a429f7aee52a15350461e0",
-        "02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf": "beea90bed0ee24353acfb7877529904194e360d9020f9cd1929a61512d752f92",
-        "02_Student/Printouts/W05_Sensor_Mission.pdf": "a98af776d67f8c9f5481b3e08251f444aee4284bc6d103bed989ad707c041df6",
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf",
+        "01_Instructor/Class_Preparation/W05_sensor_mission_Setup_Checklist.pdf": "f87b43b6159c7517b29fe122e73ff292af8fcd38bc57b8fe17bd4e855e7ba1e8",
+        "02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf": "8dce62e3b60eab9cabc7c4848b0af7ecebf36f6679bf4e77d548a6af6a8270f3",
+        "02_Student/Printouts/W05_Sensor_Mission.pdf": "cc57032f42979f161c55e62e4dd56961bceb1a7aaded732141ba7e5bbe6f1d9b",
         "02_Student/Printouts/Attendance.pdf": "dfe10f350f50bdeb05d82f212b51053e8d56fc9a738e866b2e4f348ba2189594"
       }
     },
@@ -97,18 +97,18 @@
       "output": "01_Instructor/Class_Preparation/W04_cone_rematch_Setup_Checklist.pdf",
       "sha256": "30c327c7e146848fc0704153c4e477b0145fbe537a84c6ee85411edbad613867",
       "sources": {
-        "scripts/build_w04_w05_setup_checklists.py": "35d6066edd0a87befbd07a7beebc0cda7756d5bfac03085027f29f19df000819",
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "scripts/build_w04_w05_setup_checklists.py": "f3d92471f68e41ea8f4a46f5f1d81fc36436137fbd7aec48d8e0233e1f7cc380",
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf",
         "01_Instructor/Class_Preparation/W04_cone_rematch_Guide.md": "08339ddeac2b767e1ef8d47a1572fc35c5f5e704222d12286eff39584c30a0a0"
       }
     },
     {
       "output": "01_Instructor/Class_Preparation/W05_sensor_mission_Setup_Checklist.pdf",
-      "sha256": "2113ca921f142069f1a12cb3bd1af9bc3720709337a429f7aee52a15350461e0",
+      "sha256": "f87b43b6159c7517b29fe122e73ff292af8fcd38bc57b8fe17bd4e855e7ba1e8",
       "sources": {
-        "scripts/build_w04_w05_setup_checklists.py": "35d6066edd0a87befbd07a7beebc0cda7756d5bfac03085027f29f19df000819",
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
-        "01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md": "754ce2f67141b1c1e7a76d289833c272c972a54c4772483204d57cadcc1ec6c3"
+        "scripts/build_w04_w05_setup_checklists.py": "f3d92471f68e41ea8f4a46f5f1d81fc36436137fbd7aec48d8e0233e1f7cc380",
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf",
+        "01_Instructor/Class_Preparation/W05_sensor_mission_Guide.md": "ac3b2f426bcf1bb7b6738310214296442bbc5958acf4c33e19d6bc3963195b29"
       }
     },
     {
@@ -129,10 +129,10 @@
     },
     {
       "output": "02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf",
-      "sha256": "beea90bed0ee24353acfb7877529904194e360d9020f9cd1929a61512d752f92",
+      "sha256": "8dce62e3b60eab9cabc7c4848b0af7ecebf36f6679bf4e77d548a6af6a8270f3",
       "sources": {
-        "scripts/build_w05_full_size_field.py": "e41780801552eea0869069a82aa7280f121dea686a55d1a1c9ec192b8ec99995",
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "scripts/build_w05_full_size_field.py": "00914a85e2c97da405e1437d679b93cbc5a9cb0c92074a7293e846238f87f233",
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf",
         "04_Python/W05_marker.py": "11272419ebd1cc8757201127d3a8bca59317971de83a3b1e74817f7aff349c5b"
       }
     },
@@ -141,7 +141,7 @@
       "sha256": "d4e933e5836e0f64f04b56db1a2b8c5ccd67d288db0940fe6b795b5b03eabe29",
       "sources": {
         "scripts/build_w04_full_size_field.py": "2b00d7607cfcd2e000d01367f0476a6c00bad17c5dae6802d3cc50f80d79ab68",
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf",
         "04_Python/W04_cone_rematch.py": "413c33029ff4a1a9b97b375ca7c65f0bb85eeb29b90547448c4016eccd4beff3"
       }
     },
@@ -149,15 +149,15 @@
       "output": "02_Student/Printouts/W04_Cone_Rematch.pdf",
       "sha256": "0a660be0191fe505002f40097ad8242cc15f44f4cbb27f319583b6b6e988891e",
       "sources": {
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf",
         "04_Python/W04_cone_rematch.py": "413c33029ff4a1a9b97b375ca7c65f0bb85eeb29b90547448c4016eccd4beff3"
       }
     },
     {
       "output": "02_Student/Printouts/W05_Sensor_Mission.pdf",
-      "sha256": "a98af776d67f8c9f5481b3e08251f444aee4284bc6d103bed989ad707c041df6",
+      "sha256": "cc57032f42979f161c55e62e4dd56961bceb1a7aaded732141ba7e5bbe6f1d9b",
       "sources": {
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf",
         "04_Python/W05_marker.py": "11272419ebd1cc8757201127d3a8bca59317971de83a3b1e74817f7aff349c5b"
       }
     },
@@ -185,9 +185,9 @@
     },
     {
       "output": "00_Start_Here/Program_Proposal_and_Resources.pdf",
-      "sha256": "0a12378521d091cf1aec6ef473db6666c9d11f2c954fe71d97f1585b97867183",
+      "sha256": "e3d031a8ae76b083092833ed97a27d1dbd853f0036dbb0e20d6b4a66cb4374c1",
       "sources": {
-        "00_Start_Here/Program_Proposal_and_Resources.docx": "eaabba73f508c5504c2c04f07017725ade0f946b69a53ad4f53335ceb2a0ca6f"
+        "00_Start_Here/Program_Proposal_and_Resources.docx": "b7d5ef14e8eaed178d710b76077fef5d23add235547179c29998ba3ebfe5b202"
       }
     },
     {
@@ -222,8 +222,8 @@
       "sources": {
         "01_Instructor/Class_Preparation/W06_rescue_Checklist.md": "14a2f0882f4ccbbcf12d67d67d68819b597de3fcd2cb43a65e9b2fc748def35f",
         "scripts/build_w06_rescue_prints.py": "fa6d26f3daa1891091ce4e0fd2c4dfcba7858625b6f82e2e4ccd5da1827e069a",
-        "scripts/build_w04_w05_setup_checklists.py": "35d6066edd0a87befbd07a7beebc0cda7756d5bfac03085027f29f19df000819",
-        "02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf": "c57929340e0fd22070773d45c54a73419aff935a014cfd5b6cb6055cc07299d6",
+        "scripts/build_w04_w05_setup_checklists.py": "f3d92471f68e41ea8f4a46f5f1d81fc36436137fbd7aec48d8e0233e1f7cc380",
+        "02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf": "47176358420f310c8d90869615f12987753c464ab9de469ac80677248ed623e8",
         "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f"
       }
     },
@@ -234,16 +234,16 @@
         "01_Instructor/Class_Preparation/W08_showcase_Checklist.md": "6394041b9ac33675c749c092888a7c6040cf710f32bfd82c8307045b434da9f7",
         "scripts/build_w08_showcase_prints.py": "4e1df81a0379b4c448faa54617355b7240bcf824d1fdedebf7df8a73ef011660",
         "scripts/build_w04_w05_print_packets.py": "a21e93417740d76f21daf000980de3ce4385d2f03075643b4698732bc8c19def",
-        "scripts/build_w04_w05_setup_checklists.py": "35d6066edd0a87befbd07a7beebc0cda7756d5bfac03085027f29f19df000819",
-        "scripts/build_w04_w05_mission_prints.py": "2bb36d42bdbc8c0984eff00c4c2cca2a921d045d60888f8c8fe3f6887f646e00",
+        "scripts/build_w04_w05_setup_checklists.py": "f3d92471f68e41ea8f4a46f5f1d81fc36436137fbd7aec48d8e0233e1f7cc380",
+        "scripts/build_w04_w05_mission_prints.py": "3e1765bdda98366ed0c3206bf8f81657fedec65628900a26221e324fff2373cf",
         "scripts/build_w07_speed_prints.py": "61c97fed59d2110fe056e9f4f72b6ca6feea3c32a1a8def2f3376b037800ef20"
       }
     },
     {
       "output": "01_Instructor/Instructor_and_Mentor_Guide.pdf",
-      "sha256": "5caa248fc27f9776485625cea6959d96aae96174765c286e655330be057a86d2",
+      "sha256": "5095f0f0acbc094d44d59fcbfbfaa4ed717042ced5c049a994acb840804924c6",
       "sources": {
-        "01_Instructor/Instructor_and_Mentor_Guide.docx": "22d446d0737134911d2680f36b268c8d5997026be2cbc813d9bbacd22023a114"
+        "01_Instructor/Instructor_and_Mentor_Guide.docx": "86ff1932a9e06e4d0827b66df471562a299d20b306e5b8749fa76eae6e83954b"
       }
     },
     {
@@ -257,7 +257,7 @@
       "output": "02_Student/Printouts/Final_Check.pdf",
       "sha256": "8ce80ac54d20f947737193de35b69a2a3acca891ba4f26a378ec4351d803a7ec",
       "sources": {
-        "02_Student/Student_Workbook.docx": "e6530e79417093135e7fa2de7305a6d3ae9fecc9e5aaafcc1ef33d0de1b35934"
+        "02_Student/Student_Workbook.docx": "84e482ce33a064009206daef9f30f541c2c5a05f225392638ac080aeea7a8c76"
       }
     },
     {
@@ -278,7 +278,7 @@
       "output": "02_Student/Printouts/W01_signal_Team_Sheet.pdf",
       "sha256": "ac009db1d090ade93c5ab5c03fd2c51d2c6cea1193b93f1020eac1d4c813df71",
       "sources": {
-        "02_Student/Student_Workbook.docx": "e6530e79417093135e7fa2de7305a6d3ae9fecc9e5aaafcc1ef33d0de1b35934"
+        "02_Student/Student_Workbook.docx": "84e482ce33a064009206daef9f30f541c2c5a05f225392638ac080aeea7a8c76"
       }
     },
     {
@@ -292,7 +292,7 @@
       "output": "02_Student/Printouts/W02_delivery_Team_Sheet.pdf",
       "sha256": "15a0b5cadf327e901404b3cfd2b5fd54579ab8e8f13e158e56f567123bdf0b99",
       "sources": {
-        "02_Student/Student_Workbook.docx": "e6530e79417093135e7fa2de7305a6d3ae9fecc9e5aaafcc1ef33d0de1b35934"
+        "02_Student/Student_Workbook.docx": "84e482ce33a064009206daef9f30f541c2c5a05f225392638ac080aeea7a8c76"
       }
     },
     {
@@ -307,7 +307,7 @@
       "output": "02_Student/Printouts/W03_dance_Team_Sheet.pdf",
       "sha256": "0444c4cac8e97cf916021550fb741c5b19af82f725bf496a3db90a063db11c4b",
       "sources": {
-        "02_Student/Student_Workbook.docx": "e6530e79417093135e7fa2de7305a6d3ae9fecc9e5aaafcc1ef33d0de1b35934"
+        "02_Student/Student_Workbook.docx": "84e482ce33a064009206daef9f30f541c2c5a05f225392638ac080aeea7a8c76"
       }
     },
     {
@@ -321,7 +321,7 @@
       "output": "02_Student/Printouts/W06_rescue_Team_Sheet.pdf",
       "sha256": "feef91211b44a4f48e7e5f3aa579675aa8ec7707d2a725bc14207bc91b65e30b",
       "sources": {
-        "02_Student/Student_Workbook.docx": "e6530e79417093135e7fa2de7305a6d3ae9fecc9e5aaafcc1ef33d0de1b35934"
+        "02_Student/Student_Workbook.docx": "84e482ce33a064009206daef9f30f541c2c5a05f225392638ac080aeea7a8c76"
       }
     },
     {
@@ -333,9 +333,9 @@
     },
     {
       "output": "02_Student/Student_Workbook.pdf",
-      "sha256": "19f384af5adff0300b47f33432f67b6a4d3e8dcc0e3cca3d51b2ae53aa0542e9",
+      "sha256": "7443a977b3aac96c4fd91b7774573855fddedb0da7ef77301b9679934e24cdc8",
       "sources": {
-        "02_Student/Student_Workbook.docx": "e6530e79417093135e7fa2de7305a6d3ae9fecc9e5aaafcc1ef33d0de1b35934"
+        "02_Student/Student_Workbook.docx": "84e482ce33a064009206daef9f30f541c2c5a05f225392638ac080aeea7a8c76"
       }
     },
     {
@@ -347,10 +347,10 @@
     },
     {
       "output": "03_Presentations/00_Program_Proposal.pdf",
-      "sha256": "a1fdddadfbd483570893c7b5c95d75e8812310fbcd9d36d0fdd3870e9a0e586e",
+      "sha256": "1ac261482c6deb90970c7381fac0c66b4ab02545cd84e6ae1ee1fe2e44eaa3da",
       "sources": {
-        "03_Presentations/00_Program_Proposal.pptx": "8d9681abbc98e9b482e4e97381f54aa83187fd8a5ddff64533477ae7ea7a89ed",
-        "00_Start_Here/Program_Proposal_and_Resources.docx": "eaabba73f508c5504c2c04f07017725ade0f946b69a53ad4f53335ceb2a0ca6f"
+        "03_Presentations/00_Program_Proposal.pptx": "db6274fc24b743324774479668044835a20a1f7c735574459e4f81228bc9d1e2",
+        "00_Start_Here/Program_Proposal_and_Resources.docx": "b7d5ef14e8eaed178d710b76077fef5d23add235547179c29998ba3ebfe5b202"
       }
     },
     {
@@ -376,9 +376,9 @@
     },
     {
       "output": "03_Presentations/W05_marker.pdf",
-      "sha256": "cbe58a4cbee9186f39e0386f06d710ad8513339187446914c13c3ca01aaa7a69",
+      "sha256": "10c5e6a1db80a3fe42aa66aa37618881bfe43ad8004f91021da6251048de95fd",
       "sources": {
-        "03_Presentations/W05_marker.pptx": "45938dcd100003f5a5988ecbb61f7557145376dcb0e07d1e29dd96d6e4e90f2e"
+        "03_Presentations/W05_marker.pptx": "8080ef48090bcebd769f71173865c6fed957d59edba30d4e580b126a0aa9f9a7"
       }
     },
     {
@@ -434,13 +434,13 @@
     },
     {
       "output": "03_Presentations/W05_marker.pptx",
-      "sha256": "45938dcd100003f5a5988ecbb61f7557145376dcb0e07d1e29dd96d6e4e90f2e",
+      "sha256": "8080ef48090bcebd769f71173865c6fed957d59edba30d4e580b126a0aa9f9a7",
       "sources": {
-        "01_Instructor/Speaker_Notes/W05_marker_Speaker_Notes.docx": "dd3f6ea21e29eb15c3161358dd0965c29d4009915cfc778a86589d27091b42ed",
-        "02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf": "beea90bed0ee24353acfb7877529904194e360d9020f9cd1929a61512d752f92",
+        "01_Instructor/Speaker_Notes/W05_marker_Speaker_Notes.docx": "0d5661fb6cf3c7811d23080a7b30431291f9c16f701b449a9c6bacf070fd6f01",
+        "02_Student/Printouts/W05_Delivery_Strip_Full_Size_Field.pdf": "8dce62e3b60eab9cabc7c4848b0af7ecebf36f6679bf4e77d548a6af6a8270f3",
         "04_Python/W05_marker.py": "11272419ebd1cc8757201127d3a8bca59317971de83a3b1e74817f7aff349c5b",
         "04_Python/W05_distance_demo.py": "9ee332874070f7f52153845c30f0e43e2e454002aeab9afc5669c4dbcbb1276c",
-        "02_Student/Printouts/W05_Class_Print_Packet.pdf": "d862805c325491166eec31d26f94110fd2b337432586c364db37c00f9d8bd1af"
+        "02_Student/Printouts/W05_Class_Print_Packet.pdf": "42dbbab74e147c56f4dfccc7168f1fee851e893e43c67ffeffdae382145a2f01"
       }
     },
     {
@@ -448,8 +448,8 @@
       "sha256": "21830b3809916304e313068a85830b728ec79461be6694fbc9eee7ce69b3eba3",
       "sources": {
         "01_Instructor/Speaker_Notes/W06_rescue_Speaker_Notes.docx": "30f2dabfee14603da2f8194ca6cf4174bc9e4409c60bc0e796c7036227f71450",
-        "02_Student/Printouts/W06_Class_Print_Packet.pdf": "f100d0015aa18c7e238609d3b8aba7b9d40fccebb5337a418bc22fc0a4209ebf",
-        "02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf": "c57929340e0fd22070773d45c54a73419aff935a014cfd5b6cb6055cc07299d6",
+        "02_Student/Printouts/W06_Class_Print_Packet.pdf": "c48e0cbb05ee81528a6a449b92c0179ec2f18e112cc969be9cedd75564785940",
+        "02_Student/Printouts/W06_Rescue_Full_Size_Field.pdf": "47176358420f310c8d90869615f12987753c464ab9de469ac80677248ed623e8",
         "04_Python/W06_rescue.py": "41331de40bd6e0becfe6f73aaa613c2338819a112cea2a92dfa214e0f9da6417"
       }
     },
@@ -523,7 +523,7 @@
         "01_Instructor/Class_Preparation/W07_speed_trial_Checklist.md": "84481f213a59ba363c995810b033f6ef4ed5826b56887a1337e00ec8682118cf",
         "01_Instructor/Class_Preparation/Reusable_Kit.md": "5bd7fa8c35303f473ec2f32015f0130a311955d3a916839808a490be56d3770f",
         "scripts/build_w07_speed_prints.py": "61c97fed59d2110fe056e9f4f72b6ca6feea3c32a1a8def2f3376b037800ef20",
-        "scripts/build_w04_w05_setup_checklists.py": "35d6066edd0a87befbd07a7beebc0cda7756d5bfac03085027f29f19df000819",
+        "scripts/build_w04_w05_setup_checklists.py": "f3d92471f68e41ea8f4a46f5f1d81fc36436137fbd7aec48d8e0233e1f7cc380",
         "04_Python/W07_speed_trial.py": "ce42227ca9f93e4c1854ec17f14e0349a2d30b90f19ee10f083aabd35e70bf70"
       }
     },

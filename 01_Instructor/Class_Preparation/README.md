@@ -22,7 +22,7 @@ Print worksheets single-sided at actual size on US Letter. PDF files open on Git
 | 2 | [Delivery to a target](W02_delivery_Checklist.md) | [PDF](W02_delivery_Checklist.pdf) | A cargo tray that keeps its load |
 | 3 | [Robot dance studio](W03_dance_Checklist.md) | [PDF](W03_dance_Checklist.pdf) | A removable cone pusher |
 | 4 | [Cone challenge rematch](W04_cone_rematch_Guide.md) | [Setup checklist](W04_cone_rematch_Setup_Checklist.pdf) · [Class packet](../../02_Student/Printouts/W04_Class_Print_Packet.pdf) | A pusher that delivers and releases cones |
-| 5 | [Stop at the delivery strip](W05_sensor_mission_Guide.md) | [Setup checklist](W05_sensor_mission_Setup_Checklist.pdf) · [Class packet](../../02_Student/Printouts/W05_Class_Print_Packet.pdf) | A road across a dark strip with a delivery bay |
+| 5 | [Stop at the delivery strip](W05_sensor_mission_Guide.md) | [Setup checklist](W05_sensor_mission_Setup_Checklist.pdf) · [Class packet](../../02_Student/Printouts/W05_Class_Print_Packet.pdf) | A tipping tray with an optional automatic release |
 | 6 | [A rescue attachment](W06_rescue_Checklist.md) | [Setup checklist](W06_rescue_Checklist.pdf) · [Class packet](../../02_Student/Printouts/W06_Class_Print_Packet.pdf) | A rescue scoop or guide |
 | 7 | [Timed delivery](W07_speed_trial_Checklist.md) | [Checklist](W07_speed_trial_Checklist.pdf) · [Class packet](../../02_Student/Printouts/W07_speed_trial_Class_Print_Packet.pdf) | A removable cargo cradle |
 | 8 | [Robot showcase](W08_showcase_Checklist.md) | [Checklist](W08_showcase_Checklist.pdf) · [Timed showcase packet](../../02_Student/Printouts/W08_Class_Print_Packet.pdf) | A working exhibit for the showcase |
